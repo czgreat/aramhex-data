@@ -1,0 +1,206 @@
+{
+ "datasets": [
+  {
+   "bands": true,
+   "files": {
+    "augments.json": {
+     "sha256": "36ee16f363c9d25d9590fa8f78b3fe960289903c130eb6654a08faea0ed17f78",
+     "size": 13261
+    },
+    "bands/casual/hero_augments.json": {
+     "sha256": "afa84f6bff46c9562ad1139dc8b4fe99d2812a92753b7b12b1990a2587c369bf",
+     "size": 2160996
+    },
+    "bands/casual/heroes.json": {
+     "sha256": "ce437b49ecc5818ab6158ae6461c01afdc3105c2be061ee2e6ec3a85083f7128",
+     "size": 28149
+    },
+    "bands/high/hero_augments.json": {
+     "sha256": "a974b21030bdba6d682ff0a767fb10c18f2b6e956495e7c1fd17ef851aad136e",
+     "size": 2106974
+    },
+    "bands/high/heroes.json": {
+     "sha256": "2874b405de7a9eb0ccacedbe16732d10edeae851040a9974ad76f3db2419b3aa",
+     "size": 27819
+    },
+    "bands/mid/hero_augments.json": {
+     "sha256": "313de0b85ce5b3de3d232566f03aaf6ab042b903d11a872ee8e84b8069a30c07",
+     "size": 2150866
+    },
+    "bands/mid/heroes.json": {
+     "sha256": "e1e0ecc2f4af535c0f4770998bf70a96b2bda42a32a35847cc8eb2207769a600",
+     "size": 28080
+    },
+    "bands/top/hero_augments.json": {
+     "sha256": "2231f04f90493b212f4bee774a413e62c45e61a2fed69d0b167f2bfe38373086",
+     "size": 2052688
+    },
+    "bands/top/heroes.json": {
+     "sha256": "72094e3ca13e9d7aaa4566a0e0613d75af3e0e9b42fd0c24e369b8d735f8bdc7",
+     "size": 27527
+    },
+    "hero_augments.json": {
+     "sha256": "ee217fc9bff40185e61694e8474c2d48bd106b87238b2afe987761c5d11b7677",
+     "size": 2174283
+    },
+    "heroes.json": {
+     "sha256": "b9cc152c908e7ee31b38c50a77306958bc622b83857dbbb0d694aa9b3722e931",
+     "size": 28234
+    },
+    "meta.json": {
+     "sha256": "a2510c2967c160d64540c6ffd2368cdbe7dcdff890177ae48e6c3fbe34c35b79",
+     "size": 5081
+    }
+   },
+   "label": "16.20 版本 · 常规",
+   "matches": 31102901,
+   "matches_detail": {
+    "collected": 32311331,
+    "excluded": 1208430,
+    "valid": 31102901,
+    "validity_rule": "对局时长不少于 4 分钟（240 秒）、10 名玩家齐全且正好 5 胜 5 负、正常结束（GameComplete）；重开、提前解散、数据不全的对局不计"
+   },
+   "mode": "normal",
+   "mode_label": "常规",
+   "mode_rule": "常规规则。",
+   "notes": [],
+   "patch": "16.20",
+   "path": "patches/16.20/normal",
+   "regions": [
+    "联盟二区",
+    "艾欧尼亚",
+    "联盟一区",
+    "联盟三区",
+    "联盟四区",
+    "黑色玫瑰",
+    "联盟五区"
+   ],
+   "schema_version": 1,
+   "snapshot_at": "2026-10-16T09:15:50+08:00",
+   "window": {
+    "end_exclusive": "2026-10-16T06:00:00+08:00",
+    "periods": null,
+    "start": "2026-10-09T08:14:00+08:00",
+    "time_field": "对局创建时间（北京时间）"
+   }
+  },
+  {
+   "bands": false,
+   "files": {
+    "augments.json": {
+     "sha256": "d726113be4b68ec9456cf3f9a70464d728ad61b4ddbdd5e33e388208c0b5dddc",
+     "size": 13326
+    },
+    "hero_augments.json": {
+     "sha256": "1ca15455e54ded8f9e3d903eb66cc59745ad9b97bee7c3c5395c4c443a192b59",
+     "size": 2182833
+    },
+    "heroes.json": {
+     "sha256": "a78c16eb82a37c75db00564d4fdd3ae9059a305aaa5f969a7f9d3a0c534be3bf",
+     "size": 28185
+    },
+    "meta.json": {
+     "sha256": "eee9ee201faa61527713be1b2f313d5eacd417fe63a522e38db827faf56bc96f",
+     "size": 2265
+    }
+   },
+   "label": "16.19 版本 · 常规",
+   "matches": 20357328,
+   "matches_detail": {
+    "collected": 21169462,
+    "excluded": 812134,
+    "valid": 20357328,
+    "validity_rule": "对局时长不少于 4 分钟（240 秒）、10 名玩家齐全且正好 5 胜 5 负、正常结束（GameComplete）；重开、提前解散、数据不全的对局不计"
+   },
+   "mode": "normal",
+   "mode_label": "常规",
+   "mode_rule": "常规规则（国庆活动开始前的对局）。",
+   "notes": [],
+   "patch": "16.19",
+   "path": "patches/16.19/normal",
+   "regions": [
+    "联盟二区",
+    "艾欧尼亚",
+    "联盟一区",
+    "联盟三区",
+    "联盟四区",
+    "联盟五区"
+   ],
+   "schema_version": 1,
+   "snapshot_at": "2026-10-08T20:56:19+08:00",
+   "window": {
+    "end_exclusive": "2026-09-30T15:00:00+08:00",
+    "periods": null,
+    "start": "2026-09-23T07:33:39+08:00",
+    "time_field": "对局创建时间（北京时间）"
+   }
+  },
+  {
+   "bands": false,
+   "files": {
+    "augments.json": {
+     "sha256": "d726113be4b68ec9456cf3f9a70464d728ad61b4ddbdd5e33e388208c0b5dddc",
+     "size": 13326
+    },
+    "hero_augments.json": {
+     "sha256": "cb6f5b662e3c419b2615b6a67b7facc2e62fd144f89f939c18416370bbc934df",
+     "size": 2155718
+    },
+    "heroes.json": {
+     "sha256": "87c5ddb0a511b22c5c352d8a05c12373214ed7cdcb68dab62122b54875cd77fe",
+     "size": 28003
+    },
+    "meta.json": {
+     "sha256": "6d9bcc6e9dcee4a7fd9016489ca12cf3324bec92fa1392ca8ad124ba135f3a8f",
+     "size": 2761
+    }
+   },
+   "label": "16.19 版本 · 活动：首次必棱彩",
+   "matches": 7023345,
+   "matches_detail": {
+    "collected": 7265353,
+    "excluded": 242008,
+    "valid": 7023345,
+    "validity_rule": "对局时长不少于 4 分钟（240 秒）、10 名玩家齐全且正好 5 胜 5 负、正常结束（GameComplete）；重开、提前解散、数据不全的对局不计"
+   },
+   "mode": "first-prismatic",
+   "mode_label": "活动：首次必棱彩",
+   "mode_rule": "国庆活动期间，每局第一次海克斯三选一必定是棱彩。两段活动期合计，中间的金色刷新期不计。",
+   "notes": [
+    "快照时（2026-10-07 15:36）统计时间段还没结束，只包含截至快照时已采到的对局。"
+   ],
+   "patch": "16.19",
+   "path": "patches/16.19/first-prismatic",
+   "regions": [
+    "联盟二区",
+    "艾欧尼亚",
+    "联盟一区",
+    "联盟三区",
+    "联盟四区",
+    "联盟五区"
+   ],
+   "schema_version": 1,
+   "snapshot_at": "2026-10-07T15:36:11+08:00",
+   "window": {
+    "end_exclusive": "2026-10-08T15:00:00+08:00",
+    "periods": [
+     {
+      "end_exclusive": "2026-10-03T15:00:00+08:00",
+      "start": "2026-09-30T15:30:00+08:00",
+      "valid_matches": 6789267
+     },
+     {
+      "end_exclusive": "2026-10-08T15:00:00+08:00",
+      "start": "2026-10-06T15:30:00+08:00",
+      "valid_matches": 234078
+     }
+    ],
+    "start": "2026-09-30T15:30:00+08:00",
+    "time_field": "对局创建时间（北京时间）"
+   }
+  }
+ ],
+ "latest": "patches/16.20/normal",
+ "latest_seq": 1,
+ "schema_version": 1
+}

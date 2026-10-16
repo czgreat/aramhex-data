@@ -1,0 +1,4 @@
+# 数据文件按原样保存：latest.json / meta.json 里记的 SHA-256 必须和下载到的字节一致
+*.json -text
+*.csv -text
+

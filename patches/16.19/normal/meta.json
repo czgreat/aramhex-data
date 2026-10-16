@@ -1,0 +1,52 @@
+{
+ "augment_exposure": "对局结束时持有；同一玩家六个槽位去重，任意槽位持有即计入",
+ "bands": null,
+ "excluded_augments": {},
+ "files": {
+  "augments.json": "d726113be4b68ec9456cf3f9a70464d728ad61b4ddbdd5e33e388208c0b5dddc",
+  "hero_augments.csv": "50706a9c4fee438655dcf3da860d7a8a8be47ea7e7afa7cbe289ec12d6f9b84d",
+  "hero_augments.json": "1ca15455e54ded8f9e3d903eb66cc59745ad9b97bee7c3c5395c4c443a192b59",
+  "heroes.csv": "5f9b0d617f2ddabc87cdbf874ff8846b967d82fc18ca89d4adef69d853838325",
+  "heroes.json": "a78c16eb82a37c75db00564d4fdd3ae9059a305aaa5f969a7f9d3a0c534be3bf"
+ },
+ "hero_participations": 203573280,
+ "heroes": 173,
+ "label": "16.19 版本 · 常规",
+ "license": "CC BY-NC 4.0",
+ "limitations": [
+  "只统计我们采集到的对局，不是全服数据。",
+  "只计有效对局：对局时长不少于 4 分钟（240 秒）、10 名玩家齐全且正好 5 胜 5 负、正常结束（GameComplete）；重开、提前解散、数据不全的对局不计。",
+  "海克斯按对局结束时持有的计算：同一玩家的六个海克斯槽位去重，任意槽位持有即计入。",
+  "持有某个海克斯和赢下对局是相关关系，不代表拿了它就会赢。",
+  "各大区的样本直接合在一起计算，没有按区加权；每份数据覆盖哪些区见 regions。",
+  "样本少的组合（low_sample 为 true，或局数很少）胜率波动大，请谨慎参考。"
+ ],
+ "matches": {
+  "collected": 21169462,
+  "excluded": 812134,
+  "valid": 20357328,
+  "validity_rule": "对局时长不少于 4 分钟（240 秒）、10 名玩家齐全且正好 5 胜 5 负、正常结束（GameComplete）；重开、提前解散、数据不全的对局不计"
+ },
+ "mode": "normal",
+ "mode_label": "常规",
+ "mode_rule": "常规规则（国庆活动开始前的对局）。",
+ "notes": [],
+ "patch": "16.19",
+ "regions": [
+  "联盟二区",
+  "艾欧尼亚",
+  "联盟一区",
+  "联盟三区",
+  "联盟四区",
+  "联盟五区"
+ ],
+ "regions_combined": true,
+ "schema_version": 1,
+ "snapshot_at": "2026-10-08T20:56:19+08:00",
+ "window": {
+  "end_exclusive": "2026-09-30T15:00:00+08:00",
+  "periods": null,
+  "start": "2026-09-23T07:33:39+08:00",
+  "time_field": "对局创建时间（北京时间）"
+ }
+}
