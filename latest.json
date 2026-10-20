@@ -14,12 +14,12 @@
    "size": 28175
   },
   "bands/high/hero_augments.json": {
-   "sha256": "c01aa5817d631b8b7855a6a56e7403474442bce161aa9441a062101a0ffbe81c",
-   "size": 2112571
+   "sha256": "f5e8c33cda7764242317133ed82e57ad7efec3063f31572158e37f0d34608239",
+   "size": 2115728
   },
   "bands/high/heroes.json": {
-   "sha256": "aa36a736c4af6b0b4d48a6c61446e9e88e6d7587c8680bd73191c34892625baf",
-   "size": 27859
+   "sha256": "18a544043e44660bc7135ae7ef59264dec82abd8242aded6d99816ceb033ba00",
+   "size": 27889
   },
   "bands/mid/hero_augments.json": {
    "sha256": "1e0b2e873e39596443d442aba74f7a374e27fc4ae9ce885c7509452feabc4d9e",
@@ -30,12 +30,12 @@
    "size": 28091
   },
   "bands/top/hero_augments.json": {
-   "sha256": "e845ad94d0eaf36d85f29ae520322d40f2d9f5960be42c7e507fd778b1f32a42",
-   "size": 2059064
+   "sha256": "f5e8c33cda7764242317133ed82e57ad7efec3063f31572158e37f0d34608239",
+   "size": 2115728
   },
   "bands/top/heroes.json": {
-   "sha256": "be6a1e38ca3c5e5014bd67d06e24300f3c1f16ca3651364dbae9d514bc54be4d",
-   "size": 27572
+   "sha256": "18a544043e44660bc7135ae7ef59264dec82abd8242aded6d99816ceb033ba00",
+   "size": 27889
   },
   "hero_augments.json": {
    "sha256": "6753bf6d85c31e8fb2229fa4bac4906b79c0f9a004d8ed6e27491a81003bf4e3",
@@ -46,8 +46,8 @@
    "size": 28282
   },
   "meta.json": {
-   "sha256": "04c3736c7e7e94eb98606d978e0b6c2de4dfc6a8cefc95c8e2d5f3d0f3273ff6",
-   "size": 5081
+   "sha256": "4ec815385c66899b0af0b744084126362c8a46cd4fe87905a6459a67d23c405c",
+   "size": 5542
   }
  },
  "matches": 36992962,
@@ -62,8 +62,8 @@
  "patch": "16.20",
  "path": "patches/16.20/normal",
  "schema_version": 1,
- "seq": 2,
- "snapshot_at": "2026-10-17T18:51:45+08:00",
+ "seq": 3,
+ "snapshot_at": "2026-10-17T18:52:45+08:00",
  "window": {
   "end_exclusive": "2026-10-17T17:00:00+08:00",
   "periods": null,
