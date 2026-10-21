@@ -3,36 +3,36 @@
  "bands": {
   "bands": {
    "casual": {
-    "hero_participations": 205472690,
+    "hero_participations": 279432058,
     "hint": "区内多数玩家（约 64%）",
     "label": "娱乐",
     "max_score_exclusive": 1600,
     "min_score": 0
    },
    "high": {
-    "hero_participations": 27791773,
-    "hint": "区内排名前 5%（2400 分以上，高分和顶尖合并）",
-    "label": "高分及以上",
+    "hero_participations": 38698340,
+    "hint": "区内排名前 5%（2400 分以上）",
+    "label": "前 5%",
     "max_score_exclusive": null,
     "min_score": 2400
    },
    "mid": {
-    "hero_participations": 141114177,
+    "hero_participations": 195117522,
     "hint": "区内排名前 5–36%",
     "label": "中分",
     "max_score_exclusive": 2400,
     "min_score": 1600
    },
    "top": {
-    "hero_participations": 27791773,
-    "hint": "区内排名前 5%（2400 分以上，高分和顶尖合并）",
-    "label": "高分及以上",
+    "hero_participations": 38698340,
+    "hint": "区内排名前 5%（2400 分以上）",
+    "label": "前 5%",
     "max_score_exclusive": null,
     "min_score": 2400
    }
   },
-  "note": "分段按玩家在所在区的「同局关系显示分」划分（根据同局胜负关系推算，各区分别计算），不是官方段位。娱乐：区内多数玩家（约 64%）；中分：前 5–36%；高分：前 0.6–5%；顶尖：前 0.6%。10-20 起高分和顶尖合并为 2400 分以上（区内前 5%），bands/high 和 bands/top 内容相同。",
-  "score_as_of": "2026-10-17T19:55:27+08:00"
+  "note": "分段按玩家在所在区的「同局关系显示分」划分（根据同局胜负关系推算，各区分别计算），不是官方段位。娱乐：区内多数玩家（约 64%）；中分：前 5–36%；前 5%：显示分 2400 以上（bands/high 和 bands/top 相同）。",
+  "score_as_of": "2026-10-20T19:57:01+08:00"
  },
  "excluded_augments": {
   "1337": {
@@ -42,28 +42,28 @@
  },
  "files": {
   "augments.json": "36ee16f363c9d25d9590fa8f78b3fe960289903c130eb6654a08faea0ed17f78",
-  "bands/casual/hero_augments.csv": "0137521e663d3cdd428c2ce4f3831c343203076fe187284b71654b53406c48b4",
-  "bands/casual/hero_augments.json": "9ab754e98e5fbc2128e10a407424c57a8fdf1989e070d2abe9f65e7fe09665af",
-  "bands/casual/heroes.csv": "a91ec21ec343be725b83bc03729ba5413783b86dc03c7cd86975b07d33fb6a7a",
-  "bands/casual/heroes.json": "1a8047e3e5c900980de1e295ac75d79a6cce83d5a5de487a85388d29255b673a",
-  "bands/high/hero_augments.csv": "a2bad3cf8301131e5b5d7736b8bbb3900bca2371f6f733e15efefb2252885717",
-  "bands/high/hero_augments.json": "f5e8c33cda7764242317133ed82e57ad7efec3063f31572158e37f0d34608239",
-  "bands/high/heroes.csv": "70c47ac7e6b14f8b9e1fc045f62f0aac35920fc6408f151e658055861273b6ae",
-  "bands/high/heroes.json": "18a544043e44660bc7135ae7ef59264dec82abd8242aded6d99816ceb033ba00",
-  "bands/mid/hero_augments.csv": "f6432b13af9f21e46e507a9fa5fcc2d56f554ea82060bebaf9a9febf358055a2",
-  "bands/mid/hero_augments.json": "1e0b2e873e39596443d442aba74f7a374e27fc4ae9ce885c7509452feabc4d9e",
-  "bands/mid/heroes.csv": "41404bfeff8923ad7d14aae7124c1ce441a73e25ba52068b4f0aa98aa024a8c4",
-  "bands/mid/heroes.json": "1710683c1a3540053d266126d7f4e4f107b0db6621c6a74f468635a1a4a6a99a",
-  "bands/top/hero_augments.csv": "a2bad3cf8301131e5b5d7736b8bbb3900bca2371f6f733e15efefb2252885717",
-  "bands/top/hero_augments.json": "f5e8c33cda7764242317133ed82e57ad7efec3063f31572158e37f0d34608239",
-  "bands/top/heroes.csv": "70c47ac7e6b14f8b9e1fc045f62f0aac35920fc6408f151e658055861273b6ae",
-  "bands/top/heroes.json": "18a544043e44660bc7135ae7ef59264dec82abd8242aded6d99816ceb033ba00",
-  "hero_augments.csv": "fa85ea9062f5fe45baa50186a91d1b2396969a812f57c1f7b7e897a69409adad",
-  "hero_augments.json": "6753bf6d85c31e8fb2229fa4bac4906b79c0f9a004d8ed6e27491a81003bf4e3",
-  "heroes.csv": "8d7e8d64f9e099c0711c0bed64f59366c3a97bea6238ab68e0cda0ba8102055e",
-  "heroes.json": "da1aecd0bdf1f0bde21f2b24147833187b4021bd122b6303ee58a08025643320"
+  "bands/casual/hero_augments.csv": "e83f99852e0afd47ec9b58c198ab462ca42aa369dcf66bc1d0bc30b3cf8c57f5",
+  "bands/casual/hero_augments.json": "932f980c0739ad28f6b8d766f11641c946ef68099ed92709cc5bd99872b82640",
+  "bands/casual/heroes.csv": "119eb3c2d4f25933933f9848a165cdcca5be0f882a202a69feed6669ef69b550",
+  "bands/casual/heroes.json": "756c26e62f0a8bcfefc0017fd6a171dfeb91e9c06957a1a80cd90d103cbddac2",
+  "bands/high/hero_augments.csv": "6cc21dff03d2c1244a4fad0ebed177d456d3bffc8f8e0d72e28c7a32cc6f5df4",
+  "bands/high/hero_augments.json": "4cd6851f521dfb8d006ea6e8a5daf2dc5cb585ecf41153a862a430bbe7534ddf",
+  "bands/high/heroes.csv": "347f99f127b96133ede13ddf923b2a28edaef86ce1bb8f5b7a61811084bb646c",
+  "bands/high/heroes.json": "b46abc763416553675f6246c69f2dc69559567cde02196caa6404aadb3856d83",
+  "bands/mid/hero_augments.csv": "2e780fdc9cb2bddf96b6f66d72a3e3f3000dd7256021ab3a85ab2b76c3fa6902",
+  "bands/mid/hero_augments.json": "460d6204a43632354eb00155110d02a730f7fe69f24d19020767b035ee714343",
+  "bands/mid/heroes.csv": "5b2d9ad66e865a69a39a40bbfbdfab7244409567f0785f608f7a36d97eb24743",
+  "bands/mid/heroes.json": "c96bcb55f2642bd8b973b52ed9f792964d774fd1300af8dc22bd83ac5873d5a0",
+  "bands/top/hero_augments.csv": "6cc21dff03d2c1244a4fad0ebed177d456d3bffc8f8e0d72e28c7a32cc6f5df4",
+  "bands/top/hero_augments.json": "4cd6851f521dfb8d006ea6e8a5daf2dc5cb585ecf41153a862a430bbe7534ddf",
+  "bands/top/heroes.csv": "347f99f127b96133ede13ddf923b2a28edaef86ce1bb8f5b7a61811084bb646c",
+  "bands/top/heroes.json": "b46abc763416553675f6246c69f2dc69559567cde02196caa6404aadb3856d83",
+  "hero_augments.csv": "2b4ff88d608985f5eb7028421f4a31a3ebd0622ca70d8f0bd7c0667518ca3110",
+  "hero_augments.json": "3a7896c0dbe4dbfcf81c3808404e59e6033aa7798945015b913493d136057d74",
+  "heroes.csv": "87734e315997132ee3352cf1beabfecff7de92c4789e129749a22968903f4ea9",
+  "heroes.json": "1e39be7d1a0c1650db8e358c5530fce56ca46a37c1ccc8b36f47c98a20ed18f0"
  },
- "hero_participations": 369929620,
+ "hero_participations": 505701660,
  "heroes": 173,
  "label": "16.20 版本 · 常规",
  "license": "CC BY-NC 4.0",
@@ -76,16 +76,16 @@
   "样本少的组合（low_sample 为 true，或局数很少）胜率波动大，请谨慎参考。"
  ],
  "matches": {
-  "collected": 38581953,
-  "excluded": 1588991,
-  "valid": 36992962,
+  "collected": 52538428,
+  "excluded": 1968262,
+  "valid": 50570166,
   "validity_rule": "对局时长不少于 4 分钟（240 秒）、10 名玩家齐全且正好 5 胜 5 负、正常结束（GameComplete）；重开、提前解散、数据不全的对局不计"
  },
  "mode": "normal",
  "mode_label": "常规",
  "mode_rule": "常规规则。",
  "notes": [
-  "2026-10-20 重新发布：高分（high）和顶尖（top）分段合并为 2400 分以上，两个目录内容相同（顶尖分段样本太少，单个英雄×海克斯常只有几局）。全体和其他分段数据与 10-17 版完全相同。"
+  "分段只分三档：娱乐、中分、前 5%。前 5% 是区内显示分 2400 分以上的玩家，bands/high 和 bands/top 内容相同（原来的顶尖分段样本太少，单个英雄×海克斯常只有几局，10-20 起合并）。"
  ],
  "patch": "16.20",
  "regions": [
@@ -99,9 +99,9 @@
  ],
  "regions_combined": true,
  "schema_version": 1,
- "snapshot_at": "2026-10-17T18:52:45+08:00",
+ "snapshot_at": "2026-10-20T16:13:54+08:00",
  "window": {
-  "end_exclusive": "2026-10-17T17:00:00+08:00",
+  "end_exclusive": "2026-10-20T15:00:00+08:00",
   "periods": null,
   "start": "2026-10-09T08:14:00+08:00",
   "time_field": "对局创建时间（北京时间）"

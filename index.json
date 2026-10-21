@@ -8,63 +8,63 @@
      "size": 13261
     },
     "bands/casual/hero_augments.json": {
-     "sha256": "9ab754e98e5fbc2128e10a407424c57a8fdf1989e070d2abe9f65e7fe09665af",
-     "size": 2165419
+     "sha256": "932f980c0739ad28f6b8d766f11641c946ef68099ed92709cc5bd99872b82640",
+     "size": 2171964
     },
     "bands/casual/heroes.json": {
-     "sha256": "1a8047e3e5c900980de1e295ac75d79a6cce83d5a5de487a85388d29255b673a",
-     "size": 28175
+     "sha256": "756c26e62f0a8bcfefc0017fd6a171dfeb91e9c06957a1a80cd90d103cbddac2",
+     "size": 28214
     },
     "bands/high/hero_augments.json": {
-     "sha256": "f5e8c33cda7764242317133ed82e57ad7efec3063f31572158e37f0d34608239",
-     "size": 2115728
+     "sha256": "4cd6851f521dfb8d006ea6e8a5daf2dc5cb585ecf41153a862a430bbe7534ddf",
+     "size": 2124073
     },
     "bands/high/heroes.json": {
-     "sha256": "18a544043e44660bc7135ae7ef59264dec82abd8242aded6d99816ceb033ba00",
-     "size": 27889
+     "sha256": "b46abc763416553675f6246c69f2dc69559567cde02196caa6404aadb3856d83",
+     "size": 27931
     },
     "bands/mid/hero_augments.json": {
-     "sha256": "1e0b2e873e39596443d442aba74f7a374e27fc4ae9ce885c7509452feabc4d9e",
-     "size": 2155758
+     "sha256": "460d6204a43632354eb00155110d02a730f7fe69f24d19020767b035ee714343",
+     "size": 2163072
     },
     "bands/mid/heroes.json": {
-     "sha256": "1710683c1a3540053d266126d7f4e4f107b0db6621c6a74f468635a1a4a6a99a",
-     "size": 28091
+     "sha256": "c96bcb55f2642bd8b973b52ed9f792964d774fd1300af8dc22bd83ac5873d5a0",
+     "size": 28178
     },
     "bands/top/hero_augments.json": {
-     "sha256": "f5e8c33cda7764242317133ed82e57ad7efec3063f31572158e37f0d34608239",
-     "size": 2115728
+     "sha256": "4cd6851f521dfb8d006ea6e8a5daf2dc5cb585ecf41153a862a430bbe7534ddf",
+     "size": 2124073
     },
     "bands/top/heroes.json": {
-     "sha256": "18a544043e44660bc7135ae7ef59264dec82abd8242aded6d99816ceb033ba00",
-     "size": 27889
+     "sha256": "b46abc763416553675f6246c69f2dc69559567cde02196caa6404aadb3856d83",
+     "size": 27931
     },
     "hero_augments.json": {
-     "sha256": "6753bf6d85c31e8fb2229fa4bac4906b79c0f9a004d8ed6e27491a81003bf4e3",
-     "size": 2177981
+     "sha256": "3a7896c0dbe4dbfcf81c3808404e59e6033aa7798945015b913493d136057d74",
+     "size": 2184437
     },
     "heroes.json": {
-     "sha256": "da1aecd0bdf1f0bde21f2b24147833187b4021bd122b6303ee58a08025643320",
-     "size": 28282
+     "sha256": "1e39be7d1a0c1650db8e358c5530fce56ca46a37c1ccc8b36f47c98a20ed18f0",
+     "size": 28332
     },
     "meta.json": {
-     "sha256": "4ec815385c66899b0af0b744084126362c8a46cd4fe87905a6459a67d23c405c",
-     "size": 5542
+     "sha256": "ddc0e002f5ceb73d1b6162f07c431137e7bf24d8c0c97b50ee7760b18188c5dc",
+     "size": 5385
     }
    },
    "label": "16.20 版本 · 常规",
-   "matches": 36992962,
+   "matches": 50570166,
    "matches_detail": {
-    "collected": 38581953,
-    "excluded": 1588991,
-    "valid": 36992962,
+    "collected": 52538428,
+    "excluded": 1968262,
+    "valid": 50570166,
     "validity_rule": "对局时长不少于 4 分钟（240 秒）、10 名玩家齐全且正好 5 胜 5 负、正常结束（GameComplete）；重开、提前解散、数据不全的对局不计"
    },
    "mode": "normal",
    "mode_label": "常规",
    "mode_rule": "常规规则。",
    "notes": [
-    "2026-10-20 重新发布：高分（high）和顶尖（top）分段合并为 2400 分以上，两个目录内容相同（顶尖分段样本太少，单个英雄×海克斯常只有几局）。全体和其他分段数据与 10-17 版完全相同。"
+    "分段只分三档：娱乐、中分、前 5%。前 5% 是区内显示分 2400 分以上的玩家，bands/high 和 bands/top 内容相同（原来的顶尖分段样本太少，单个英雄×海克斯常只有几局，10-20 起合并）。"
    ],
    "patch": "16.20",
    "path": "patches/16.20/normal",
@@ -78,9 +78,9 @@
     "联盟五区"
    ],
    "schema_version": 1,
-   "snapshot_at": "2026-10-17T18:52:45+08:00",
+   "snapshot_at": "2026-10-20T16:13:54+08:00",
    "window": {
-    "end_exclusive": "2026-10-17T17:00:00+08:00",
+    "end_exclusive": "2026-10-20T15:00:00+08:00",
     "periods": null,
     "start": "2026-10-09T08:14:00+08:00",
     "time_field": "对局创建时间（北京时间）"
@@ -203,6 +203,6 @@
   }
  ],
  "latest": "patches/16.20/normal",
- "latest_seq": 3,
+ "latest_seq": 4,
  "schema_version": 1
 }
