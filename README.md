@@ -7,6 +7,7 @@
 - 协议 [CC BY-NC 4.0](LICENSE)：可以自由使用、转载、改编，需注明来源，不能商用。
 - 写程序或让 AI 读数据，请先看 [AGENTS.md](AGENTS.md)。
 - 配套的桌面助手：[czgreat/aramhex](https://github.com/czgreat/aramhex)（安装版和便携版都内置发布时最新的数据）。
+- 在线查询（网页，按英雄或按海克斯）：[aramhex.com/data](https://aramhex.com/data/)。某个英雄每个海克斯的胜率打开 `https://aramhex.com/data/hero/英雄名/`（如 [亚索](https://aramhex.com/data/hero/%E4%BA%9A%E7%B4%A2/)），某个海克斯在每个英雄上的胜率打开 `https://aramhex.com/data/augment/海克斯名/`（如 [秘术冲拳](https://aramhex.com/data/augment/%E7%A7%98%E6%9C%AF%E5%86%B2%E6%8B%B3/)）。
 
 ## 当前数据
 
