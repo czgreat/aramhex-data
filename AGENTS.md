@@ -5,7 +5,7 @@
 
 ## 最快的读法
 
-1. 读 `latest.json`：`path` 是最新常规数据的目录（现在是 `patches/16.21-pbe/normal`），`files` 是这份数据的文件清单和 SHA-256，`seq` 是更新序号（每次数据更新加 1，并打 tag `data-v<seq>`，可以用 `@data-v<seq>` 取固定的一份）。
+1. 读 `latest.json`：`path` 是最新常规数据的目录（现在是 `patches/16.21/normal`），`files` 是这份数据的文件清单和 SHA-256，`seq` 是更新序号（每次数据更新加 1，并打 tag `data-v<seq>`，可以用 `@data-v<seq>` 取固定的一份）。
 2. 读 `<path>/heroes.json` 和 `<path>/hero_augments.json`。
 3. 要历史版本或活动规则的数据，读 `index.json` 的 `datasets`，按 `patch` 和 `mode` 挑。
 
@@ -30,3 +30,5 @@
 - 分数段不是官方段位，是按同局胜负关系推算的分数划分的。
 - 只统计采集到的对局，不是全服数据；各大区合计，没有按区加权（覆盖哪些区见 meta.json 的 regions）。
 - 每次下载后可以用 `files` 里的 SHA-256 校验文件是否完整。
+
+本期16.21使用全体正式服样本，9个暂无正式服样本的新海克斯单独保留测试服来源；召唤师技能组合只用正式服样本。完整口径见 [DATA-SOURCES-16.21.md](DATA-SOURCES-16.21.md)。
