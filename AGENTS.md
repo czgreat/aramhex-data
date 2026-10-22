@@ -5,7 +5,7 @@
 
 ## 最快的读法
 
-1. 读 `latest.json`：`path` 是最新常规数据的目录（现在是 `patches/16.20/normal`），`files` 是这份数据的文件清单和 SHA-256，`seq` 是更新序号（每次数据更新加 1，并打 tag `data-v<seq>`，可以用 `@data-v<seq>` 取固定的一份）。
+1. 读 `latest.json`：`path` 是最新常规数据的目录（现在是 `patches/16.21-pbe/normal`），`files` 是这份数据的文件清单和 SHA-256，`seq` 是更新序号（每次数据更新加 1，并打 tag `data-v<seq>`，可以用 `@data-v<seq>` 取固定的一份）。
 2. 读 `<path>/heroes.json` 和 `<path>/hero_augments.json`。
 3. 要历史版本或活动规则的数据，读 `index.json` 的 `datasets`，按 `patch` 和 `mode` 挑。
 
