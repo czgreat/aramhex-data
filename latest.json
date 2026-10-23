@@ -6,27 +6,27 @@
    "size": 14570
   },
   "hero_augments.json": {
-   "sha256": "c2ebc4c428258596d08a09a820ab41b863a089bfa5e12a9bb567215b5661d24e",
-   "size": 2282214
+   "sha256": "7aafc8dae79fa850356acc3369c512aea065553eca5c5e76bc45a489f1c30941",
+   "size": 2303161
   },
   "hero_spells.json": {
-   "sha256": "10420b6c82a139f83a225ea784133987cceebf697ac88c8f440230eaa49257b2",
-   "size": 169379
+   "sha256": "7005fbc9d2b097fded5c33f5b31604a5ce50f51e9f87aa68c4b0d42d4389940c",
+   "size": 204058
   },
   "heroes.json": {
-   "sha256": "b6331df088a7d327e43ee9400360b9c2f155b5a55c9eebbb6abf06ea7fc7795a",
-   "size": 27714
+   "sha256": "c101701e44585bda7d3f3f6fabd4bd3ec446d217eaac83dd70d9871e72f274f9",
+   "size": 27978
   },
   "meta.json": {
-   "sha256": "199bb2fc4667ff40896e98e10d9b4d0d2faa80fd2fd80a75360b94bd01d863d2",
-   "size": 7962
+   "sha256": "3c63e3bad6b78847a9736ec3bcd21fa325afadc6cdb07b6d55ff8e0c40baf2f1",
+   "size": 6561
   }
  },
- "matches": 1085596,
+ "matches": 5141715,
  "matches_detail": {
-  "collected": 1124509,
-  "excluded": 38913,
-  "valid": 1085596,
+  "collected": 5289394,
+  "excluded": 147679,
+  "valid": 5141715,
   "validity_rule": "对局时长不少于 4 分钟（240 秒）、10 名玩家齐全且正好 5 胜 5 负、正常结束（GameComplete）；重开、提前解散、数据不全的对局不计"
  },
  "mode": "normal",
@@ -34,14 +34,14 @@
  "patch": "16.21",
  "path": "patches/16.21/normal",
  "provisional": {
-  "augments": 9,
+  "augments": 4,
   "source": "测试服 16.21.828，10-16 17:35 – 10-21 20:13，29637 局"
  },
  "schema_version": 1,
- "seq": 7,
- "snapshot_at": "2026-10-22T17:33:16+08:00",
+ "seq": 8,
+ "snapshot_at": "2026-10-23T11:13:05+08:00",
  "window": {
-  "end_exclusive": "2026-10-22T17:30:00+08:00",
+  "end_exclusive": "2026-10-23T11:00:00+08:00",
   "periods": null,
   "start": "2026-10-22T04:06:00+08:00",
   "time_field": "对局创建时间（北京时间）"

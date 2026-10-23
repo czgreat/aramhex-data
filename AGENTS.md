@@ -17,6 +17,7 @@
 - 所有 JSON 都是 UTF-8，键是字符串。英雄 ID、海克斯 ID 和腾讯 / Riot 官方 ID 一致。
 - `heroes.json`：`{英雄ID: {name, title, games, wins, win_rate, pick_rate, rank}}`。
 - `hero_augments.json`：`{英雄ID: {海克斯ID: {games, wins, win_rate, low_sample}}}`。
+- `hero_spells.json`：`{英雄ID: {技能ID+技能ID: {games, wins}}}`，技能ID按数字排序、合并D/F顺序；只统计正式服有效参赛记录。
 - `augments.json`：`{海克斯ID: {name, rarity}}`，rarity 为 silver / gold / prismatic。
 - `bands/<casual|mid|high|top>/`：同样两张表，只统计对应分数段（娱乐 / 中分 / 高分 / 顶尖）玩家的出场。
 - `meta.json`：`matches.collected` 采到的对局，`matches.valid` 有效对局（参与统计），`window` 样本时间，`snapshot_at` 数据截至，`mode` / `mode_label` / `mode_rule` 规则，`limitations` 局限，`files` 各文件 SHA-256。
@@ -31,4 +32,4 @@
 - 只统计采集到的对局，不是全服数据；各大区合计，没有按区加权（覆盖哪些区见 meta.json 的 regions）。
 - 每次下载后可以用 `files` 里的 SHA-256 校验文件是否完整。
 
-本期16.21使用全体正式服样本，9个暂无正式服样本的新海克斯单独保留测试服来源；召唤师技能组合只用正式服样本。完整口径见 [DATA-SOURCES-16.21.md](DATA-SOURCES-16.21.md)。
+本期16.21使用全体正式服样本，仍暂无正式服样本的新海克斯单独保留测试服来源；召唤师技能组合只用正式服样本。完整口径见 [DATA-SOURCES-16.21.md](DATA-SOURCES-16.21.md)。
