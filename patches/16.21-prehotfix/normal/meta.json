@@ -52,8 +52,8 @@
   }
  },
  "files": {
-  "augments.json": "302740c60e441e11ed24614c6971d535429a9214ea742cd066a8fce7dc2d5d97",
-  "hero_augments.csv": "7cb6088055b4d1f10f40aa0e59a4a805679b852ae1f217a155aa2fc3a88904c1",
+  "augments.json": "1e2bad60ab48108c2e8b14ae77c7be0b8c30e08bef418a5f67f6f33fbe69aa6f",
+  "hero_augments.csv": "76898c6370ea59c890a188774bb5477ab425ed3f4314cd038b67190e238b8bb5",
   "hero_augments.json": "7aafc8dae79fa850356acc3369c512aea065553eca5c5e76bc45a489f1c30941",
   "hero_spells.csv": "5b6050193a9d57c2ddaa23027c47b8eb1061db084e16495ca334108f69b1cd0a",
   "hero_spells.json": "7005fbc9d2b097fded5c33f5b31604a5ce50f51e9f87aa68c4b0d42d4389940c",

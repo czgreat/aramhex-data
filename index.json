@@ -4,12 +4,12 @@
    "bands": true,
    "files": {
     "augments.json": {
-     "sha256": "e36c9c3d79eeee6bc99d07b4afdbeb3ff0a634121dc377454a43d205196e02d1",
-     "size": 13637
+     "sha256": "1864f84a246efab8e08e5c8c44a14e89dbd4f6b8ba52a718b394e3021cc96245",
+     "size": 13632
     },
     "bands/casual/augments.json": {
-     "sha256": "e36c9c3d79eeee6bc99d07b4afdbeb3ff0a634121dc377454a43d205196e02d1",
-     "size": 13637
+     "sha256": "1864f84a246efab8e08e5c8c44a14e89dbd4f6b8ba52a718b394e3021cc96245",
+     "size": 13632
     },
     "bands/casual/hero_augments.json": {
      "sha256": "bd6efac9405bcfcc760e24c7b277402be4b6a1d235ac530cd64b7620dfcbeba2",
@@ -24,8 +24,8 @@
      "size": 28067
     },
     "bands/high/augments.json": {
-     "sha256": "e36c9c3d79eeee6bc99d07b4afdbeb3ff0a634121dc377454a43d205196e02d1",
-     "size": 13637
+     "sha256": "1864f84a246efab8e08e5c8c44a14e89dbd4f6b8ba52a718b394e3021cc96245",
+     "size": 13632
     },
     "bands/high/hero_augments.json": {
      "sha256": "444a655760e81c6b84fd4adfa1f9fd969f5fd908c4caee4e85de1e7097436202",
@@ -40,8 +40,8 @@
      "size": 27795
     },
     "bands/mid/augments.json": {
-     "sha256": "e36c9c3d79eeee6bc99d07b4afdbeb3ff0a634121dc377454a43d205196e02d1",
-     "size": 13637
+     "sha256": "1864f84a246efab8e08e5c8c44a14e89dbd4f6b8ba52a718b394e3021cc96245",
+     "size": 13632
     },
     "bands/mid/hero_augments.json": {
      "sha256": "19b89ac71bdc2a780b29ecb382a294e0ebf8d3658c52acf3d99d1da7e509f4ab",
@@ -56,8 +56,8 @@
      "size": 28023
     },
     "bands/top/augments.json": {
-     "sha256": "e36c9c3d79eeee6bc99d07b4afdbeb3ff0a634121dc377454a43d205196e02d1",
-     "size": 13637
+     "sha256": "1864f84a246efab8e08e5c8c44a14e89dbd4f6b8ba52a718b394e3021cc96245",
+     "size": 13632
     },
     "bands/top/hero_augments.json": {
      "sha256": "444a655760e81c6b84fd4adfa1f9fd969f5fd908c4caee4e85de1e7097436202",
@@ -84,7 +84,7 @@
      "size": 28171
     },
     "meta.json": {
-     "sha256": "fe3f38bc2b95304809464da4d70575ee22e485f21d28e8c791d86d8d6a09b1ee",
+     "sha256": "4c92e6334087f84efd7c550a14a49c0812e316903c1662ed424d1a275c3acfdc",
      "size": 7377
     }
    },
@@ -130,8 +130,8 @@
    "bands": false,
    "files": {
     "augments.json": {
-     "sha256": "302740c60e441e11ed24614c6971d535429a9214ea742cd066a8fce7dc2d5d97",
-     "size": 14570
+     "sha256": "1e2bad60ab48108c2e8b14ae77c7be0b8c30e08bef418a5f67f6f33fbe69aa6f",
+     "size": 14565
     },
     "hero_augments.json": {
      "sha256": "7aafc8dae79fa850356acc3369c512aea065553eca5c5e76bc45a489f1c30941",
@@ -146,7 +146,7 @@
      "size": 27978
     },
     "meta.json": {
-     "sha256": "3c63e3bad6b78847a9736ec3bcd21fa325afadc6cdb07b6d55ff8e0c40baf2f1",
+     "sha256": "842e35f3c1892c3e2cfabe7bc77764932e1cf61ca02288b9299efec736042edb",
      "size": 6561
     }
    },
@@ -196,8 +196,8 @@
    "bands": true,
    "files": {
     "augments.json": {
-     "sha256": "e415add6165bb48d812a28e9fe24ff24df4950c09e08a3e2749195f820427071",
-     "size": 15596
+     "sha256": "9a0929fd86ff1d225a10e209eb507a0022e7b31eead80749f90d522b316980cd",
+     "size": 15591
     },
     "bands/casual/hero_augments.json": {
      "sha256": "bd367edd938f49db19589573b7b2c35b1af81608fad54b85b13989839b59eb2e",
@@ -240,7 +240,7 @@
      "size": 28332
     },
     "meta.json": {
-     "sha256": "c494f85e4197f83c9e6b5efb4a73ff80d0ac2da705722da3cc2a5f6477a2c36a",
+     "sha256": "b5dfb5c8e81b1a107fb4d467b0237fa0094709d05a0732e18568383bfdc1d985",
      "size": 12623
     }
    },
@@ -275,8 +275,8 @@
    "bands": true,
    "files": {
     "augments.json": {
-     "sha256": "36ee16f363c9d25d9590fa8f78b3fe960289903c130eb6654a08faea0ed17f78",
-     "size": 13261
+     "sha256": "2bd78c6b54acc00dfd643898bcf8b508cdb89817403a0c4d512e90be795b3539",
+     "size": 13256
     },
     "bands/casual/hero_augments.json": {
      "sha256": "932f980c0739ad28f6b8d766f11641c946ef68099ed92709cc5bd99872b82640",
@@ -319,7 +319,7 @@
      "size": 28332
     },
     "meta.json": {
-     "sha256": "ddc0e002f5ceb73d1b6162f07c431137e7bf24d8c0c97b50ee7760b18188c5dc",
+     "sha256": "66a3fa43affe618a2c269a7afc5fe5b7a23da09a7c03d71094a62cdb952f9f40",
      "size": 5385
     }
    },
@@ -361,8 +361,8 @@
    "bands": false,
    "files": {
     "augments.json": {
-     "sha256": "d726113be4b68ec9456cf3f9a70464d728ad61b4ddbdd5e33e388208c0b5dddc",
-     "size": 13326
+     "sha256": "4183fe222610017ae6e2e3b44c4a549a719337fd04227128800283d3c31c4075",
+     "size": 13321
     },
     "hero_augments.json": {
      "sha256": "1ca15455e54ded8f9e3d903eb66cc59745ad9b97bee7c3c5395c4c443a192b59",
@@ -373,7 +373,7 @@
      "size": 28185
     },
     "meta.json": {
-     "sha256": "eee9ee201faa61527713be1b2f313d5eacd417fe63a522e38db827faf56bc96f",
+     "sha256": "3a310ed37bd0a9ca6b84219670da9b0fdb63b8826d0d7086c097f5dbea6bd569",
      "size": 2265
     }
    },
@@ -412,8 +412,8 @@
    "bands": false,
    "files": {
     "augments.json": {
-     "sha256": "d726113be4b68ec9456cf3f9a70464d728ad61b4ddbdd5e33e388208c0b5dddc",
-     "size": 13326
+     "sha256": "4183fe222610017ae6e2e3b44c4a549a719337fd04227128800283d3c31c4075",
+     "size": 13321
     },
     "hero_augments.json": {
      "sha256": "cb6f5b662e3c419b2615b6a67b7facc2e62fd144f89f939c18416370bbc934df",
@@ -424,7 +424,7 @@
      "size": 28003
     },
     "meta.json": {
-     "sha256": "6d9bcc6e9dcee4a7fd9016489ca12cf3324bec92fa1392ca8ad124ba135f3a8f",
+     "sha256": "f794a05d382ba52498a1d2a904c0902d4753950b8427e034398f4d6bd0ee4638",
      "size": 2761
     }
    },

@@ -3,8 +3,8 @@
  "bands": null,
  "excluded_augments": {},
  "files": {
-  "augments.json": "d726113be4b68ec9456cf3f9a70464d728ad61b4ddbdd5e33e388208c0b5dddc",
-  "hero_augments.csv": "50706a9c4fee438655dcf3da860d7a8a8be47ea7e7afa7cbe289ec12d6f9b84d",
+  "augments.json": "4183fe222610017ae6e2e3b44c4a549a719337fd04227128800283d3c31c4075",
+  "hero_augments.csv": "0132a3e664a4c410ce682f1eec42b542b600c1f4e704fb338b6fd9cf6370f7bf",
   "hero_augments.json": "1ca15455e54ded8f9e3d903eb66cc59745ad9b97bee7c3c5395c4c443a192b59",
   "heroes.csv": "5f9b0d617f2ddabc87cdbf874ff8846b967d82fc18ca89d4adef69d853838325",
   "heroes.json": "a78c16eb82a37c75db00564d4fdd3ae9059a305aaa5f969a7f9d3a0c534be3bf"

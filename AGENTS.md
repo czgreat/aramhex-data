@@ -18,7 +18,7 @@
 - `heroes.json`：`{英雄ID: {name, title, games, wins, win_rate, pick_rate, rank}}`。
 - `hero_augments.json`：`{英雄ID: {海克斯ID: {games, wins, win_rate, low_sample}}}`。
 - `hero_spells.json`：`{英雄ID: {技能ID+技能ID: {games, wins}}}`，技能ID按数字排序、合并D/F顺序；只统计正式服有效参赛记录。
-- `augments.json`：`{海克斯ID: {name, rarity}}`，rarity 为 silver / gold / prismatic。
+- `augments.json`：`{海克斯ID: {name, rarity}}`，rarity 为 silver / gold / prismatic（腾讯资料标错的已按游戏更正，见 README「统计口径」）。
 - `bands/<casual|mid|high|top>/`：同样两张表，只统计对应分数段（娱乐 / 中分 / 高分 / 顶尖）玩家的出场。
 - `meta.json`：`matches.collected` 采到的对局，`matches.valid` 有效对局（参与统计），`window` 样本时间，`snapshot_at` 数据截至，`mode` / `mode_label` / `mode_rule` 规则，`limitations` 局限，`files` 各文件 SHA-256。
 - `index.json` 的 `datasets[]`：每份数据一条，含 `patch`、`mode`、`path`、`snapshot_at`、`matches_detail`、`files`。

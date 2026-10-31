@@ -2,12 +2,12 @@
  "bands": true,
  "files": {
   "augments.json": {
-   "sha256": "e36c9c3d79eeee6bc99d07b4afdbeb3ff0a634121dc377454a43d205196e02d1",
-   "size": 13637
+   "sha256": "1864f84a246efab8e08e5c8c44a14e89dbd4f6b8ba52a718b394e3021cc96245",
+   "size": 13632
   },
   "bands/casual/augments.json": {
-   "sha256": "e36c9c3d79eeee6bc99d07b4afdbeb3ff0a634121dc377454a43d205196e02d1",
-   "size": 13637
+   "sha256": "1864f84a246efab8e08e5c8c44a14e89dbd4f6b8ba52a718b394e3021cc96245",
+   "size": 13632
   },
   "bands/casual/hero_augments.json": {
    "sha256": "bd6efac9405bcfcc760e24c7b277402be4b6a1d235ac530cd64b7620dfcbeba2",
@@ -22,8 +22,8 @@
    "size": 28067
   },
   "bands/high/augments.json": {
-   "sha256": "e36c9c3d79eeee6bc99d07b4afdbeb3ff0a634121dc377454a43d205196e02d1",
-   "size": 13637
+   "sha256": "1864f84a246efab8e08e5c8c44a14e89dbd4f6b8ba52a718b394e3021cc96245",
+   "size": 13632
   },
   "bands/high/hero_augments.json": {
    "sha256": "444a655760e81c6b84fd4adfa1f9fd969f5fd908c4caee4e85de1e7097436202",
@@ -38,8 +38,8 @@
    "size": 27795
   },
   "bands/mid/augments.json": {
-   "sha256": "e36c9c3d79eeee6bc99d07b4afdbeb3ff0a634121dc377454a43d205196e02d1",
-   "size": 13637
+   "sha256": "1864f84a246efab8e08e5c8c44a14e89dbd4f6b8ba52a718b394e3021cc96245",
+   "size": 13632
   },
   "bands/mid/hero_augments.json": {
    "sha256": "19b89ac71bdc2a780b29ecb382a294e0ebf8d3658c52acf3d99d1da7e509f4ab",
@@ -54,8 +54,8 @@
    "size": 28023
   },
   "bands/top/augments.json": {
-   "sha256": "e36c9c3d79eeee6bc99d07b4afdbeb3ff0a634121dc377454a43d205196e02d1",
-   "size": 13637
+   "sha256": "1864f84a246efab8e08e5c8c44a14e89dbd4f6b8ba52a718b394e3021cc96245",
+   "size": 13632
   },
   "bands/top/hero_augments.json": {
    "sha256": "444a655760e81c6b84fd4adfa1f9fd969f5fd908c4caee4e85de1e7097436202",
@@ -82,7 +82,7 @@
    "size": 28171
   },
   "meta.json": {
-   "sha256": "fe3f38bc2b95304809464da4d70575ee22e485f21d28e8c791d86d8d6a09b1ee",
+   "sha256": "4c92e6334087f84efd7c550a14a49c0812e316903c1662ed424d1a275c3acfdc",
    "size": 7377
   }
  },
