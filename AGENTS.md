@@ -5,7 +5,7 @@
 
 ## 最快的读法
 
-1. 读 `latest.json`：`path` 是最新常规数据的目录（现在是 `patches/16.21/normal`），`files` 是这份数据的文件清单和 SHA-256，`seq` 是更新序号（每次数据更新加 1，并打 tag `data-v<seq>`，可以用 `@data-v<seq>` 取固定的一份）。
+1. 读 `latest.json`：`path` 是最新常规数据的目录（现在是 `patches/16.22/normal`），`files` 是这份数据的文件清单和 SHA-256，`seq` 是更新序号（每次数据更新加 1，并打 tag `data-v<seq>`，可以用 `@data-v<seq>` 取固定的一份）。
 2. 读 `<path>/heroes.json` 和 `<path>/hero_augments.json`。
 3. 要历史版本或活动规则的数据，读 `index.json` 的 `datasets`，按 `patch` 和 `mode` 挑。
 
@@ -19,6 +19,7 @@
 - `hero_augments.json`：`{英雄ID: {海克斯ID: {games, wins, win_rate, low_sample}}}`。
 - `hero_spells.json`：`{英雄ID: {技能ID+技能ID: {games, wins}}}`，技能ID按数字排序、合并D/F顺序；只统计正式服有效参赛记录。
 - `augments.json`：`{海克斯ID: {name, rarity}}`，rarity 为 silver / gold / prismatic（腾讯资料标错的已按游戏更正，见 README「统计口径」）。
+- `hero_augment_items.json`：`{英雄ID: {海克斯ID: 配置}}`，目前只有命运之武器（3081）的首件传说装备；可选文件。
 - `bands/<casual|mid|high|top>/`：同样两张表，只统计对应分数段（娱乐 / 中分 / 高分 / 顶尖）玩家的出场。
 - `meta.json`：`matches.collected` 采到的对局，`matches.valid` 有效对局（参与统计），`window` 样本时间，`snapshot_at` 数据截至，`mode` / `mode_label` / `mode_rule` 规则，`limitations` 局限，`files` 各文件 SHA-256。
 - `index.json` 的 `datasets[]`：每份数据一条，含 `patch`、`mode`、`path`、`snapshot_at`、`matches_detail`、`files`。
