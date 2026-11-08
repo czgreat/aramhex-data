@@ -21,7 +21,7 @@
 - `hero_spells.json`（可选）：英雄 ID → 技能 ID 组合 → games/wins，技能 ID 按数字排序。
 - `hero_augment_items.json`（可选）：英雄 ID → 海克斯 ID → 装备参考配置；来源、门槛和代理口径见当期 meta.json。
 - `bands/<casual|mid|high|top>/`：同样两张表，只统计对应分数段（娱乐 / 中分 / 高分 / 顶尖）玩家的出场。
-- `meta.json`：`matches.collected` 采到的对局，`matches.valid` 有效对局（参与统计），`window` 样本时间，`snapshot_at` 数据截至，`mode` / `mode_label` / `mode_rule` 规则，`limitations` 局限，`files` 各文件 SHA-256。
+- `meta.json`：`matches.collected` 总对局，`matches.valid` 有效对局（参与统计），`window` 样本时间，`snapshot_at` 数据截至，`mode` / `mode_label` / `mode_rule` 规则，`limitations` 局限，`files` 各文件 SHA-256。
 - `index.json` 的 `datasets[]`：每份数据一条，含 `patch`、`mode`、`path`、`snapshot_at`、`matches_detail`、`files`。
 
 ## 使用时要注意
@@ -30,5 +30,5 @@
 - 胜率是「对局结束时持有这个海克斯的玩家」的胜率，是相关关系，不是因果。
 - 样本少（`low_sample` 为 true，或 `games` 很小）时胜率不可靠；建议做平滑，例如 `(wins + 基准胜率 × k) / (games + k)`，k 取 300 左右。
 - 分数段不是官方段位，是按同局胜负关系推算的分数划分的。
-- 只统计采集到的对局，不是全服数据；各大区合计，没有按区加权（覆盖哪些区见 meta.json 的 regions）。
+- 统计的是部分对局，不是全服数据；各大区合计，没有按区加权（覆盖哪些区见 meta.json 的 regions）。
 - 每次下载后可以用 `files` 里的 SHA-256 校验文件是否完整。
