@@ -4,46 +4,44 @@
    "bands": false,
    "files": {
     "augments.json": {
-     "sha256": "cb970a64df8b812f5b9865caad1ea7eaccee841dd4b59637e88ffd7538e11534",
-     "size": 15221
+     "sha256": "8d0f51c9e6db9bd72f7c7eba9f6a120d454c8a36b9b63dfc071ef79584e92cc1",
+     "size": 14147
     },
     "hero_augment_items.json": {
-     "sha256": "6df5a06fa90609b84683959dcbb3714d63a6c6bcad2174c9147670264b7eea35",
-     "size": 103257
+     "sha256": "88d10f5ce978ec310b9d597cc2168aa0b6393569cce3a251f5e9849b56cf99b1",
+     "size": 114794
     },
     "hero_augments.json": {
-     "sha256": "b99e41f052453e9639e15bbe4ce1d85bd824fa7ff31c5aa5f5715dfde9fe0760",
-     "size": 2209116
+     "sha256": "1c082b59f52b082e15c1481cc7ca3faa60c46e3b3a23188de2c983e8ca219836",
+     "size": 2228760
     },
     "hero_spells.json": {
-     "sha256": "16af8e4d4047673e49eacfb59adf2a9cc68724dcc46f477b855c138e2d0be52c",
-     "size": 201583
+     "sha256": "c224225cb2281da5b9515ae029bc6b914c290252d02c23e50cd0900893641c47",
+     "size": 213959
     },
     "heroes.json": {
-     "sha256": "169f30ce971c80eb657b7b7fa7afcb15dfbc940ebc2d0446d98775a4dc8e1a87",
-     "size": 27955
+     "sha256": "c13beff728ce9a0ee09d696b91247ad717322155e13592a2605325a06f063433",
+     "size": 28045
     },
     "meta.json": {
-     "sha256": "3fb1b65a9375183462e55e35111264284767793c5e8526d8bc116b2f3cd96247",
-     "size": 3536
+     "sha256": "8f754e33ccf75aee549405615dd2c558a93850f0acd2832f69b5456906dd9a79",
+     "size": 4764
     }
    },
-   "matches": 4145668,
+   "label": "16.22 版本 · 常规",
+   "matches": 8621496,
    "matches_detail": {
-    "collected": 4281885,
-    "excluded": 136217,
-    "valid": 4145668,
-    "validity_rule": "16.22、队列2400、入库时间早于截止；时长至少240秒、GameComplete、10人完整且5胜5负"
+    "collected": 8872546,
+    "excluded": 251050,
+    "valid": 8621496,
+    "validity_rule": "对局时长不少于 4 分钟（240 秒）、10 名玩家齐全且正好 5 胜 5 负、正常结束（GameComplete）；重开、提前解散、数据不全的对局不计"
    },
    "mode": "normal",
    "mode_label": "常规",
+   "mode_rule": "常规规则。",
+   "notes": [],
    "patch": "16.22",
    "path": "patches/16.22/normal",
-   "schema_version": 1,
-   "seq": 13,
-   "snapshot_at": "2026-11-06T12:02:35+08:00",
-   "label": "16.22 版本 · 常规",
-   "mode_rule": "常规规则。",
    "regions": [
     "联盟三区",
     "联盟二区",
@@ -53,11 +51,14 @@
     "联盟四区",
     "联盟五区"
    ],
-   "notes": [
-    "16.22 正式服已采集对局，入库截止 2026-11-06 12:02；只有全体数据，样本还不够分段。",
-    "hero_augment_items.json：持有命运之武器（3081）的玩家出的首件传说装备，至少 300 秒的对局；样本少于 1000 局的不列。",
-    "各区原始样本直接合并；截止时间不代表各区都已完整采到。"
-   ]
+   "schema_version": 1,
+   "snapshot_at": "2026-11-08T11:46:48+08:00",
+   "window": {
+    "end_exclusive": "2026-11-08T11:46:48+08:00",
+    "periods": null,
+    "start": "2026-11-06T17:07:11.54+08:00",
+    "time_field": "开局时间起，入库时间止（北京时间）；同时按完整构建号筛选"
+   }
   },
   {
    "bands": true,
@@ -147,6 +148,7 @@
      "size": 7383
     }
    },
+   "label": "16.21 版本 · 常规",
    "matches": 42169050,
    "matches_detail": {
     "collected": 43488017,
@@ -156,19 +158,15 @@
    },
    "mode": "normal",
    "mode_label": "常规",
+   "mode_rule": "常规规则。",
+   "notes": [
+    "10-26 00:00 起有 12 个海克斯从对局中消失（牙仙子、大师铸就、无尽大杀四方、冰雪爆裂、鲨鱼暴风、濒死悟道、自然即是治愈、电涌力场、鲨鱼诱饵、软弹啪叽抓、灵魄炸弹、轻拍背部），只统计 10-26 00:00 起开局的对局；这 12 个海克斯本期没有数据。",
+    "分段：按各区玩家评分（截至 10-30 00:00）的区内分位划分，娱乐 >36%、中分 5%–36%、前 5% ≤5%；只计本段玩家自己的记录，不是官方段位；没有评分的玩家只进入全体。",
+    "bands/top 和 bands/high 逐字节相同（兼容旧客户端）。",
+    "各区原始样本直接合并；时间窗上界不代表各区都已完整采到。"
+   ],
    "patch": "16.21",
    "path": "patches/16.21/normal",
-   "schema_version": 1,
-   "seq": 12,
-   "snapshot_at": "2026-11-04T01:54:03.305406+08:00",
-   "window": {
-    "end_exclusive": "2026-11-03T18:00:00+08:00",
-    "periods": null,
-    "start": "2026-10-26T00:00:00+08:00",
-    "time_field": "对局创建时间（北京时间）"
-   },
-   "label": "16.21 版本 · 常规",
-   "mode_rule": "常规规则。",
    "regions": [
     "联盟三区",
     "联盟二区",
@@ -178,12 +176,15 @@
     "联盟四区",
     "联盟五区"
    ],
-   "notes": [
-    "10-26 00:00 起有 12 个海克斯从对局中消失（牙仙子、大师铸就、无尽大杀四方、冰雪爆裂、鲨鱼暴风、濒死悟道、自然即是治愈、电涌力场、鲨鱼诱饵、软弹啪叽抓、灵魄炸弹、轻拍背部），只统计 10-26 00:00 起开局的对局；这 12 个海克斯本期没有数据。",
-    "分段：按各区玩家评分（截至 10-30 00:00）的区内分位划分，娱乐 >36%、中分 5%–36%、前 5% ≤5%；只计本段玩家自己的记录，不是官方段位；没有评分的玩家只进入全体。",
-    "bands/top 和 bands/high 逐字节相同（兼容旧客户端）。",
-    "各区原始样本直接合并；时间窗上界不代表各区都已完整采到。"
-   ]
+   "schema_version": 1,
+   "seq": 12,
+   "snapshot_at": "2026-11-04T01:54:03.305406+08:00",
+   "window": {
+    "end_exclusive": "2026-11-03T18:00:00+08:00",
+    "periods": null,
+    "start": "2026-10-26T00:00:00+08:00",
+    "time_field": "对局创建时间（北京时间）"
+   }
   },
   {
    "bands": false,
@@ -533,6 +534,6 @@
   }
  ],
  "latest": "patches/16.22/normal",
- "latest_seq": 13,
+ "latest_seq": 14,
  "schema_version": 1
 }
