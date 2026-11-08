@@ -24,8 +24,8 @@
      "size": 28045
     },
     "meta.json": {
-     "sha256": "8f754e33ccf75aee549405615dd2c558a93850f0acd2832f69b5456906dd9a79",
-     "size": 4764
+     "sha256": "6fca5591790b9acecce8237a7bd6e9580f37b46ca5392c824850738706e96517",
+     "size": 4997
     }
    },
    "label": "16.22 版本 · 常规",
@@ -534,6 +534,6 @@
   }
  ],
  "latest": "patches/16.22/normal",
- "latest_seq": 14,
+ "latest_seq": 15,
  "schema_version": 1
 }

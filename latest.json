@@ -22,8 +22,8 @@
    "size": 28045
   },
   "meta.json": {
-   "sha256": "8f754e33ccf75aee549405615dd2c558a93850f0acd2832f69b5456906dd9a79",
-   "size": 4764
+   "sha256": "6fca5591790b9acecce8237a7bd6e9580f37b46ca5392c824850738706e96517",
+   "size": 4997
   }
  },
  "matches": 8621496,
@@ -38,7 +38,7 @@
  "patch": "16.22",
  "path": "patches/16.22/normal",
  "schema_version": 1,
- "seq": 14,
+ "seq": 15,
  "snapshot_at": "2026-11-08T11:46:48+08:00",
  "window": {
   "end_exclusive": "2026-11-08T11:46:48+08:00",

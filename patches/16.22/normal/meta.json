@@ -8,11 +8,16 @@
   "common_client_items": "not_shipped",
   "core": {
    "automatic_upgrade_rule": "skip upgrade event if base already seen; standalone upgrade maps to base",
+   "excluded_heroes": [
+    "234"
+   ],
    "minimum_games": 1000,
    "minimum_share": 0.02,
+   "numeric_id_sort": false,
+   "ordered": true,
    "purchase_timestamps_verified": false,
    "ranking": "Wilson lower bound; max3",
-   "source": "self_collected SUMMARY normalized first three, pooled as unordered sets",
+   "source": "self_collected SUMMARY legendary_items normalized first three in original array order; permutations separate",
    "undo_verified": false,
    "viego_missing_allowed": true
   },
@@ -69,7 +74,7 @@
   "各大区的样本直接合在一起计算，没有按区加权；每份数据覆盖哪些区见 regions。",
   "样本少的组合（low_sample 为 true，或局数很少）胜率波动大，请谨慎参考。",
   "装备统计单独使用>=300秒分母；原始升级装备ID保留。",
-  "三件套按清洗后前三条记录的无序集合统计，不宣称实际购买时间或已处理撤回。",
+  "三件套严格保留 SUMMARY 传说装备数组的清洗后前三条原始位置顺序；不同排列分别统计，禁止按ID大小排序；佛耶戈三件套不发布。未独立核验购买时间戳或撤回。",
   "命运之武器第一条记录仅为代理，不证明实际绑定目标。"
  ],
  "matches": {
