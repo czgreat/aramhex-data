@@ -1,102 +1,150 @@
 {
  "augment_exposure": "对局结束时持有；同一玩家六个槽位去重，任意槽位持有即计入",
- "bands": null,
+ "bands": {
+  "bands": {
+   "casual": {
+    "hero_participations": 90105908,
+    "hint": "显示分 < 1600",
+    "label": "娱乐",
+    "max_score_exclusive": 1600
+   },
+   "high": {
+    "hero_participations": 15527011,
+    "hint": "显示分 ≥ 2400",
+    "label": "前5%",
+    "min_score": 2400
+   },
+   "mid": {
+    "hero_participations": 73176302,
+    "hint": "1600 ≤ 显示分 < 2400",
+    "label": "中分",
+    "max_score_exclusive": 2400,
+    "min_score": 1600
+   },
+   "top": {
+    "alias_of": "high",
+    "hero_participations": 15527011,
+    "label": "前5%（旧客户端兼容别名）"
+   }
+  },
+  "independently_strength_validated": false,
+  "method": "partition-fixed30-f-display-v1",
+  "minimum_30day_games": 31,
+  "note": "分段按玩家在所在区的显示分划分（根据同局胜负关系推算，各区分别计算），不是官方段位。只计本段玩家自己的出场；近 30 天有效对局不足 31 局或没有分数的玩家只计入全体。",
+  "retrospective_buckets": true,
+  "score_as_of": "2026-11-08T16:00:00+08:00",
+  "unsegmented_participations": 19092259
+ },
  "builds": [
+  "16.22.834.9083",
   "16.22.836.1077"
  ],
  "components": {
-  "common_client_items": "not_shipped",
-  "core": {
-   "automatic_upgrade_rule": "skip upgrade event if base already seen; standalone upgrade maps to base",
-   "excluded_heroes": [
-    "234"
-   ],
-   "minimum_games": 1000,
-   "minimum_share": 0.02,
-   "numeric_id_sort": false,
-   "ordered": true,
-   "purchase_timestamps_verified": false,
-   "ranking": "Wilson lower bound; max3",
-   "source": "self_collected SUMMARY legendary_items normalized first three in original array order; permutations separate",
-   "undo_verified": false,
-   "viego_missing_allowed": true
-  },
+  "augments": "same-window",
   "destiny": {
-   "baseline": "same-hero all valid >=240s",
-   "binding_verified": false,
-   "minimum_games": 1000,
-   "minimum_share": 0.02,
-   "ranking": "top3 usage then raw win rate within this pool",
-   "smoothing": false,
-   "source": "first SUMMARY legendary record proxy among 3081 holders >=300s; equipment augments excluded"
+   "builds": [
+    "16.22.836.1077"
+   ],
+   "end_exclusive": "2026-11-08T11:46:48+08:00",
+   "file": "hero_augment_items.json",
+   "updated_this_release": false
   },
-  "shoes": "retained Tencent",
-  "skills": "retained Tencent; source_date unchanged",
-  "start": "retained Tencent"
+  "equipment_holdings": "same-window",
+  "heroes": "same-window",
+  "summoner_spells": "same-window"
  },
  "equipment": {
-  "cutoff": "2026-11-08T11:46:48+08:00",
-  "denominator": "website-only equipment_heroes.json; per-hero >=300s participants; raw equipment tables are not included in this public package",
+  "bands": false,
+  "denominator": "equipment_heroes.json",
   "minimum_duration_s": 300,
   "raw_ids_preserved": true,
-  "recommendation_statistics": "separate from raw holdings",
-  "source": "same source snapshot; raw final inventory slots 0..5 deduplicated per participant",
-  "valid_matches": 8608819
+  "tables": {
+   "hero_item_holdings.json": "全部装备（原始 ID）",
+   "hero_items.json": "只含成装"
+  },
+  "valid_matches": 19758964
  },
  "excluded_augments": {
   "1337": {
    "name": "尊我为王",
-   "reason": "任务完成后替换成其他强化，结算持有有偏差"
+   "reason": "任务完成后替换，结算持有有偏差"
   },
   "3176": {
    "name": "赛季之星:五杀摇滚",
-   "reason": "五杀摇滚通用记录标记，不是常规可选强化"
+   "reason": "通用记录标记，不是常规可选强化"
   }
  },
  "files": {
   "augments.json": "8d0f51c9e6db9bd72f7c7eba9f6a120d454c8a36b9b63dfc071ef79584e92cc1",
+  "bands/casual/hero_augments.csv": "984395e8bb277876e7253c4ecf2d668b5bb6ffe6fb86606bf8df7be4d573a924",
+  "bands/casual/hero_augments.json": "bbc7d2c1a41dccdfe65a3932a3c1b61bec8021206339adeec87a6a2477b4e1b4",
+  "bands/casual/hero_spells.json": "d819cae3c69768d4ce40aadb7d07da947721057ee4eaa6b3cad15eef8859b7e3",
+  "bands/casual/heroes.csv": "1ed4611f4b4d68ec0361d1891ff368abfa071c7490dce5521d287b8406f17e68",
+  "bands/casual/heroes.json": "aa9b71f94b6ecd7d84d0b0b0460e3f2e6282ec9cfee2271fb758b8591986e7e9",
+  "bands/high/hero_augments.csv": "242e5bddd13fc25c33355b6c85161c3e904cdf987c348e8874770abe6abde1e2",
+  "bands/high/hero_augments.json": "b94a1ac05351a1e2445208809355bbe00c30b78fccefcdaecc1ee53908a0eca2",
+  "bands/high/hero_spells.json": "112b28271917f2d961c4121e05d4286d41e7cf695d7138efa3e343a97e6ad005",
+  "bands/high/heroes.csv": "723939fadfc67df8c102f42644bdaac5dbaf96572bb1b85964fc35b11fa82f5f",
+  "bands/high/heroes.json": "63a62f0ceeee5f204578debbd0bb14401de65d5e590714ded4aa702bb80ca922",
+  "bands/mid/hero_augments.csv": "0daeadb5ea88df21bb7248be705bb4a41b83519ce8474e1fb344d85aaf2ff8be",
+  "bands/mid/hero_augments.json": "f649abc98f34b01ca716d0419dc9db7538936883b263b493a3460df94f0d3304",
+  "bands/mid/hero_spells.json": "4cfe0acff79295c86198e41d54e220b9edc6a4510c807ea3d6b4a48c1f32431e",
+  "bands/mid/heroes.csv": "bdb55a4de2a5656773684f8bebfdf39d874544ce1f6a04508c2ecdc3abc2a745",
+  "bands/mid/heroes.json": "1cb7138e458f9c33edc1f33ae1da8eb8967724e61c4d5f7426404bb306db3386",
+  "bands/top/hero_augments.csv": "242e5bddd13fc25c33355b6c85161c3e904cdf987c348e8874770abe6abde1e2",
+  "bands/top/hero_augments.json": "b94a1ac05351a1e2445208809355bbe00c30b78fccefcdaecc1ee53908a0eca2",
+  "bands/top/hero_spells.json": "112b28271917f2d961c4121e05d4286d41e7cf695d7138efa3e343a97e6ad005",
+  "bands/top/heroes.csv": "723939fadfc67df8c102f42644bdaac5dbaf96572bb1b85964fc35b11fa82f5f",
+  "bands/top/heroes.json": "63a62f0ceeee5f204578debbd0bb14401de65d5e590714ded4aa702bb80ca922",
+  "equipment_heroes.json": "5235b94f3c9da2fcb43d9f8732e6a881997f4b350b2a3d252e4a72b20cc8c1d3",
   "hero_augment_items.json": "88d10f5ce978ec310b9d597cc2168aa0b6393569cce3a251f5e9849b56cf99b1",
-  "hero_augments.csv": "a0817fe4da8fc15533ab4f1c87667c16229dc725001266e97c1e2895b66933c0",
-  "hero_augments.json": "1c082b59f52b082e15c1481cc7ca3faa60c46e3b3a23188de2c983e8ca219836",
-  "hero_spells.json": "c224225cb2281da5b9515ae029bc6b914c290252d02c23e50cd0900893641c47",
-  "heroes.csv": "6515783b22ca4044456e3b3dcae77bffa315df89b8510d0f09a4dead8c9a14a0",
-  "heroes.json": "c13beff728ce9a0ee09d696b91247ad717322155e13592a2605325a06f063433"
+  "hero_augments.csv": "00bc725e9f24e115a17513e5e3b3f8139b6756f8e966b92eeebbdd56b2a2d1f2",
+  "hero_augments.json": "ae99e03ef52450bc612acf376f6db0e7febeae98945923d9fcfc2a23f9e1b776",
+  "hero_item_holdings.json": "50e2ef69bd46e734cabb90645fb1ded179e0b3be1beec7488797b812b370fd24",
+  "hero_items.json": "64e17ace0b207744e930d49e0bcf104f98c65d5677a19f5e59ff49b1a8f0ff81",
+  "hero_spells.json": "574df1e95f4de28ee5d41a9c244c037b711618d3b79764e710793dce315675e7",
+  "heroes.csv": "2d7af29c3ca474cac249dbc7912fc2c2d27130c52bd82b5a295968c1875bd21c",
+  "heroes.json": "c8bc046d41072d4733bff9c479502142ebab191678c04984a49b076d474bc369",
+  "item_metadata.json": "fabb404c1cf2dfffe0f61c78b98f48be1924bd1bfdabf5fb7a7d1d0dc7f93795"
  },
- "hero_participations": 86214960,
+ "hero_participations": 197901480,
  "heroes": 173,
  "label": "16.22 版本 · 常规",
  "license": "CC BY-NC 4.0",
  "limitations": [
-  "只统计我们采集到的对局，不是全服数据。",
-  "只计有效对局：对局时长不少于 4 分钟（240 秒）、10 名玩家齐全且正好 5 胜 5 负、正常结束（GameComplete）；重开、提前解散、数据不全的对局不计。",
+  "统计的是部分对局，不是全服数据。",
+  "只计有效对局：对局时长 4 分钟（240 秒）至 4 小时、截止前已结束、正常结束（GameComplete）、不是私人对局；10 名不同的真人玩家（没有电脑）齐全，两队各 5 人且正好 5 胜 5 负；重开、提前解散、数据不全的对局不计。",
   "海克斯按对局结束时持有的计算：同一玩家的六个海克斯槽位去重，任意槽位持有即计入。",
   "持有某个海克斯和赢下对局是相关关系，不代表拿了它就会赢。",
   "各大区的样本直接合在一起计算，没有按区加权；每份数据覆盖哪些区见 regions。",
-  "样本少的组合（low_sample 为 true，或局数很少）胜率波动大，请谨慎参考。",
-  "装备统计单独使用>=300秒分母；原始升级装备ID保留。",
-  "三件套严格保留 SUMMARY 传说装备数组的清洗后前三条原始位置顺序；不同排列分别统计，禁止按ID大小排序；佛耶戈三件套不发布。未独立核验购买时间戳或撤回。",
-  "命运之武器第一条记录仅为代理，不证明实际绑定目标。"
+  "样本少的组合（low_sample 为 true，即少于 3000 人次）胜率波动大，请谨慎参考。",
+  "分段为事后分组：所有对局都按 2026-11-08 16:00 的评分划分，不是每局开局时的分数；评分方法尚未经过独立实力验证。",
+  "装备只统计时长不少于 300 秒的对局，分母见 equipment_heroes.json；按对局结束时持有、同一玩家六格去重，保留原始装备 ID，不合并升级形态。",
+  "持有某件装备和赢下对局是相关关系，不代表因果。"
  ],
+ "low_sample_threshold": 3000,
  "matches": {
-  "collected": 8872546,
-  "excluded": 251050,
-  "valid": 8621496,
-  "validity_rule": "对局时长不少于 4 分钟（240 秒）、10 名玩家齐全且正好 5 胜 5 负、正常结束（GameComplete）；重开、提前解散、数据不全的对局不计"
+  "collected": 20410713,
+  "excluded": 620565,
+  "valid": 19790148,
+  "validity_rule": "对局时长 4 分钟（240 秒）至 4 小时、截止前已结束、正常结束（GameComplete）、不是私人对局；10 名不同的真人玩家（没有电脑）齐全，两队各 5 人且正好 5 胜 5 负；重开、提前解散、数据不全的对局不计"
  },
  "mode": "normal",
  "mode_label": "常规",
  "mode_rule": "常规规则。",
- "notes": [],
- "observed_game_window": {
-  "first_start": "2026-11-06T17:07:11.54+08:00",
-  "last_end": "2026-11-08T11:40:52.061+08:00",
-  "last_start": "2026-11-08T11:32:00.566+08:00"
- },
+ "notes": [
+  "合并热修前（16.22.834.9083）和热修后（16.22.836.1077）两个构建的对局。",
+  "有效对局规则比 16.22 上一期更严：另外排除有电脑玩家、同一玩家重复出现、私人对局、超过 4 小时或截止时未结束的对局。",
+  "bands/top 与 bands/high 逐字节相同（兼容旧客户端）。",
+  "命运之武器装备参考（hero_augment_items.json）沿用 2026-11-08 11:46 的统计（只含热修后构建），本期未更新。",
+  "海克斯稀有度与 CommunityDragon 逐个核对一致。"
+ ],
  "patch": "16.22",
  "rarity_check": {
-  "checked_observed_exported_ids": 225,
+  "checked_ids": 225,
   "mismatches": 0,
-  "source": "frozen 16.22 game-data archive from 2026-11-05; no new online download claimed"
+  "not_in_reference": [],
+  "source": "CommunityDragon cherry-augments.json"
  },
  "regions": [
   "联盟三区",
@@ -109,11 +157,11 @@
  ],
  "regions_combined": true,
  "schema_version": 1,
- "snapshot_at": "2026-11-08T11:46:48+08:00",
+ "snapshot_at": "2026-11-09T17:00:00+08:00",
  "window": {
-  "end_exclusive": "2026-11-08T11:46:48+08:00",
+  "end_exclusive": "2026-11-09T17:00:00+08:00",
   "periods": null,
-  "start": "2026-11-06T17:07:11.54+08:00",
-  "time_field": "开局时间起，入库时间止（北京时间）；同时按完整构建号筛选"
+  "start": "2026-11-05T04:08:36.135+08:00",
+  "time_field": "16.22 首局开局起，至截止时间前结束的对局（北京时间）；包含热修前后两个构建"
  }
 }

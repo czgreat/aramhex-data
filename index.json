@@ -1,45 +1,115 @@
 {
  "datasets": [
   {
-   "bands": false,
+   "bands": true,
    "files": {
     "augments.json": {
      "sha256": "8d0f51c9e6db9bd72f7c7eba9f6a120d454c8a36b9b63dfc071ef79584e92cc1",
      "size": 14147
+    },
+    "bands/casual/hero_augments.json": {
+     "sha256": "bbc7d2c1a41dccdfe65a3932a3c1b61bec8021206339adeec87a6a2477b4e1b4",
+     "size": 2229031
+    },
+    "bands/casual/hero_spells.json": {
+     "sha256": "d819cae3c69768d4ce40aadb7d07da947721057ee4eaa6b3cad15eef8859b7e3",
+     "size": 423875
+    },
+    "bands/casual/heroes.json": {
+     "sha256": "aa9b71f94b6ecd7d84d0b0b0460e3f2e6282ec9cfee2271fb758b8591986e7e9",
+     "size": 32022
+    },
+    "bands/high/hero_augments.json": {
+     "sha256": "b94a1ac05351a1e2445208809355bbe00c30b78fccefcdaecc1ee53908a0eca2",
+     "size": 2178396
+    },
+    "bands/high/hero_spells.json": {
+     "sha256": "112b28271917f2d961c4121e05d4286d41e7cf695d7138efa3e343a97e6ad005",
+     "size": 246696
+    },
+    "bands/high/heroes.json": {
+     "sha256": "63a62f0ceeee5f204578debbd0bb14401de65d5e590714ded4aa702bb80ca922",
+     "size": 31742
+    },
+    "bands/mid/hero_augments.json": {
+     "sha256": "f649abc98f34b01ca716d0419dc9db7538936883b263b493a3460df94f0d3304",
+     "size": 2222154
+    },
+    "bands/mid/hero_spells.json": {
+     "sha256": "4cfe0acff79295c86198e41d54e220b9edc6a4510c807ea3d6b4a48c1f32431e",
+     "size": 358484
+    },
+    "bands/mid/heroes.json": {
+     "sha256": "1cb7138e458f9c33edc1f33ae1da8eb8967724e61c4d5f7426404bb306db3386",
+     "size": 31996
+    },
+    "bands/top/hero_augments.json": {
+     "sha256": "b94a1ac05351a1e2445208809355bbe00c30b78fccefcdaecc1ee53908a0eca2",
+     "size": 2178396
+    },
+    "bands/top/hero_spells.json": {
+     "sha256": "112b28271917f2d961c4121e05d4286d41e7cf695d7138efa3e343a97e6ad005",
+     "size": 246696
+    },
+    "bands/top/heroes.json": {
+     "sha256": "63a62f0ceeee5f204578debbd0bb14401de65d5e590714ded4aa702bb80ca922",
+     "size": 31742
+    },
+    "equipment_heroes.json": {
+     "sha256": "5235b94f3c9da2fcb43d9f8732e6a881997f4b350b2a3d252e4a72b20cc8c1d3",
+     "size": 16780
     },
     "hero_augment_items.json": {
      "sha256": "88d10f5ce978ec310b9d597cc2168aa0b6393569cce3a251f5e9849b56cf99b1",
      "size": 114794
     },
     "hero_augments.json": {
-     "sha256": "1c082b59f52b082e15c1481cc7ca3faa60c46e3b3a23188de2c983e8ca219836",
-     "size": 2228760
+     "sha256": "ae99e03ef52450bc612acf376f6db0e7febeae98945923d9fcfc2a23f9e1b776",
+     "size": 2248645
+    },
+    "hero_item_holdings.json": {
+     "sha256": "50e2ef69bd46e734cabb90645fb1ded179e0b3be1beec7488797b812b370fd24",
+     "size": 3227151
+    },
+    "hero_items.json": {
+     "sha256": "64e17ace0b207744e930d49e0bcf104f98c65d5677a19f5e59ff49b1a8f0ff81",
+     "size": 1900838
     },
     "hero_spells.json": {
-     "sha256": "c224225cb2281da5b9515ae029bc6b914c290252d02c23e50cd0900893641c47",
-     "size": 213959
+     "sha256": "574df1e95f4de28ee5d41a9c244c037b711618d3b79764e710793dce315675e7",
+     "size": 446503
     },
     "heroes.json": {
-     "sha256": "c13beff728ce9a0ee09d696b91247ad717322155e13592a2605325a06f063433",
-     "size": 28045
+     "sha256": "c8bc046d41072d4733bff9c479502142ebab191678c04984a49b076d474bc369",
+     "size": 32142
+    },
+    "item_metadata.json": {
+     "sha256": "fabb404c1cf2dfffe0f61c78b98f48be1924bd1bfdabf5fb7a7d1d0dc7f93795",
+     "size": 69831
     },
     "meta.json": {
-     "sha256": "6fca5591790b9acecce8237a7bd6e9580f37b46ca5392c824850738706e96517",
-     "size": 4997
+     "sha256": "1863d36c0ce6f9b76e66b49c0799750b311af4ea9296fecbb0319cc53c99f82e",
+     "size": 8201
     }
    },
    "label": "16.22 版本 · 常规",
-   "matches": 8621496,
+   "matches": 19790148,
    "matches_detail": {
-    "collected": 8872546,
-    "excluded": 251050,
-    "valid": 8621496,
-    "validity_rule": "对局时长不少于 4 分钟（240 秒）、10 名玩家齐全且正好 5 胜 5 负、正常结束（GameComplete）；重开、提前解散、数据不全的对局不计"
+    "collected": 20410713,
+    "excluded": 620565,
+    "valid": 19790148,
+    "validity_rule": "对局时长 4 分钟（240 秒）至 4 小时、截止前已结束、正常结束（GameComplete）、不是私人对局；10 名不同的真人玩家（没有电脑）齐全，两队各 5 人且正好 5 胜 5 负；重开、提前解散、数据不全的对局不计"
    },
    "mode": "normal",
    "mode_label": "常规",
    "mode_rule": "常规规则。",
-   "notes": [],
+   "notes": [
+    "合并热修前（16.22.834.9083）和热修后（16.22.836.1077）两个构建的对局。",
+    "有效对局规则比 16.22 上一期更严：另外排除有电脑玩家、同一玩家重复出现、私人对局、超过 4 小时或截止时未结束的对局。",
+    "bands/top 与 bands/high 逐字节相同（兼容旧客户端）。",
+    "命运之武器装备参考（hero_augment_items.json）沿用 2026-11-08 11:46 的统计（只含热修后构建），本期未更新。",
+    "海克斯稀有度与 CommunityDragon 逐个核对一致。"
+   ],
    "patch": "16.22",
    "path": "patches/16.22/normal",
    "regions": [
@@ -52,12 +122,12 @@
     "联盟五区"
    ],
    "schema_version": 1,
-   "snapshot_at": "2026-11-08T11:46:48+08:00",
+   "snapshot_at": "2026-11-09T17:00:00+08:00",
    "window": {
-    "end_exclusive": "2026-11-08T11:46:48+08:00",
+    "end_exclusive": "2026-11-09T17:00:00+08:00",
     "periods": null,
-    "start": "2026-11-06T17:07:11.54+08:00",
-    "time_field": "开局时间起，入库时间止（北京时间）；同时按完整构建号筛选"
+    "start": "2026-11-05T04:08:36.135+08:00",
+    "time_field": "16.22 首局开局起，至截止时间前结束的对局（北京时间）；包含热修前后两个构建"
    }
   },
   {
@@ -163,7 +233,7 @@
     "10-26 00:00 起有 12 个海克斯从对局中消失（牙仙子、大师铸就、无尽大杀四方、冰雪爆裂、鲨鱼暴风、濒死悟道、自然即是治愈、电涌力场、鲨鱼诱饵、软弹啪叽抓、灵魄炸弹、轻拍背部），只统计 10-26 00:00 起开局的对局；这 12 个海克斯本期没有数据。",
     "分段：按各区玩家评分（截至 10-30 00:00）的区内分位划分，娱乐 >36%、中分 5%–36%、前 5% ≤5%；只计本段玩家自己的记录，不是官方段位；没有评分的玩家只进入全体。",
     "bands/top 和 bands/high 逐字节相同（兼容旧客户端）。",
-    "各区原始样本直接合并；时间窗上界不代表各区都已完整采到。"
+    "各区原始样本直接合并。"
    ],
    "patch": "16.21",
    "path": "patches/16.21/normal",
@@ -224,7 +294,6 @@
    "notes": [
     "10-24 晚热更新前的数据（海斗 4.0 上线到 10-23），热更新后版本有变化，最新数据见 patches/16.21/normal。",
     "首版样本使用全体，暂不提供分段统计。",
-    "各区采集进度不同，统计窗口上界不是各区均已完整采到的承诺。",
     "召唤师技能组合为观察统计，选择倾向与英雄适配可能影响胜率；小样本谨慎参考。",
     "4个暂无正式服有效持有记录的新海克斯，保留旧测试服过渡统计并单独标注来源；不计入正式服有效对局数。"
    ],
@@ -500,7 +569,7 @@
    "mode_label": "活动：首次必棱彩",
    "mode_rule": "国庆活动期间，每局第一次海克斯三选一必定是棱彩。两段活动期合计，中间的金色刷新期不计。",
    "notes": [
-    "快照时（2026-10-07 15:36）统计时间段还没结束，只包含截至快照时已采到的对局。"
+    "快照时（2026-10-07 15:36）统计时间段还没结束，只包含截至快照时的对局。"
    ],
    "patch": "16.19",
    "path": "patches/16.19/first-prismatic",
@@ -534,6 +603,6 @@
   }
  ],
  "latest": "patches/16.22/normal",
- "latest_seq": 15,
+ "latest_seq": 16,
  "schema_version": 1
 }
