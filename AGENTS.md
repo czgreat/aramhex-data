@@ -22,6 +22,7 @@
 - `hero_augment_items.json`（可选）：英雄 ID → 海克斯 ID → 装备参考配置；来源、门槛和代理口径见当期 meta.json。
 - `bands/<casual|mid|high|top>/`：同样的表（heroes、hero_augments，有的版本含 hero_spells），只统计对应分数段（娱乐 / 中分 / 前 5%）玩家的出场；`top` 是 `high` 的兼容别名，内容相同。
 - `hero_item_holdings.json`（可选，16.22 起）：英雄 ID → 装备 ID → games/wins/win_rate/low_sample，对局结束时持有、同一玩家六格去重，保留原始装备 ID。分母是 `equipment_heroes.json`（只含时长不少于 300 秒的对局），不要和 heroes.json 混用。`hero_items.json` 是其中成装的子集，`item_metadata.json` 是装备名称、图标和分类。
+- `core_builds.json`（可选，16.22 seq18 起）：英雄 ID → 三件套数组 `[{items, ordered, games, wins, win, pick}]`，`items` 是先后做出的前三件传说装备，已按推荐顺序排好、最多 3 条；排除口径见当期 meta.json 的 `equipment`。`bands/high/` 下另有前 5% 的装备统计和三件套。
 - `meta.json`：`matches.collected` 总对局，`matches.valid` 有效对局（参与统计），`window` 样本时间，`snapshot_at` 数据截至，`mode` / `mode_label` / `mode_rule` 规则，`limitations` 局限，`files` 各文件 SHA-256。
 - `index.json` 的 `datasets[]`：每份数据一条，含 `patch`、`mode`、`path`、`snapshot_at`、`matches_detail`、`files`。
 
