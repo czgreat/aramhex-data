@@ -9,7 +9,9 @@
 2. 读 `<path>/heroes.json` 和 `<path>/hero_augments.json`。
 3. 要历史版本或活动规则的数据，读 `index.json` 的 `datasets`，按 `patch` 和 `mode` 挑。
 
-原始地址（仓库公开后可直接下载）：
+仓库地址：`https://github.com/czgreat/aramhex-data`
+
+直接下载文件用 GitHub 的原始文件地址（`raw.githubusercontent.com` 是 GitHub 官方域名，不是镜像），例如：
 `https://raw.githubusercontent.com/czgreat/aramhex-data/main/latest.json`
 
 ## 文件格式
