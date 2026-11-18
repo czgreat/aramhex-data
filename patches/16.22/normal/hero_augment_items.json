@@ -2,32 +2,32 @@
  "1": {
   "3081": {
    "baseline": {
-    "games": 1116957,
-    "wins": 550427
+    "games": 1349984,
+    "wins": 665164
    },
-   "eligible_total": 56426,
-   "eligible_wins": 28134,
+   "eligible_total": 68195,
+   "eligible_wins": 34095,
    "items": [
     {
-     "games": 7807,
+     "games": 10850,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 4008
+     "wins": 5573
     },
     {
-     "games": 19665,
+     "games": 22556,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 9914
+     "wins": 11378
     },
     {
-     "games": 11963,
+     "games": 14482,
      "item": "3118",
      "low_sample": false,
      "name": "残疫",
-     "wins": 5865
+     "wins": 7130
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -37,39 +37,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 72654,
-   "total_wins": 36561
+   "total": 87898,
+   "total_wins": 44315
   }
  },
  "10": {
   "3081": {
    "baseline": {
-    "games": 3021836,
-    "wins": 1672386
+    "games": 3632888,
+    "wins": 2009901
    },
-   "eligible_total": 305324,
-   "eligible_wins": 172219,
+   "eligible_total": 368690,
+   "eligible_wins": 207843,
    "items": [
     {
-     "games": 61395,
+     "games": 79998,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 35243
+     "wins": 45806
     },
     {
-     "games": 59886,
+     "games": 73160,
      "item": "3115",
      "low_sample": false,
      "name": "纳什之牙",
-     "wins": 34010
+     "wins": 41543
     },
     {
-     "games": 57532,
+     "games": 64296,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 32430
+     "wins": 36240
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -79,39 +79,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 328975,
-   "total_wins": 185488
+   "total": 397027,
+   "total_wins": 223714
   }
  },
  "101": {
   "3081": {
    "baseline": {
-    "games": 3339523,
-    "wins": 1635615
+    "games": 4006128,
+    "wins": 1962180
    },
-   "eligible_total": 202393,
-   "eligible_wins": 101271,
+   "eligible_total": 242323,
+   "eligible_wins": 121207,
    "items": [
     {
-     "games": 83427,
+     "games": 33334,
+     "item": "4646",
+     "low_sample": false,
+     "name": "风暴狂涌",
+     "wins": 17562
+    },
+    {
+     "games": 95883,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 42483
+     "wins": 48710
     },
     {
-     "games": 28059,
-     "item": "3135",
-     "low_sample": false,
-     "name": "虚空之杖",
-     "wins": 13917
-    },
-    {
-     "games": 30428,
+     "games": 36613,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 14695
+     "wins": 17649
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -121,39 +121,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 253386,
-   "total_wins": 126900
+   "total": 304085,
+   "total_wins": 152361
   }
  },
  "102": {
   "3081": {
    "baseline": {
-    "games": 1735509,
-    "wins": 926204
+    "games": 2122610,
+    "wins": 1131137
    },
-   "eligible_total": 68257,
-   "eligible_wins": 36038,
+   "eligible_total": 83176,
+   "eligible_wins": 43939,
    "items": [
     {
-     "games": 7875,
+     "games": 10066,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 4446
+     "wins": 5667
     },
     {
-     "games": 17842,
+     "games": 21897,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 9328
+     "wins": 11463
     },
     {
-     "games": 16469,
+     "games": 18938,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 8444
+     "wins": 9711
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -163,39 +163,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 91115,
-   "total_wins": 48483
+   "total": 110868,
+   "total_wins": 59060
   }
  },
  "103": {
   "3081": {
    "baseline": {
-    "games": 3132226,
-    "wins": 1637621
+    "games": 3788617,
+    "wins": 1979643
    },
-   "eligible_total": 219047,
-   "eligible_wins": 117784,
+   "eligible_total": 264474,
+   "eligible_wins": 141906,
    "items": [
     {
-     "games": 32740,
+     "games": 44831,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 18161
+     "wins": 24789
     },
     {
-     "games": 84985,
+     "games": 98045,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 46417
+     "wins": 53439
     },
     {
-     "games": 34939,
+     "games": 42044,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 18194
+     "wins": 21834
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -205,39 +205,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 273622,
-   "total_wins": 147189
+   "total": 331273,
+   "total_wins": 178032
   }
  },
  "104": {
   "3081": {
    "baseline": {
-    "games": 5422469,
-    "wins": 2769245
+    "games": 6510854,
+    "wins": 3326198
    },
-   "eligible_total": 380160,
-   "eligible_wins": 213853,
+   "eligible_total": 457198,
+   "eligible_wins": 257698,
    "items": [
     {
-     "games": 61662,
+     "games": 82633,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 38439
+     "wins": 51590
     },
     {
-     "games": 83855,
+     "games": 93277,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 48174
+     "wins": 53619
     },
     {
-     "games": 88420,
+     "games": 106460,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 48057
+     "wins": 57893
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -247,39 +247,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 514230,
-   "total_wins": 286654
+   "total": 618265,
+   "total_wins": 345145
   }
  },
  "105": {
   "3081": {
    "baseline": {
-    "games": 3971992,
-    "wins": 1992517
+    "games": 4745540,
+    "wins": 2380646
    },
-   "eligible_total": 258144,
-   "eligible_wins": 131937,
+   "eligible_total": 307807,
+   "eligible_wins": 157225,
    "items": [
     {
-     "games": 103940,
+     "games": 118455,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 55094
+     "wins": 62720
     },
     {
-     "games": 33474,
+     "games": 44815,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 17419
+     "wins": 23379
     },
     {
-     "games": 35332,
+     "games": 42789,
      "item": "3100",
      "low_sample": false,
      "name": "巫妖之祸",
-     "wins": 18083
+     "wins": 21916
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -289,39 +289,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 333877,
-   "total_wins": 171502
+   "total": 398902,
+   "total_wins": 204769
   }
  },
  "106": {
   "3081": {
    "baseline": {
-    "games": 3357789,
-    "wins": 1753616
+    "games": 4007153,
+    "wins": 2092335
    },
-   "eligible_total": 137789,
-   "eligible_wins": 71199,
+   "eligible_total": 164307,
+   "eligible_wins": 84958,
    "items": [
     {
-     "games": 22610,
+     "games": 27554,
      "item": "3087",
      "low_sample": false,
      "name": "斯塔缇克电刃",
-     "wins": 12447
+     "wins": 15087
     },
     {
-     "games": 34449,
+     "games": 41240,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 17838
+     "wins": 21321
     },
     {
-     "games": 24746,
+     "games": 27365,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 11879
+     "wins": 13147
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -331,39 +331,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 175450,
-   "total_wins": 90781
+   "total": 209015,
+   "total_wins": 108147
   }
  },
  "107": {
   "3081": {
    "baseline": {
-    "games": 2769413,
-    "wins": 1380441
+    "games": 3323763,
+    "wins": 1658548
    },
-   "eligible_total": 229278,
-   "eligible_wins": 119501,
+   "eligible_total": 275187,
+   "eligible_wins": 143921,
    "items": [
     {
-     "games": 42419,
+     "games": 56789,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 24110
+     "wins": 32384
     },
     {
-     "games": 65335,
+     "games": 72731,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 33823
+     "wins": 37601
     },
     {
-     "games": 71163,
+     "games": 85683,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 36180
+     "wins": 43629
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -373,39 +373,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 321760,
-   "total_wins": 166845
+   "total": 386317,
+   "total_wins": 200911
   }
  },
  "11": {
   "3081": {
    "baseline": {
-    "games": 5126692,
-    "wins": 2819774
+    "games": 6160828,
+    "wins": 3389730
    },
-   "eligible_total": 321041,
-   "eligible_wins": 189586,
+   "eligible_total": 387063,
+   "eligible_wins": 229360,
    "items": [
     {
-     "games": 81482,
+     "games": 103263,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 51728
+     "wins": 65695
     },
     {
-     "games": 71426,
+     "games": 52430,
+     "item": "3153",
+     "low_sample": false,
+     "name": "破败王者之刃",
+     "wins": 31857
+    },
+    {
+     "games": 85362,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 42076
-    },
-    {
-     "games": 46302,
-     "item": "6695",
-     "low_sample": false,
-     "name": "巨蛇之牙",
-     "wins": 26042
+     "wins": 50300
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -415,39 +415,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 414289,
-   "total_wins": 243747
+   "total": 499302,
+   "total_wins": 294802
   }
  },
  "110": {
   "3081": {
    "baseline": {
-    "games": 4680686,
-    "wins": 2232667
+    "games": 5538863,
+    "wins": 2642323
    },
-   "eligible_total": 316600,
-   "eligible_wins": 160230,
+   "eligible_total": 376142,
+   "eligible_wins": 190715,
    "items": [
     {
-     "games": 79494,
+     "games": 89472,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 40976
+     "wins": 46029
     },
     {
-     "games": 45886,
+     "games": 55765,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 22457
+     "wins": 27366
     },
     {
-     "games": 35802,
+     "games": 42516,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 17474
+     "wins": 20741
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -457,32 +457,32 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 353888,
-   "total_wins": 178387
+   "total": 420460,
+   "total_wins": 212216
   }
  },
  "111": {
   "3081": {
    "baseline": {
-    "games": 3099349,
-    "wins": 1552445
+    "games": 3675905,
+    "wins": 1842957
    },
-   "eligible_total": 61185,
-   "eligible_wins": 29905,
+   "eligible_total": 73098,
+   "eligible_wins": 35654,
    "items": [
     {
-     "games": 42884,
+     "games": 51191,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 21068
+     "wins": 25073
     },
     {
-     "games": 9128,
+     "games": 10993,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 4420
+     "wins": 5303
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -492,39 +492,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 91329,
-   "total_wins": 45636
+   "total": 108894,
+   "total_wins": 54305
   }
  },
  "112": {
   "3081": {
    "baseline": {
-    "games": 3019397,
-    "wins": 1585686
+    "games": 3671740,
+    "wins": 1927532
    },
-   "eligible_total": 191802,
-   "eligible_wins": 104956,
+   "eligible_total": 231722,
+   "eligible_wins": 126729,
    "items": [
     {
-     "games": 30877,
+     "games": 42190,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 17796
+     "wins": 24244
     },
     {
-     "games": 74062,
+     "games": 85030,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 41185
+     "wins": 47354
     },
     {
-     "games": 22433,
-     "item": "3135",
+     "games": 26167,
+     "item": "6655",
      "low_sample": false,
-     "name": "虚空之杖",
-     "wins": 12288
+     "name": "卢登的回声",
+     "wins": 13198
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -534,32 +534,32 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 250432,
-   "total_wins": 136851
+   "total": 304281,
+   "total_wins": 166230
   }
  },
  "113": {
   "3081": {
    "baseline": {
-    "games": 1488500,
-    "wins": 728892
+    "games": 1777511,
+    "wins": 870416
    },
-   "eligible_total": 28326,
-   "eligible_wins": 13728,
+   "eligible_total": 33891,
+   "eligible_wins": 16473,
    "items": [
     {
-     "games": 20921,
+     "games": 25084,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 10352
+     "wins": 12403
     },
     {
-     "games": 4227,
+     "games": 5080,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 1945
+     "wins": 2360
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -569,39 +569,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 41981,
-   "total_wins": 20921
+   "total": 50179,
+   "total_wins": 25011
   }
  },
  "114": {
   "3081": {
    "baseline": {
-    "games": 3074963,
-    "wins": 1734145
+    "games": 3748981,
+    "wins": 2114593
    },
-   "eligible_total": 182106,
-   "eligible_wins": 110441,
+   "eligible_total": 222092,
+   "eligible_wins": 135043,
    "items": [
     {
-     "games": 107943,
+     "games": 133655,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 68731
+     "wins": 85210
     },
     {
-     "games": 30820,
+     "games": 37255,
      "item": "3074",
      "low_sample": false,
      "name": "贪欲九头蛇",
-     "wins": 18368
+     "wins": 22195
     },
     {
-     "games": 13220,
+     "games": 16065,
      "item": "3078",
      "low_sample": false,
      "name": "三相之力",
-     "wins": 7239
+     "wins": 8808
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -611,39 +611,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 247188,
-   "total_wins": 148987
+   "total": 301040,
+   "total_wins": 181851
   }
  },
  "115": {
   "3081": {
    "baseline": {
-    "games": 3050144,
-    "wins": 1463082
+    "games": 3765032,
+    "wins": 1805156
    },
-   "eligible_total": 173738,
-   "eligible_wins": 83990,
+   "eligible_total": 213910,
+   "eligible_wins": 103305,
    "items": [
     {
-     "games": 62719,
+     "games": 73689,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 30701
+     "wins": 35985
     },
     {
-     "games": 22649,
+     "games": 26282,
      "item": "3135",
      "low_sample": false,
      "name": "虚空之杖",
-     "wins": 10846
+     "wins": 12602
     },
     {
-     "games": 23872,
+     "games": 29812,
      "item": "2503",
      "low_sample": false,
      "name": "黯炎火炬",
-     "wins": 11391
+     "wins": 14240
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -653,39 +653,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 204474,
-   "total_wins": 99072
+   "total": 252382,
+   "total_wins": 122097
   }
  },
  "117": {
   "3081": {
    "baseline": {
-    "games": 960783,
-    "wins": 455884
+    "games": 1156634,
+    "wins": 548862
    },
-   "eligible_total": 22783,
-   "eligible_wins": 10955,
+   "eligible_total": 27471,
+   "eligible_wins": 13247,
    "items": [
     {
-     "games": 1682,
+     "games": 2017,
      "item": "3504",
      "low_sample": false,
      "name": "炽热香炉",
-     "wins": 843
+     "wins": 1021
     },
     {
-     "games": 10266,
+     "games": 12451,
      "item": "6621",
      "low_sample": false,
      "name": "黎明核心",
-     "wins": 5124
+     "wins": 6238
     },
     {
-     "games": 3814,
+     "games": 4588,
      "item": "6617",
      "low_sample": false,
      "name": "月石再生器",
-     "wins": 1861
+     "wins": 2240
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -695,39 +695,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 24397,
-   "total_wins": 11663
+   "total": 29423,
+   "total_wins": 14097
   }
  },
  "119": {
   "3081": {
    "baseline": {
-    "games": 3469940,
-    "wins": 1767074
+    "games": 4229871,
+    "wins": 2156343
    },
-   "eligible_total": 338804,
-   "eligible_wins": 186515,
+   "eligible_total": 412953,
+   "eligible_wins": 227216,
    "items": [
     {
-     "games": 74389,
+     "games": 83956,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 43145
+     "wins": 48690
     },
     {
-     "games": 58466,
+     "games": 68027,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 31982
+     "wins": 37186
     },
     {
-     "games": 75063,
+     "games": 91806,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 40687
+     "wins": 49780
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -737,39 +737,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 446883,
-   "total_wins": 243456
+   "total": 544575,
+   "total_wins": 296553
   }
  },
  "12": {
   "3081": {
    "baseline": {
-    "games": 2599296,
-    "wins": 1366826
+    "games": 3144981,
+    "wins": 1654035
    },
-   "eligible_total": 53156,
-   "eligible_wins": 26677,
+   "eligible_total": 64289,
+   "eligible_wins": 32298,
    "items": [
     {
-     "games": 26702,
+     "games": 32345,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 13860
+     "wins": 16813
     },
     {
-     "games": 6590,
+     "games": 8081,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 3331
+     "wins": 4084
     },
     {
-     "games": 6538,
+     "games": 7481,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 2925
+     "wins": 3357
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -779,39 +779,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 71225,
-   "total_wins": 36042
+   "total": 85987,
+   "total_wins": 43574
   }
  },
  "120": {
   "3081": {
    "baseline": {
-    "games": 4665010,
-    "wins": 2306680
+    "games": 5572287,
+    "wins": 2755527
    },
-   "eligible_total": 322113,
-   "eligible_wins": 166757,
+   "eligible_total": 386568,
+   "eligible_wins": 200424,
    "items": [
     {
-     "games": 221569,
+     "games": 270140,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 119333
+     "wins": 145511
     },
     {
-     "games": 27971,
+     "games": 32537,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 13598
+     "wins": 15798
     },
     {
-     "games": 23913,
+     "games": 28325,
      "item": "3161",
      "low_sample": false,
      "name": "朔极之矛",
-     "wins": 11359
+     "wins": 13482
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -821,39 +821,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 380949,
-   "total_wins": 194507
+   "total": 457129,
+   "total_wins": 233686
   }
  },
  "121": {
   "3081": {
    "baseline": {
-    "games": 2871441,
-    "wins": 1398819
+    "games": 3447021,
+    "wins": 1680021
    },
-   "eligible_total": 344621,
-   "eligible_wins": 180556,
+   "eligible_total": 414236,
+   "eligible_wins": 217631,
    "items": [
     {
-     "games": 59569,
+     "games": 80523,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 35840
+     "wins": 48382
     },
     {
-     "games": 126492,
+     "games": 142463,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 66158
+     "wins": 74342
     },
     {
-     "games": 109178,
+     "games": 131857,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 55053
+     "wins": 66595
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -863,39 +863,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 432636,
-   "total_wins": 226008
+   "total": 520293,
+   "total_wins": 272503
   }
  },
  "122": {
   "3081": {
    "baseline": {
-    "games": 3445511,
-    "wins": 1735313
+    "games": 4134410,
+    "wins": 2082373
    },
-   "eligible_total": 188133,
-   "eligible_wins": 99687,
+   "eligible_total": 227413,
+   "eligible_wins": 120555,
    "items": [
     {
-     "games": 71631,
+     "games": 89393,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 40390
+     "wins": 50298
     },
     {
-     "games": 40837,
+     "games": 49157,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 21596
+     "wins": 26009
     },
     {
-     "games": 11229,
-     "item": "6695",
+     "games": 13190,
+     "item": "6631",
      "low_sample": false,
-     "name": "巨蛇之牙",
-     "wins": 5550
+     "name": "挺进破坏者",
+     "wins": 6529
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -905,39 +905,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 265315,
-   "total_wins": 141005
+   "total": 320006,
+   "total_wins": 170261
   }
  },
  "126": {
   "3081": {
    "baseline": {
-    "games": 4749874,
-    "wins": 2244827
+    "games": 5729502,
+    "wins": 2708486
    },
-   "eligible_total": 400051,
-   "eligible_wins": 201347,
+   "eligible_total": 481528,
+   "eligible_wins": 242499,
    "items": [
     {
-     "games": 57077,
+     "games": 77826,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 31831
+     "wins": 43306
     },
     {
-     "games": 148620,
+     "games": 167974,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 75621
+     "wins": 85427
     },
     {
-     "games": 112417,
+     "games": 137377,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 54953
+     "wins": 66985
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -947,39 +947,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 478425,
-   "total_wins": 239275
+   "total": 575828,
+   "total_wins": 288266
   }
  },
  "127": {
   "3081": {
    "baseline": {
-    "games": 1346179,
-    "wins": 658639
+    "games": 1611202,
+    "wins": 788331
    },
-   "eligible_total": 73633,
-   "eligible_wins": 37224,
+   "eligible_total": 88391,
+   "eligible_wins": 44654,
    "items": [
     {
-     "games": 8696,
+     "games": 11839,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 4626
+     "wins": 6251
     },
     {
-     "games": 28033,
+     "games": 32358,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 14594
+     "wins": 16873
     },
     {
-     "games": 12434,
+     "games": 14990,
      "item": "3118",
      "low_sample": false,
      "name": "残疫",
-     "wins": 5867
+     "wins": 7096
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -989,39 +989,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 94266,
-   "total_wins": 48100
+   "total": 113175,
+   "total_wins": 57742
   }
  },
  "13": {
   "3081": {
    "baseline": {
-    "games": 5092207,
-    "wins": 2649741
+    "games": 6092314,
+    "wins": 3170788
    },
-   "eligible_total": 439316,
-   "eligible_wins": 241391,
+   "eligible_total": 526369,
+   "eligible_wins": 289823,
    "items": [
     {
-     "games": 242443,
+     "games": 294882,
      "item": "6657",
      "low_sample": false,
      "name": "时光之杖",
-     "wins": 137272
+     "wins": 167150
     },
     {
-     "games": 86526,
+     "games": 104452,
      "item": "3003",
      "low_sample": false,
      "name": "大天使之杖",
-     "wins": 48326
+     "wins": 58395
     },
     {
-     "games": 45652,
+     "games": 51048,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 22912
+     "wins": 25636
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1031,39 +1031,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 474456,
-   "total_wins": 259090
+   "total": 568882,
+   "total_wins": 311201
   }
  },
  "131": {
   "3081": {
    "baseline": {
-    "games": 1552915,
-    "wins": 737702
+    "games": 1887073,
+    "wins": 895414
    },
-   "eligible_total": 80531,
-   "eligible_wins": 38367,
+   "eligible_total": 97264,
+   "eligible_wins": 46225,
    "items": [
     {
-     "games": 21242,
+     "games": 26066,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 10852
+     "wins": 13273
     },
     {
-     "games": 13282,
+     "games": 17423,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 6283
+     "wins": 8171
     },
     {
-     "games": 27096,
+     "games": 31000,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 12625
+     "wins": 14418
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1073,39 +1073,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 103414,
-   "total_wins": 49610
+   "total": 124966,
+   "total_wins": 59838
   }
  },
  "133": {
   "3081": {
    "baseline": {
-    "games": 1005454,
-    "wins": 468933
+    "games": 1204583,
+    "wins": 561851
    },
-   "eligible_total": 60661,
-   "eligible_wins": 31253,
+   "eligible_total": 72807,
+   "eligible_wins": 37655,
    "items": [
     {
-     "games": 9499,
+     "games": 10727,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 5010
+     "wins": 5629
     },
     {
-     "games": 9620,
+     "games": 10581,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 4965
+     "wins": 5449
     },
     {
-     "games": 17974,
+     "games": 21570,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 9015
+     "wins": 10868
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1115,39 +1115,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 78302,
-   "total_wins": 40098
+   "total": 94047,
+   "total_wins": 48340
   }
  },
  "134": {
   "3081": {
    "baseline": {
-    "games": 2936612,
-    "wins": 1486198
+    "games": 3545929,
+    "wins": 1793478
    },
-   "eligible_total": 208219,
-   "eligible_wins": 106733,
+   "eligible_total": 250647,
+   "eligible_wins": 128531,
    "items": [
     {
-     "games": 35213,
+     "games": 48261,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 19144
+     "wins": 26210
     },
     {
-     "games": 83587,
+     "games": 95421,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 43481
+     "wins": 49568
     },
     {
-     "games": 33134,
+     "games": 39780,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 15943
+     "wins": 19139
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1157,39 +1157,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 273154,
-   "total_wins": 140551
+   "total": 329916,
+   "total_wins": 169918
   }
  },
  "136": {
   "3081": {
    "baseline": {
-    "games": 5495620,
-    "wins": 2776860
+    "games": 6606602,
+    "wins": 3337007
    },
-   "eligible_total": 626534,
-   "eligible_wins": 316772,
+   "eligible_total": 752357,
+   "eligible_wins": 380336,
    "items": [
     {
-     "games": 210140,
+     "games": 244009,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 106764
+     "wins": 124039
     },
     {
-     "games": 79132,
+     "games": 91122,
      "item": "3135",
      "low_sample": false,
      "name": "虚空之杖",
-     "wins": 39745
+     "wins": 45840
     },
     {
-     "games": 88942,
+     "games": 109439,
      "item": "6657",
      "low_sample": false,
      "name": "时光之杖",
-     "wins": 43135
+     "wins": 53040
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1199,39 +1199,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 694385,
-   "total_wins": 349681
+   "total": 835178,
+   "total_wins": 420537
   }
  },
  "14": {
   "3081": {
    "baseline": {
-    "games": 2384250,
-    "wins": 1224846
+    "games": 2858090,
+    "wins": 1467169
    },
-   "eligible_total": 67824,
-   "eligible_wins": 33692,
+   "eligible_total": 81641,
+   "eligible_wins": 40528,
    "items": [
     {
-     "games": 48425,
+     "games": 58236,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 24636
+     "wins": 29627
     },
     {
-     "games": 6154,
+     "games": 7429,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 2909
+     "wins": 3504
     },
     {
-     "games": 2434,
+     "games": 2718,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 1094
+     "wins": 1216
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1241,39 +1241,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 100869,
-   "total_wins": 51279
+   "total": 121193,
+   "total_wins": 61506
   }
  },
  "141": {
   "3081": {
    "baseline": {
-    "games": 3454146,
-    "wins": 1807896
+    "games": 4197379,
+    "wins": 2194741
    },
-   "eligible_total": 297543,
-   "eligible_wins": 170313,
+   "eligible_total": 360786,
+   "eligible_wins": 206429,
    "items": [
     {
-     "games": 105114,
+     "games": 136204,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 61697
+     "wins": 79871
     },
     {
-     "games": 58414,
+     "games": 63641,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 33876
+     "wins": 36850
     },
     {
-     "games": 106063,
+     "games": 127535,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 59630
+     "wins": 71721
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1283,39 +1283,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 372823,
-   "total_wins": 211443
+   "total": 452140,
+   "total_wins": 256389
   }
  },
  "142": {
   "3081": {
    "baseline": {
-    "games": 1138171,
-    "wins": 544550
+    "games": 1404846,
+    "wins": 670840
    },
-   "eligible_total": 60598,
-   "eligible_wins": 29072,
+   "eligible_total": 74005,
+   "eligible_wins": 35420,
    "items": [
     {
-     "games": 10565,
+     "games": 14615,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 5343
+     "wins": 7351
     },
     {
-     "games": 25805,
+     "games": 29858,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 12514
+     "wins": 14468
     },
     {
-     "games": 12922,
+     "games": 15882,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 5835
+     "wins": 7151
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1325,39 +1325,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 80310,
-   "total_wins": 38729
+   "total": 98181,
+   "total_wins": 47263
   }
  },
  "143": {
   "3081": {
    "baseline": {
-    "games": 2038402,
-    "wins": 1027537
+    "games": 2440076,
+    "wins": 1229565
    },
-   "eligible_total": 112097,
-   "eligible_wins": 56810,
+   "eligible_total": 134165,
+   "eligible_wins": 67981,
    "items": [
     {
-     "games": 12091,
+     "games": 13740,
      "item": "3135",
      "low_sample": false,
      "name": "虚空之杖",
-     "wins": 6197
+     "wins": 7008
     },
     {
-     "games": 37752,
+     "games": 43480,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 19002
+     "wins": 21920
     },
     {
-     "games": 25114,
+     "games": 30417,
      "item": "2503",
      "low_sample": false,
      "name": "黯炎火炬",
-     "wins": 12604
+     "wins": 15242
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1367,39 +1367,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 126946,
-   "total_wins": 63956
+   "total": 152183,
+   "total_wins": 76694
   }
  },
  "145": {
   "3081": {
    "baseline": {
-    "games": 6561318,
-    "wins": 3170764
+    "games": 7883266,
+    "wins": 3809416
    },
-   "eligible_total": 364750,
-   "eligible_wins": 179471,
+   "eligible_total": 437486,
+   "eligible_wins": 215053,
    "items": [
     {
-     "games": 31774,
-     "item": "4646",
-     "low_sample": false,
-     "name": "风暴狂涌",
-     "wins": 15880
-    },
-    {
-     "games": 149962,
+     "games": 172679,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 74722
+     "wins": 86042
     },
     {
-     "games": 51947,
+     "games": 42696,
+     "item": "4646",
+     "low_sample": false,
+     "name": "风暴狂涌",
+     "wins": 21198
+    },
+    {
+     "games": 62562,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 24692
+     "wins": 29594
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1409,39 +1409,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 427914,
-   "total_wins": 209899
+   "total": 513834,
+   "total_wins": 251870
   }
  },
  "147": {
   "3081": {
    "baseline": {
-    "games": 3544502,
-    "wins": 1844446
+    "games": 4282873,
+    "wins": 2227883
    },
-   "eligible_total": 93946,
-   "eligible_wins": 48237,
+   "eligible_total": 112860,
+   "eligible_wins": 57968,
    "items": [
     {
-     "games": 9750,
-     "item": "2503",
-     "low_sample": false,
-     "name": "黯炎火炬",
-     "wins": 5111
-    },
-    {
-     "games": 10321,
+     "games": 13696,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 5375
+     "wins": 7190
     },
     {
-     "games": 30499,
+     "games": 11895,
+     "item": "2503",
+     "low_sample": false,
+     "name": "黯炎火炬",
+     "wins": 6187
+    },
+    {
+     "games": 34891,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 15559
+     "wins": 17783
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1451,39 +1451,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 107771,
-   "total_wins": 55053
+   "total": 129859,
+   "total_wins": 66434
   }
  },
  "15": {
   "3081": {
    "baseline": {
-    "games": 2288448,
-    "wins": 1070008
+    "games": 2755580,
+    "wins": 1288287
    },
-   "eligible_total": 137861,
-   "eligible_wins": 69321,
+   "eligible_total": 166623,
+   "eligible_wins": 83838,
    "items": [
     {
-     "games": 16241,
+     "games": 21912,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 8363
+     "wins": 11253
     },
     {
-     "games": 34947,
+     "games": 43800,
      "item": "3032",
      "low_sample": false,
      "name": "育恩塔尔荒野箭",
-     "wins": 17753
+     "wins": 22364
     },
     {
-     "games": 24084,
+     "games": 27046,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 12037
+     "wins": 13540
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1493,39 +1493,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 175483,
-   "total_wins": 88461
+   "total": 211932,
+   "total_wins": 106882
   }
  },
  "150": {
   "3081": {
    "baseline": {
-    "games": 2023019,
-    "wins": 937535
+    "games": 2417492,
+    "wins": 1121309
    },
-   "eligible_total": 105682,
-   "eligible_wins": 48761,
+   "eligible_total": 126197,
+   "eligible_wins": 58300,
    "items": [
     {
-     "games": 24598,
+     "games": 30192,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 12536
+     "wins": 15355
     },
     {
-     "games": 27101,
+     "games": 32465,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 13182
+     "wins": 15818
     },
     {
-     "games": 10155,
-     "item": "4645",
+     "games": 11279,
+     "item": "3078",
      "low_sample": false,
-     "name": "影焰",
-     "wins": 3591
+     "name": "三相之力",
+     "wins": 5235
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1535,39 +1535,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 145369,
-   "total_wins": 68110
+   "total": 173447,
+   "total_wins": 81333
   }
  },
  "154": {
   "3081": {
    "baseline": {
-    "games": 988558,
-    "wins": 448195
+    "games": 1145587,
+    "wins": 520328
    },
-   "eligible_total": 37225,
-   "eligible_wins": 16909,
+   "eligible_total": 43651,
+   "eligible_wins": 19795,
    "items": [
     {
-     "games": 23325,
+     "games": 27362,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 10886
+     "wins": 12733
     },
     {
-     "games": 4412,
+     "games": 5222,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 1995
+     "wins": 2355
     },
     {
-     "games": 3407,
+     "games": 3835,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 1349
+     "wins": 1511
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1577,39 +1577,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 51005,
-   "total_wins": 23374
+   "total": 59743,
+   "total_wins": 27349
   }
  },
  "157": {
   "3081": {
    "baseline": {
-    "games": 5488227,
-    "wins": 3254446
+    "games": 6603257,
+    "wins": 3919954
    },
-   "eligible_total": 335484,
-   "eligible_wins": 198391,
+   "eligible_total": 405290,
+   "eligible_wins": 240361,
    "items": [
     {
-     "games": 73347,
+     "games": 90435,
      "item": "3032",
      "low_sample": false,
      "name": "育恩塔尔荒野箭",
-     "wins": 45596
+     "wins": 56326
     },
     {
-     "games": 65426,
+     "games": 84483,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 40077
+     "wins": 51876
     },
     {
-     "games": 64107,
+     "games": 78659,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 38322
+     "wins": 47098
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1619,39 +1619,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 450762,
-   "total_wins": 263130
+   "total": 543799,
+   "total_wins": 318390
   }
  },
  "16": {
   "3081": {
    "baseline": {
-    "games": 1674594,
-    "wins": 832886
+    "games": 2004741,
+    "wins": 996173
    },
-   "eligible_total": 43300,
-   "eligible_wins": 21726,
+   "eligible_total": 52047,
+   "eligible_wins": 25993,
    "items": [
     {
-     "games": 22823,
+     "games": 27618,
      "item": "6621",
      "low_sample": false,
      "name": "黎明核心",
-     "wins": 11820
+     "wins": 14234
     },
     {
-     "games": 3440,
+     "games": 4114,
      "item": "2526",
      "low_sample": false,
      "name": "耳语头环",
-     "wins": 1771
+     "wins": 2100
     },
     {
-     "games": 7210,
+     "games": 8595,
      "item": "6617",
      "low_sample": false,
      "name": "月石再生器",
-     "wins": 3537
+     "wins": 4184
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1661,39 +1661,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 45934,
-   "total_wins": 22909
+   "total": 55149,
+   "total_wins": 27377
   }
  },
  "161": {
   "3081": {
    "baseline": {
-    "games": 2480145,
-    "wins": 1257805
+    "games": 2973442,
+    "wins": 1507647
    },
-   "eligible_total": 154043,
-   "eligible_wins": 77898,
+   "eligible_total": 184384,
+   "eligible_wins": 93335,
    "items": [
     {
-     "games": 59174,
+     "games": 23831,
+     "item": "4646",
+     "low_sample": false,
+     "name": "风暴狂涌",
+     "wins": 12536
+    },
+    {
+     "games": 67919,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 29973
+     "wins": 34396
     },
     {
-     "games": 18989,
-     "item": "3135",
-     "low_sample": false,
-     "name": "虚空之杖",
-     "wins": 9534
-    },
-    {
-     "games": 19744,
+     "games": 23674,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 9586
+     "wins": 11513
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1703,39 +1703,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 188285,
-   "total_wins": 95300
+   "total": 225981,
+   "total_wins": 114439
   }
  },
  "163": {
   "3081": {
    "baseline": {
-    "games": 1355290,
-    "wins": 671604
+    "games": 1675126,
+    "wins": 829672
    },
-   "eligible_total": 40555,
-   "eligible_wins": 20582,
+   "eligible_total": 50374,
+   "eligible_wins": 25581,
    "items": [
     {
-     "games": 6021,
+     "games": 8505,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 3286
+     "wins": 4612
     },
     {
-     "games": 15332,
+     "games": 18083,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 7934
+     "wins": 9388
     },
     {
-     "games": 5490,
-     "item": "6655",
+     "games": 6822,
+     "item": "2503",
      "low_sample": false,
-     "name": "卢登的回声",
-     "wins": 2557
+     "name": "黯炎火炬",
+     "wins": 3396
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1745,39 +1745,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 50754,
-   "total_wins": 25709
+   "total": 63191,
+   "total_wins": 32066
   }
  },
  "164": {
   "3081": {
    "baseline": {
-    "games": 1407665,
-    "wins": 687865
+    "games": 1671097,
+    "wins": 817191
    },
-   "eligible_total": 81052,
-   "eligible_wins": 41135,
+   "eligible_total": 96633,
+   "eligible_wins": 49193,
    "items": [
     {
-     "games": 45190,
+     "games": 54804,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 24107
+     "wins": 29311
     },
     {
-     "games": 17411,
+     "games": 20776,
      "item": "3078",
      "low_sample": false,
      "name": "三相之力",
-     "wins": 8442
+     "wins": 10078
     },
     {
-     "games": 4822,
+     "games": 5130,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 2313
+     "wins": 2453
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1787,39 +1787,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 118027,
-   "total_wins": 59763
+   "total": 140729,
+   "total_wins": 71395
   }
  },
  "166": {
   "3081": {
    "baseline": {
-    "games": 1425550,
-    "wins": 639606
+    "games": 1707250,
+    "wins": 765768
    },
-   "eligible_total": 136559,
-   "eligible_wins": 64894,
+   "eligible_total": 163108,
+   "eligible_wins": 77622,
    "items": [
     {
-     "games": 25562,
+     "games": 28306,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 12509
+     "wins": 13831
     },
     {
-     "games": 23341,
+     "games": 26425,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 10949
+     "wins": 12427
     },
     {
-     "games": 37753,
+     "games": 44922,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 17689
+     "wins": 21040
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1829,39 +1829,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 177877,
-   "total_wins": 84099
+   "total": 212432,
+   "total_wins": 100526
   }
  },
  "17": {
   "3081": {
    "baseline": {
-    "games": 6494732,
-    "wins": 3482107
+    "games": 7807776,
+    "wins": 4184104
    },
-   "eligible_total": 214331,
-   "eligible_wins": 112540,
+   "eligible_total": 257907,
+   "eligible_wins": 135327,
    "items": [
     {
-     "games": 31166,
+     "games": 37479,
      "item": "3137",
      "low_sample": false,
      "name": "蜕生",
-     "wins": 16565
+     "wins": 19860
     },
     {
-     "games": 45847,
+     "games": 52162,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 24222
+     "wins": 27623
     },
     {
-     "games": 59458,
+     "games": 72234,
      "item": "3118",
      "low_sample": false,
      "name": "残疫",
-     "wins": 31311
+     "wins": 38022
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1871,39 +1871,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 236165,
-   "total_wins": 123396
+   "total": 284338,
+   "total_wins": 148498
   }
  },
  "18": {
   "3081": {
    "baseline": {
-    "games": 3373029,
-    "wins": 1581050
+    "games": 4037287,
+    "wins": 1893156
    },
-   "eligible_total": 250347,
-   "eligible_wins": 127333,
+   "eligible_total": 300947,
+   "eligible_wins": 153563,
    "items": [
     {
-     "games": 52892,
+     "games": 66299,
      "item": "3032",
      "low_sample": false,
      "name": "育恩塔尔荒野箭",
-     "wins": 27063
+     "wins": 34039
     },
     {
-     "games": 46599,
+     "games": 51680,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 23613
+     "wins": 26245
     },
     {
-     "games": 45081,
+     "games": 53460,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 22547
+     "wins": 26731
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1913,39 +1913,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 317833,
-   "total_wins": 161469
+   "total": 381948,
+   "total_wins": 194526
   }
  },
  "19": {
   "3081": {
    "baseline": {
-    "games": 1065162,
-    "wins": 530279
+    "games": 1279440,
+    "wins": 636881
    },
-   "eligible_total": 53430,
-   "eligible_wins": 27000,
+   "eligible_total": 64590,
+   "eligible_wins": 32701,
    "items": [
     {
-     "games": 8182,
+     "games": 10194,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 4362
+     "wins": 5448
     },
     {
-     "games": 16119,
+     "games": 19875,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 8433
+     "wins": 10441
     },
     {
-     "games": 10885,
+     "games": 13118,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 5202
+     "wins": 6281
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1955,39 +1955,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 72178,
-   "total_wins": 36813
+   "total": 87126,
+   "total_wins": 44450
   }
  },
  "2": {
   "3081": {
    "baseline": {
-    "games": 1062006,
-    "wins": 513202
+    "games": 1289779,
+    "wins": 623264
    },
-   "eligible_total": 47180,
-   "eligible_wins": 24032,
+   "eligible_total": 57735,
+   "eligible_wins": 29377,
    "items": [
     {
-     "games": 21976,
+     "games": 27394,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 11620
+     "wins": 14518
     },
     {
-     "games": 5442,
-     "item": "6631",
-     "low_sample": false,
-     "name": "挺进破坏者",
-     "wins": 2741
-    },
-    {
-     "games": 5742,
+     "games": 7085,
      "item": "3073",
      "low_sample": false,
      "name": "海克斯注力刚壁",
-     "wins": 2868
+     "wins": 3537
+    },
+    {
+     "games": 6574,
+     "item": "6631",
+     "low_sample": false,
+     "name": "挺进破坏者",
+     "wins": 3261
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -1997,39 +1997,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 60437,
-   "total_wins": 30772
+   "total": 73812,
+   "total_wins": 37604
   }
  },
  "20": {
   "3081": {
    "baseline": {
-    "games": 1131946,
-    "wins": 523170
+    "games": 1364632,
+    "wins": 630910
    },
-   "eligible_total": 56468,
-   "eligible_wins": 26429,
+   "eligible_total": 68229,
+   "eligible_wins": 31907,
    "items": [
     {
-     "games": 7076,
+     "games": 8662,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 3439
+     "wins": 4224
     },
     {
-     "games": 12858,
+     "games": 16847,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 6213
+     "wins": 8089
     },
     {
-     "games": 18872,
+     "games": 21704,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 8762
+     "wins": 10072
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2039,39 +2039,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 73068,
-   "total_wins": 34527
+   "total": 88317,
+   "total_wins": 41705
   }
  },
  "200": {
   "3081": {
    "baseline": {
-    "games": 2160570,
-    "wins": 1191746
+    "games": 2607503,
+    "wins": 1437565
    },
-   "eligible_total": 184009,
-   "eligible_wins": 106544,
+   "eligible_total": 222940,
+   "eligible_wins": 129327,
    "items": [
     {
-     "games": 52200,
+     "games": 63249,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 31852
+     "wins": 38659
     },
     {
-     "games": 42045,
+     "games": 54356,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 25213
+     "wins": 32576
     },
     {
-     "games": 27991,
+     "games": 33606,
      "item": "6672",
      "low_sample": false,
      "name": "海妖杀手",
-     "wins": 15372
+     "wins": 18444
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2081,32 +2081,32 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 228495,
-   "total_wins": 132081
+   "total": 276707,
+   "total_wins": 160133
   }
  },
  "201": {
   "3081": {
    "baseline": {
-    "games": 847318,
-    "wins": 407660
+    "games": 1007191,
+    "wins": 484408
    },
-   "eligible_total": 18358,
-   "eligible_wins": 8759,
+   "eligible_total": 21867,
+   "eligible_wins": 10418,
    "items": [
     {
-     "games": 3796,
+     "games": 4596,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 1842
+     "wins": 2211
     },
     {
-     "games": 11679,
+     "games": 13911,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 5500
+     "wins": 6548
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2116,39 +2116,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 28083,
-   "total_wins": 13643
+   "total": 33340,
+   "total_wins": 16183
   }
  },
  "202": {
   "3081": {
    "baseline": {
-    "games": 6080740,
-    "wins": 2961703
+    "games": 7328130,
+    "wins": 3568105
    },
-   "eligible_total": 414598,
-   "eligible_wins": 217746,
+   "eligible_total": 499176,
+   "eligible_wins": 261951,
    "items": [
     {
-     "games": 74624,
+     "games": 83636,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 41456
+     "wins": 46443
     },
     {
-     "games": 86030,
+     "games": 99206,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 45799
+     "wins": 52856
     },
     {
-     "games": 99325,
+     "games": 120086,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 51146
+     "wins": 61762
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2158,39 +2158,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 562026,
-   "total_wins": 293883
+   "total": 676520,
+   "total_wins": 353332
   }
  },
  "203": {
   "3081": {
    "baseline": {
-    "games": 1467043,
-    "wins": 683301
+    "games": 1766938,
+    "wins": 823617
    },
-   "eligible_total": 117670,
-   "eligible_wins": 58651,
+   "eligible_total": 142379,
+   "eligible_wins": 71219,
    "items": [
     {
-     "games": 20734,
+     "games": 27730,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 11087
+     "wins": 14853
     },
     {
-     "games": 19875,
+     "games": 22078,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 9898
+     "wins": 11000
     },
     {
-     "games": 26205,
+     "games": 31413,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 12853
+     "wins": 15442
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2200,39 +2200,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 146272,
-   "total_wins": 72828
+   "total": 176873,
+   "total_wins": 88396
   }
  },
  "21": {
   "3081": {
    "baseline": {
-    "games": 6622820,
-    "wins": 3342376
+    "games": 7937868,
+    "wins": 4004685
    },
-   "eligible_total": 350944,
-   "eligible_wins": 180874,
+   "eligible_total": 421082,
+   "eligible_wins": 217025,
    "items": [
     {
-     "games": 78047,
+     "games": 89107,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 39523
+     "wins": 45140
     },
     {
-     "games": 29344,
+     "games": 35123,
      "item": "3137",
      "low_sample": false,
      "name": "蜕生",
-     "wins": 14773
+     "wins": 17652
     },
     {
-     "games": 75476,
+     "games": 91441,
      "item": "2503",
      "low_sample": false,
      "name": "黯炎火炬",
-     "wins": 37897
+     "wins": 45940
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2242,39 +2242,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 395212,
-   "total_wins": 203409
+   "total": 474216,
+   "total_wins": 244074
   }
  },
  "22": {
   "3081": {
    "baseline": {
-    "games": 6828750,
-    "wins": 2942721
+    "games": 8214605,
+    "wins": 3539180
    },
-   "eligible_total": 468405,
-   "eligible_wins": 199988,
+   "eligible_total": 565182,
+   "eligible_wins": 241543,
    "items": [
     {
-     "games": 96688,
+     "games": 119511,
      "item": "4628",
      "low_sample": false,
      "name": "视界专注",
-     "wins": 39466
+     "wins": 48792
     },
     {
-     "games": 90774,
+     "games": 109887,
      "item": "4005",
      "low_sample": false,
      "name": "帝国指令",
-     "wins": 36643
+     "wins": 44441
     },
     {
-     "games": 72817,
+     "games": 87668,
      "item": "3118",
      "low_sample": false,
      "name": "残疫",
-     "wins": 29031
+     "wins": 34924
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2284,39 +2284,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 518998,
-   "total_wins": 220997
+   "total": 626200,
+   "total_wins": 266954
   }
  },
  "221": {
   "3081": {
    "baseline": {
-    "games": 1026782,
-    "wins": 485958
+    "games": 1223927,
+    "wins": 579630
    },
-   "eligible_total": 70147,
-   "eligible_wins": 35827,
+   "eligible_total": 83766,
+   "eligible_wins": 42893,
    "items": [
     {
-     "games": 7712,
+     "games": 10241,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 4307
+     "wins": 5706
     },
     {
-     "games": 24302,
+     "games": 29657,
      "item": "3032",
      "low_sample": false,
      "name": "育恩塔尔荒野箭",
-     "wins": 12468
+     "wins": 15250
     },
     {
-     "games": 11691,
+     "games": 12856,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 5944
+     "wins": 6527
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2326,39 +2326,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 85098,
-   "total_wins": 43273
+   "total": 101560,
+   "total_wins": 51820
   }
  },
  "222": {
   "3081": {
    "baseline": {
-    "games": 4448125,
-    "wins": 2134481
+    "games": 5346780,
+    "wins": 2564995
    },
-   "eligible_total": 350248,
-   "eligible_wins": 182502,
+   "eligible_total": 422265,
+   "eligible_wins": 220241,
    "items": [
     {
-     "games": 67311,
+     "games": 84764,
      "item": "3032",
      "low_sample": false,
      "name": "育恩塔尔荒野箭",
-     "wins": 36027
+     "wins": 45306
     },
     {
-     "games": 66131,
+     "games": 73782,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 34351
+     "wins": 38339
     },
     {
-     "games": 62421,
+     "games": 74833,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 32202
+     "wins": 38614
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2368,39 +2368,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 452701,
-   "total_wins": 235741
+   "total": 545217,
+   "total_wins": 284272
   }
  },
  "223": {
   "3081": {
    "baseline": {
-    "games": 6494735,
-    "wins": 3508791
+    "games": 7817348,
+    "wins": 4223306
    },
-   "eligible_total": 282575,
-   "eligible_wins": 157459,
+   "eligible_total": 340800,
+   "eligible_wins": 189745,
    "items": [
     {
-     "games": 222246,
+     "games": 269028,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 127964
+     "wins": 154582
     },
     {
-     "games": 20011,
+     "games": 24208,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 9825
+     "wins": 11875
     },
     {
-     "games": 12629,
+     "games": 14122,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 5791
+     "wins": 6471
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2410,39 +2410,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 369720,
-   "total_wins": 204796
+   "total": 445437,
+   "total_wins": 246692
   }
  },
  "23": {
   "3081": {
    "baseline": {
-    "games": 3177839,
-    "wins": 1647984
+    "games": 3868851,
+    "wins": 2006276
    },
-   "eligible_total": 149271,
-   "eligible_wins": 82634,
+   "eligible_total": 181461,
+   "eligible_wins": 100996,
    "items": [
     {
-     "games": 22930,
+     "games": 30107,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 13957
+     "wins": 18332
     },
     {
-     "games": 31477,
+     "games": 39765,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 19029
+     "wins": 24084
     },
     {
-     "games": 19337,
+     "games": 23399,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 9254
+     "wins": 11238
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2452,39 +2452,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 186998,
-   "total_wins": 103397
+   "total": 227182,
+   "total_wins": 126229
   }
  },
  "233": {
   "3081": {
    "baseline": {
-    "games": 1274770,
-    "wins": 636918
+    "games": 1516322,
+    "wins": 758140
    },
-   "eligible_total": 69560,
-   "eligible_wins": 38704,
+   "eligible_total": 82952,
+   "eligible_wins": 46289,
    "items": [
     {
-     "games": 33373,
+     "games": 41325,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 19572
+     "wins": 24238
     },
     {
-     "games": 7755,
+     "games": 9064,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 4298
+     "wins": 5013
     },
     {
-     "games": 13081,
+     "games": 15355,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 6804
+     "wins": 8014
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2494,15 +2494,15 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 91711,
-   "total_wins": 50821
+   "total": 109348,
+   "total_wins": 60719
   }
  },
  "234": {
   "3081": {
    "baseline": {
-    "games": 2374562,
-    "wins": 1252651
+    "games": 2862095,
+    "wins": 1510204
    },
    "eligible_total": 0,
    "eligible_wins": 0,
@@ -2521,32 +2521,32 @@
  "235": {
   "3081": {
    "baseline": {
-    "games": 4279435,
-    "wins": 1970507
+    "games": 5058833,
+    "wins": 2330614
    },
-   "eligible_total": 269534,
-   "eligible_wins": 130018,
+   "eligible_total": 320884,
+   "eligible_wins": 154796,
    "items": [
     {
-     "games": 38785,
+     "games": 51651,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 19709
+     "wins": 26311
     },
     {
-     "games": 42769,
+     "games": 47388,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 20463
+     "wins": 22626
     },
     {
-     "games": 44271,
+     "games": 52220,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 19592
+     "wins": 23074
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2556,39 +2556,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 338502,
-   "total_wins": 162634
+   "total": 402816,
+   "total_wins": 193512
   }
  },
  "236": {
   "3081": {
    "baseline": {
-    "games": 6622423,
-    "wins": 3440055
+    "games": 7973318,
+    "wins": 4141521
    },
-   "eligible_total": 347905,
-   "eligible_wins": 194085,
+   "eligible_total": 417720,
+   "eligible_wins": 232888,
    "items": [
     {
-     "games": 71934,
+     "games": 80331,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 41318
+     "wins": 46132
     },
     {
-     "games": 94921,
+     "games": 114345,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 53435
+     "wins": 64293
     },
     {
-     "games": 62594,
+     "games": 71840,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 35026
+     "wins": 40232
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2598,39 +2598,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 435979,
-   "total_wins": 242377
+   "total": 523652,
+   "total_wins": 291031
   }
  },
  "238": {
   "3081": {
    "baseline": {
-    "games": 4284206,
-    "wins": 2096344
+    "games": 5092198,
+    "wins": 2494262
    },
-   "eligible_total": 375803,
-   "eligible_wins": 199246,
+   "eligible_total": 447832,
+   "eligible_wins": 237857,
    "items": [
     {
-     "games": 67252,
+     "games": 89675,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 40105
+     "wins": 53253
     },
     {
-     "games": 123993,
+     "games": 138046,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 64960
+     "wins": 72312
     },
     {
-     "games": 133376,
+     "games": 159378,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 68863
+     "wins": 82138
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2640,39 +2640,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 465516,
-   "total_wins": 246333
+   "total": 554871,
+   "total_wins": 294126
   }
  },
  "24": {
   "3081": {
    "baseline": {
-    "games": 3061477,
-    "wins": 1639279
+    "games": 3727248,
+    "wins": 1996100
    },
-   "eligible_total": 136228,
-   "eligible_wins": 76510,
+   "eligible_total": 166351,
+   "eligible_wins": 93785,
    "items": [
     {
-     "games": 47767,
+     "games": 59788,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 29060
+     "wins": 36492
     },
     {
-     "games": 19414,
+     "games": 23692,
      "item": "2510",
      "low_sample": false,
      "name": "黄昏与黎明",
-     "wins": 10633
+     "wins": 12962
     },
     {
-     "games": 19871,
+     "games": 24163,
      "item": "3078",
      "low_sample": false,
      "name": "三相之力",
-     "wins": 10653
+     "wins": 12911
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2682,39 +2682,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 178370,
-   "total_wins": 99673
+   "total": 217846,
+   "total_wins": 122044
   }
  },
  "240": {
   "3081": {
    "baseline": {
-    "games": 590147,
-    "wins": 292878
+    "games": 703583,
+    "wins": 348786
    },
-   "eligible_total": 31232,
-   "eligible_wins": 15505,
+   "eligible_total": 37216,
+   "eligible_wins": 18463,
    "items": [
     {
-     "games": 10473,
+     "games": 12491,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 5391
+     "wins": 6434
     },
     {
-     "games": 3140,
+     "games": 3669,
      "item": "3748",
      "low_sample": false,
      "name": "巨型九头蛇",
-     "wins": 1601
+     "wins": 1864
     },
     {
-     "games": 9794,
+     "games": 12038,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 4658
+     "wins": 5743
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2724,39 +2724,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 43869,
-   "total_wins": 21744
+   "total": 52367,
+   "total_wins": 25969
   }
  },
  "245": {
   "3081": {
    "baseline": {
-    "games": 3861667,
-    "wins": 2137177
+    "games": 4626330,
+    "wins": 2560430
    },
-   "eligible_total": 263763,
-   "eligible_wins": 148971,
+   "eligible_total": 314679,
+   "eligible_wins": 177591,
    "items": [
     {
-     "games": 41362,
+     "games": 55749,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 23780
+     "wins": 32068
     },
     {
-     "games": 128593,
+     "games": 146970,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 73856
+     "wins": 84346
     },
     {
-     "games": 31569,
+     "games": 38255,
      "item": "2510",
      "low_sample": false,
      "name": "黄昏与黎明",
-     "wins": 17594
+     "wins": 21263
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2766,39 +2766,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 332840,
-   "total_wins": 187258
+   "total": 398118,
+   "total_wins": 223874
   }
  },
  "246": {
   "3081": {
    "baseline": {
-    "games": 1806126,
-    "wins": 840847
+    "games": 2165536,
+    "wins": 1008420
    },
-   "eligible_total": 171400,
-   "eligible_wins": 83707,
+   "eligible_total": 205508,
+   "eligible_wins": 100599,
    "items": [
     {
-     "games": 29488,
+     "games": 39449,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 16144
+     "wins": 21595
     },
     {
-     "games": 63243,
+     "games": 71259,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 31296
+     "wins": 35234
     },
     {
-     "games": 58254,
+     "games": 70286,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 27361
+     "wins": 33047
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2808,39 +2808,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 204209,
-   "total_wins": 99050
+   "total": 244859,
+   "total_wins": 118997
   }
  },
  "25": {
   "3081": {
    "baseline": {
-    "games": 4817279,
-    "wins": 2580922
+    "games": 5821474,
+    "wins": 3117398
    },
-   "eligible_total": 138698,
-   "eligible_wins": 74002,
+   "eligible_total": 166843,
+   "eligible_wins": 89027,
    "items": [
     {
-     "games": 48286,
-     "item": "4645",
-     "low_sample": false,
-     "name": "影焰",
-     "wins": 25701
-    },
-    {
-     "games": 16762,
+     "games": 19186,
      "item": "3135",
      "low_sample": false,
      "name": "虚空之杖",
-     "wins": 8920
+     "wins": 10211
     },
     {
-     "games": 29302,
+     "games": 55634,
+     "item": "4645",
+     "low_sample": false,
+     "name": "影焰",
+     "wins": 29570
+    },
+    {
+     "games": 35727,
      "item": "2503",
      "low_sample": false,
      "name": "黯炎火炬",
-     "wins": 15429
+     "wins": 18859
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2850,39 +2850,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 161065,
-   "total_wins": 85542
+   "total": 194101,
+   "total_wins": 103125
   }
  },
  "254": {
   "3081": {
    "baseline": {
-    "games": 1626172,
-    "wins": 770151
+    "games": 1956213,
+    "wins": 926588
    },
-   "eligible_total": 75589,
-   "eligible_wins": 37476,
+   "eligible_total": 91048,
+   "eligible_wins": 45278,
    "items": [
     {
-     "games": 20848,
+     "games": 26983,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 11008
+     "wins": 14267
     },
     {
-     "games": 14387,
+     "games": 15756,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 6978
+     "wins": 7652
     },
     {
-     "games": 19846,
+     "games": 23829,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 9549
+     "wins": 11440
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2892,39 +2892,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 101584,
-   "total_wins": 50398
+   "total": 122487,
+   "total_wins": 60944
   }
  },
  "26": {
   "3081": {
    "baseline": {
-    "games": 2053492,
-    "wins": 1078947
+    "games": 2467885,
+    "wins": 1296148
    },
-   "eligible_total": 122629,
-   "eligible_wins": 63121,
+   "eligible_total": 147566,
+   "eligible_wins": 76007,
    "items": [
     {
-     "games": 13870,
+     "games": 17007,
      "item": "3003",
      "low_sample": false,
      "name": "大天使之杖",
-     "wins": 7667
+     "wins": 9407
     },
     {
-     "games": 15036,
+     "games": 18101,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 7582
+     "wins": 9090
     },
     {
-     "games": 28079,
+     "games": 31851,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 13990
+     "wins": 15847
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2934,39 +2934,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 140308,
-   "total_wins": 71595
+   "total": 169150,
+   "total_wins": 86386
   }
  },
  "266": {
   "3081": {
    "baseline": {
-    "games": 2913251,
-    "wins": 1389834
+    "games": 3506469,
+    "wins": 1671960
    },
-   "eligible_total": 218789,
-   "eligible_wins": 109981,
+   "eligible_total": 264163,
+   "eligible_wins": 132757,
    "items": [
     {
-     "games": 17861,
+     "games": 19089,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 9380
+     "wins": 10030
     },
     {
-     "games": 109897,
+     "games": 136732,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 56566
+     "wins": 70265
     },
     {
-     "games": 55129,
+     "games": 65739,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 26765
+     "wins": 31976
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -2976,39 +2976,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 302453,
-   "total_wins": 151171
+   "total": 364837,
+   "total_wins": 182273
   }
  },
  "267": {
   "3081": {
    "baseline": {
-    "games": 881424,
-    "wins": 437057
+    "games": 1064640,
+    "wins": 528082
    },
-   "eligible_total": 22532,
-   "eligible_wins": 11554,
+   "eligible_total": 27291,
+   "eligible_wins": 14023,
    "items": [
     {
-     "games": 9761,
+     "games": 11918,
      "item": "6621",
      "low_sample": false,
      "name": "黎明核心",
-     "wins": 5139
+     "wins": 6285
     },
     {
-     "games": 2447,
+     "games": 2950,
      "item": "6617",
      "low_sample": false,
      "name": "月石再生器",
-     "wins": 1226
+     "wins": 1491
     },
     {
-     "games": 2272,
+     "games": 2770,
      "item": "4005",
      "low_sample": false,
      "name": "帝国指令",
-     "wins": 1126
+     "wins": 1376
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3018,39 +3018,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 24164,
-   "total_wins": 12355
+   "total": 29240,
+   "total_wins": 14983
   }
  },
  "268": {
   "3081": {
    "baseline": {
-    "games": 1016406,
-    "wins": 485939
+    "games": 1218728,
+    "wins": 582331
    },
-   "eligible_total": 57527,
-   "eligible_wins": 28771,
+   "eligible_total": 68603,
+   "eligible_wins": 34269,
    "items": [
     {
-     "games": 18210,
+     "games": 20692,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 9353
+     "wins": 10659
     },
     {
-     "games": 5153,
+     "games": 5813,
      "item": "3135",
      "low_sample": false,
      "name": "虚空之杖",
-     "wins": 2636
+     "wins": 2964
     },
     {
-     "games": 24663,
+     "games": 30211,
      "item": "3115",
      "low_sample": false,
      "name": "纳什之牙",
-     "wins": 12118
+     "wins": 14839
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3060,39 +3060,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 64131,
-   "total_wins": 32163
+   "total": 76520,
+   "total_wins": 38307
   }
  },
  "27": {
   "3081": {
    "baseline": {
-    "games": 2785523,
-    "wins": 1426996
+    "games": 3336141,
+    "wins": 1708567
    },
-   "eligible_total": 83467,
-   "eligible_wins": 44102,
+   "eligible_total": 100360,
+   "eligible_wins": 53003,
    "items": [
     {
-     "games": 10741,
-     "item": "6653",
-     "low_sample": false,
-     "name": "兰德里的折磨",
-     "wins": 6146
-    },
-    {
-     "games": 11623,
+     "games": 13022,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 6157
+     "wins": 6908
     },
     {
-     "games": 20932,
+     "games": 25428,
      "item": "6657",
      "low_sample": false,
      "name": "时光之杖",
-     "wins": 10875
+     "wins": 13211
+    },
+    {
+     "games": 12896,
+     "item": "3084",
+     "low_sample": false,
+     "name": "心之钢",
+     "wins": 6028
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3102,39 +3102,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 95903,
-   "total_wins": 50423
+   "total": 115303,
+   "total_wins": 60575
   }
  },
  "28": {
   "3081": {
    "baseline": {
-    "games": 498098,
-    "wins": 231409
+    "games": 602465,
+    "wins": 279785
    },
-   "eligible_total": 35856,
-   "eligible_wins": 17774,
+   "eligible_total": 43090,
+   "eligible_wins": 21333,
    "items": [
     {
-     "games": 7588,
+     "games": 10100,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 3912
+     "wins": 5172
     },
     {
-     "games": 16743,
+     "games": 19299,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 8356
+     "wins": 9630
     },
     {
-     "games": 3317,
-     "item": "3135",
+     "games": 3872,
+     "item": "3100",
      "low_sample": false,
-     "name": "虚空之杖",
-     "wins": 1619
+     "name": "巫妖之祸",
+     "wins": 1909
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3144,39 +3144,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 49720,
-   "total_wins": 25024
+   "total": 60001,
+   "total_wins": 30141
   }
  },
  "29": {
   "3081": {
    "baseline": {
-    "games": 3838750,
-    "wins": 1806224
+    "games": 4592954,
+    "wins": 2162706
    },
-   "eligible_total": 326410,
-   "eligible_wins": 171349,
+   "eligible_total": 391354,
+   "eligible_wins": 206096,
    "items": [
     {
-     "games": 52412,
+     "games": 69654,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 29899
+     "wins": 39728
     },
     {
-     "games": 57125,
+     "games": 68103,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 30493
+     "wins": 36382
     },
     {
-     "games": 53600,
+     "games": 59306,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 28226
+     "wins": 31323
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3186,39 +3186,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 413517,
-   "total_wins": 218149
+   "total": 495998,
+   "total_wins": 262364
   }
  },
  "3": {
   "3081": {
    "baseline": {
-    "games": 2762934,
-    "wins": 1427390
+    "games": 3323062,
+    "wins": 1715837
    },
-   "eligible_total": 61113,
-   "eligible_wins": 31676,
+   "eligible_total": 73533,
+   "eligible_wins": 38141,
    "items": [
     {
-     "games": 9858,
+     "games": 11156,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 5231
+     "wins": 5910
     },
     {
-     "games": 5988,
-     "item": "6665",
-     "low_sample": false,
-     "name": "千变者贾修",
-     "wins": 3068
-    },
-    {
-     "games": 29273,
+     "games": 35273,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 14970
+     "wins": 18086
+    },
+    {
+     "games": 7380,
+     "item": "6665",
+     "low_sample": false,
+     "name": "千变者贾修",
+     "wins": 3749
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3228,39 +3228,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 87493,
-   "total_wins": 45819
+   "total": 105115,
+   "total_wins": 55109
   }
  },
  "30": {
   "3081": {
    "baseline": {
-    "games": 5991181,
-    "wins": 2790013
+    "games": 7198055,
+    "wins": 3348666
    },
-   "eligible_total": 542945,
-   "eligible_wins": 257105,
+   "eligible_total": 652065,
+   "eligible_wins": 308092,
    "items": [
     {
-     "games": 169660,
+     "games": 195817,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 85650
+     "wins": 98783
     },
     {
-     "games": 72681,
+     "games": 87807,
      "item": "2503",
      "low_sample": false,
      "name": "黯炎火炬",
-     "wins": 34920
+     "wins": 42135
     },
     {
-     "games": 99545,
+     "games": 120351,
      "item": "3118",
      "low_sample": false,
      "name": "残疫",
-     "wins": 44062
+     "wins": 53246
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3270,39 +3270,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 649973,
-   "total_wins": 309208
+   "total": 781486,
+   "total_wins": 370979
   }
  },
  "31": {
   "3081": {
    "baseline": {
-    "games": 3570454,
-    "wins": 1687001
+    "games": 4327722,
+    "wins": 2044502
    },
-   "eligible_total": 182443,
-   "eligible_wins": 86008,
+   "eligible_total": 222009,
+   "eligible_wins": 104645,
    "items": [
     {
-     "games": 112989,
+     "games": 138100,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 54748
+     "wins": 66802
     },
     {
-     "games": 16227,
+     "games": 19915,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 7691
+     "wins": 9404
     },
     {
-     "games": 17578,
+     "games": 20036,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 7623
+     "wins": 8670
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3312,39 +3312,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 238497,
-   "total_wins": 113846
+   "total": 290055,
+   "total_wins": 138439
   }
  },
  "32": {
   "3081": {
    "baseline": {
-    "games": 1952213,
-    "wins": 954918
+    "games": 2371172,
+    "wins": 1158737
    },
-   "eligible_total": 39114,
-   "eligible_wins": 18732,
+   "eligible_total": 47362,
+   "eligible_wins": 22603,
    "items": [
     {
-     "games": 17968,
+     "games": 21813,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 8856
+     "wins": 10710
     },
     {
-     "games": 4475,
+     "games": 5546,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 2193
+     "wins": 2718
     },
     {
-     "games": 5167,
+     "games": 5898,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 2315
+     "wins": 2638
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3354,39 +3354,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 55276,
-   "total_wins": 26826
+   "total": 66798,
+   "total_wins": 32380
   }
  },
  "33": {
   "3081": {
    "baseline": {
-    "games": 985621,
-    "wins": 458291
+    "games": 1163396,
+    "wins": 540571
    },
-   "eligible_total": 18869,
-   "eligible_wins": 8435,
+   "eligible_total": 22354,
+   "eligible_wins": 10029,
    "items": [
     {
-     "games": 4063,
+     "games": 4739,
      "item": "3075",
      "low_sample": false,
      "name": "荆棘之甲",
-     "wins": 1994
+     "wins": 2336
     },
     {
-     "games": 3869,
+     "games": 4568,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 1740
+     "wins": 2061
     },
     {
-     "games": 9519,
+     "games": 11388,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 4046
+     "wins": 4879
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3396,39 +3396,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 31710,
-   "total_wins": 15002
+   "total": 37378,
+   "total_wins": 17716
   }
  },
  "34": {
   "3081": {
    "baseline": {
-    "games": 1126882,
-    "wins": 511181
+    "games": 1353144,
+    "wins": 613902
    },
-   "eligible_total": 66775,
-   "eligible_wins": 30575,
+   "eligible_total": 80419,
+   "eligible_wins": 36752,
    "items": [
     {
-     "games": 14342,
+     "games": 17585,
      "item": "6657",
      "low_sample": false,
      "name": "时光之杖",
-     "wins": 6654
+     "wins": 8119
     },
     {
-     "games": 8437,
+     "games": 9640,
      "item": "3135",
      "low_sample": false,
      "name": "虚空之杖",
-     "wins": 3901
+     "wins": 4446
     },
     {
-     "games": 20479,
+     "games": 23649,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 9233
+     "wins": 10640
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3438,39 +3438,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 77052,
-   "total_wins": 35210
+   "total": 92987,
+   "total_wins": 42418
   }
  },
  "35": {
   "3081": {
    "baseline": {
-    "games": 4676291,
-    "wins": 2254249
+    "games": 5620460,
+    "wins": 2709956
    },
-   "eligible_total": 295163,
-   "eligible_wins": 144186,
+   "eligible_total": 355231,
+   "eligible_wins": 173869,
    "items": [
     {
-     "games": 30641,
-     "item": "4645",
-     "low_sample": false,
-     "name": "影焰",
-     "wins": 16875
-    },
-    {
-     "games": 65445,
+     "games": 74483,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 29807
+     "wins": 33938
     },
     {
-     "games": 49650,
+     "games": 60562,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 22395
+     "wins": 27414
+    },
+    {
+     "games": 36582,
+     "item": "6676",
+     "low_sample": false,
+     "name": "收集者",
+     "wins": 16455
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3480,39 +3480,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 375061,
-   "total_wins": 181190
+   "total": 451515,
+   "total_wins": 218615
   }
  },
  "350": {
   "3081": {
    "baseline": {
-    "games": 1437399,
-    "wins": 733107
+    "games": 1724551,
+    "wins": 880196
    },
-   "eligible_total": 50218,
-   "eligible_wins": 25222,
+   "eligible_total": 60288,
+   "eligible_wins": 30379,
    "items": [
     {
-     "games": 29166,
+     "games": 35363,
      "item": "6621",
      "low_sample": false,
      "name": "黎明核心",
-     "wins": 15121
+     "wins": 18397
     },
     {
-     "games": 3270,
+     "games": 3982,
      "item": "2526",
      "low_sample": false,
      "name": "耳语头环",
-     "wins": 1668
+     "wins": 2031
     },
     {
-     "games": 6178,
+     "games": 7285,
      "item": "6617",
      "low_sample": false,
      "name": "月石再生器",
-     "wins": 3032
+     "wins": 3557
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3522,32 +3522,32 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 51710,
-   "total_wins": 25872
+   "total": 62055,
+   "total_wins": 31161
   }
  },
  "36": {
   "3081": {
    "baseline": {
-    "games": 3979421,
-    "wins": 2041542
+    "games": 4793101,
+    "wins": 2458643
    },
-   "eligible_total": 204007,
-   "eligible_wins": 104018,
+   "eligible_total": 246682,
+   "eligible_wins": 125728,
    "items": [
     {
-     "games": 162896,
+     "games": 197059,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 85078
+     "wins": 102869
     },
     {
-     "games": 19115,
+     "games": 23165,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 9035
+     "wins": 10921
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3557,39 +3557,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 296877,
-   "total_wins": 152448
+   "total": 358565,
+   "total_wins": 184097
   }
  },
  "360": {
   "3081": {
    "baseline": {
-    "games": 2189735,
-    "wins": 1048331
+    "games": 2626370,
+    "wins": 1257408
    },
-   "eligible_total": 190155,
-   "eligible_wins": 99456,
+   "eligible_total": 228260,
+   "eligible_wins": 119651,
    "items": [
     {
-     "games": 35391,
+     "games": 47075,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 20723
+     "wins": 27526
     },
     {
-     "games": 65332,
+     "games": 78122,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 33719
+     "wins": 40276
     },
     {
-     "games": 29817,
+     "games": 33777,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 15187
+     "wins": 17164
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3599,39 +3599,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 250526,
-   "total_wins": 130074
+   "total": 300688,
+   "total_wins": 156447
   }
  },
  "37": {
   "3081": {
    "baseline": {
-    "games": 1906810,
-    "wins": 1010385
+    "games": 2305689,
+    "wins": 1221210
    },
-   "eligible_total": 63352,
-   "eligible_wins": 34116,
+   "eligible_total": 76384,
+   "eligible_wins": 41139,
    "items": [
     {
-     "games": 32631,
+     "games": 39542,
      "item": "6621",
      "low_sample": false,
      "name": "黎明核心",
-     "wins": 18091
+     "wins": 21939
     },
     {
-     "games": 5056,
+     "games": 6048,
      "item": "2526",
      "low_sample": false,
      "name": "耳语头环",
-     "wins": 2763
+     "wins": 3284
     },
     {
-     "games": 7899,
+     "games": 9473,
      "item": "6617",
      "low_sample": false,
      "name": "月石再生器",
-     "wins": 4188
+     "wins": 5029
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3641,39 +3641,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 68984,
-   "total_wins": 36990
+   "total": 83183,
+   "total_wins": 44613
   }
  },
  "38": {
   "3081": {
    "baseline": {
-    "games": 1652322,
-    "wins": 843086
+    "games": 1974245,
+    "wins": 1007262
    },
-   "eligible_total": 135438,
-   "eligible_wins": 70990,
+   "eligible_total": 161918,
+   "eligible_wins": 84830,
    "items": [
     {
-     "games": 51782,
+     "games": 63036,
      "item": "6657",
      "low_sample": false,
      "name": "时光之杖",
-     "wins": 28295
+     "wins": 34378
     },
     {
-     "games": 38834,
+     "games": 44156,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 19978
+     "wins": 22729
     },
     {
-     "games": 12734,
+     "games": 14378,
      "item": "3135",
      "low_sample": false,
      "name": "虚空之杖",
-     "wins": 6265
+     "wins": 7109
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3683,39 +3683,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 157439,
-   "total_wins": 82040
+   "total": 188537,
+   "total_wins": 98173
   }
  },
  "39": {
   "3081": {
    "baseline": {
-    "games": 2044232,
-    "wins": 1035112
+    "games": 2393071,
+    "wins": 1213074
    },
-   "eligible_total": 126363,
-   "eligible_wins": 70020,
+   "eligible_total": 148268,
+   "eligible_wins": 82301,
    "items": [
     {
-     "games": 58092,
+     "games": 68509,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 34689
+     "wins": 40919
     },
     {
-     "games": 32314,
+     "games": 39057,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 17636
+     "wins": 21395
     },
     {
-     "games": 8030,
+     "games": 9324,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 3818
+     "wins": 4430
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3725,39 +3725,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 170265,
-   "total_wins": 93875
+   "total": 199349,
+   "total_wins": 110053
   }
  },
  "4": {
   "3081": {
    "baseline": {
-    "games": 5638324,
-    "wins": 3206797
+    "games": 6812697,
+    "wins": 3870955
    },
-   "eligible_total": 318159,
-   "eligible_wins": 180604,
+   "eligible_total": 382859,
+   "eligible_wins": 217357,
    "items": [
     {
-     "games": 48049,
+     "games": 65176,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 28660
+     "wins": 38916
     },
     {
-     "games": 121201,
+     "games": 138298,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 69953
+     "wins": 79742
     },
     {
-     "games": 62445,
+     "games": 75228,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 34413
+     "wins": 41358
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3767,39 +3767,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 386788,
-   "total_wins": 219103
+   "total": 466732,
+   "total_wins": 264531
   }
  },
  "40": {
   "3081": {
    "baseline": {
-    "games": 983725,
-    "wins": 519821
+    "games": 1180263,
+    "wins": 623554
    },
-   "eligible_total": 27682,
-   "eligible_wins": 14471,
+   "eligible_total": 33213,
+   "eligible_wins": 17303,
    "items": [
     {
-     "games": 11050,
+     "games": 13366,
      "item": "6621",
      "low_sample": false,
      "name": "黎明核心",
-     "wins": 6174
+     "wins": 7441
     },
     {
-     "games": 2664,
+     "games": 3180,
      "item": "6617",
      "low_sample": false,
      "name": "月石再生器",
-     "wins": 1398
+     "wins": 1662
     },
     {
-     "games": 2629,
+     "games": 2977,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 1275
+     "wins": 1440
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3809,39 +3809,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 29689,
-   "total_wins": 15455
+   "total": 35636,
+   "total_wins": 18491
   }
  },
  "41": {
   "3081": {
    "baseline": {
-    "games": 4256477,
-    "wins": 2085683
+    "games": 5121138,
+    "wins": 2508910
    },
-   "eligible_total": 298051,
-   "eligible_wins": 147826,
+   "eligible_total": 358314,
+   "eligible_wins": 177557,
    "items": [
     {
-     "games": 33904,
+     "games": 45446,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 18962
+     "wins": 25416
     },
     {
-     "games": 65313,
+     "games": 73112,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 33928
+     "wins": 37973
     },
     {
-     "games": 36237,
+     "games": 42033,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 18698
+     "wins": 21608
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3851,32 +3851,32 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 419297,
-   "total_wins": 207787
+   "total": 503601,
+   "total_wins": 249528
   }
  },
  "412": {
   "3081": {
    "baseline": {
-    "games": 3369216,
-    "wins": 1727374
+    "games": 4096537,
+    "wins": 2098080
    },
-   "eligible_total": 73140,
-   "eligible_wins": 36609,
+   "eligible_total": 88726,
+   "eligible_wins": 44262,
    "items": [
     {
-     "games": 13231,
+     "games": 16009,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 6913
+     "wins": 8354
     },
     {
-     "games": 45196,
+     "games": 55092,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 22573
+     "wins": 27412
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3886,39 +3886,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 110369,
-   "total_wins": 57061
+   "total": 133642,
+   "total_wins": 68864
   }
  },
  "42": {
   "3081": {
    "baseline": {
-    "games": 3513165,
-    "wins": 1817784
+    "games": 4270177,
+    "wins": 2208303
    },
-   "eligible_total": 199031,
-   "eligible_wins": 112281,
+   "eligible_total": 242076,
+   "eligible_wins": 136780,
    "items": [
     {
-     "games": 35280,
+     "games": 39391,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 20390
+     "wins": 22743
     },
     {
-     "games": 50745,
+     "games": 61753,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 27875
+     "wins": 33876
     },
     {
-     "games": 36948,
+     "games": 42650,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 19914
+     "wins": 23012
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3928,39 +3928,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 260612,
-   "total_wins": 146336
+   "total": 317001,
+   "total_wins": 178288
   }
  },
  "420": {
   "3081": {
    "baseline": {
-    "games": 1845922,
-    "wins": 874025
+    "games": 2220214,
+    "wins": 1050893
    },
-   "eligible_total": 66155,
-   "eligible_wins": 32161,
+   "eligible_total": 80034,
+   "eligible_wins": 39030,
    "items": [
     {
-     "games": 16684,
+     "games": 20829,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 8773
+     "wins": 10990
     },
     {
-     "games": 3081,
+     "games": 3701,
      "item": "6610",
      "low_sample": false,
      "name": "焚天",
-     "wins": 1472
+     "wins": 1780
     },
     {
-     "games": 35455,
+     "games": 42741,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 16774
+     "wins": 20206
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -3970,39 +3970,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 100515,
-   "total_wins": 49289
+   "total": 121374,
+   "total_wins": 59674
   }
  },
  "421": {
   "3081": {
    "baseline": {
-    "games": 312636,
-    "wins": 156066
+    "games": 375195,
+    "wins": 187176
    },
-   "eligible_total": 18967,
-   "eligible_wins": 9345,
+   "eligible_total": 22735,
+   "eligible_wins": 11231,
    "items": [
     {
-     "games": 6213,
+     "games": 7434,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 3273
+     "wins": 3950
     },
     {
-     "games": 5508,
+     "games": 6841,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 2694
+     "wins": 3360
     },
     {
-     "games": 1664,
+     "games": 1822,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 789
+     "wins": 857
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4012,32 +4012,32 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 25163,
-   "total_wins": 12418
+   "total": 30205,
+   "total_wins": 14889
   }
  },
  "427": {
   "3081": {
    "baseline": {
-    "games": 335222,
-    "wins": 171788
+    "games": 403159,
+    "wins": 206385
    },
-   "eligible_total": 10204,
-   "eligible_wins": 5278,
+   "eligible_total": 12306,
+   "eligible_wins": 6367,
    "items": [
     {
-     "games": 4376,
+     "games": 5299,
      "item": "6621",
      "low_sample": false,
      "name": "黎明核心",
-     "wins": 2420
+     "wins": 2944
     },
     {
-     "games": 1421,
+     "games": 1706,
      "item": "6617",
      "low_sample": false,
      "name": "月石再生器",
-     "wins": 737
+     "wins": 891
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4047,39 +4047,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 10879,
-   "total_wins": 5597
+   "total": 13112,
+   "total_wins": 6749
   }
  },
  "429": {
   "3081": {
    "baseline": {
-    "games": 1381788,
-    "wins": 676189
+    "games": 1668830,
+    "wins": 816818
    },
-   "eligible_total": 114339,
-   "eligible_wins": 61559,
+   "eligible_total": 138658,
+   "eligible_wins": 74891,
    "items": [
     {
-     "games": 48008,
+     "games": 61141,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 27949
+     "wins": 35532
     },
     {
-     "games": 10663,
+     "games": 10792,
+     "item": "3302",
+     "low_sample": false,
+     "name": "界弓",
+     "wins": 5736
+    },
+    {
+     "games": 13200,
      "item": "3087",
      "low_sample": false,
      "name": "斯塔缇克电刃",
-     "wins": 5584
-    },
-    {
-     "games": 9614,
-     "item": "6695",
-     "low_sample": false,
-     "name": "巨蛇之牙",
-     "wins": 4596
+     "wins": 6902
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4089,39 +4089,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 124455,
-   "total_wins": 66565
+   "total": 150777,
+   "total_wins": 80940
   }
  },
  "43": {
   "3081": {
    "baseline": {
-    "games": 1769212,
-    "wins": 860720
+    "games": 2115707,
+    "wins": 1028809
    },
-   "eligible_total": 44490,
-   "eligible_wins": 21278,
+   "eligible_total": 53196,
+   "eligible_wins": 25376,
    "items": [
     {
-     "games": 7017,
+     "games": 8534,
      "item": "6621",
      "low_sample": false,
      "name": "黎明核心",
-     "wins": 3604
+     "wins": 4329
     },
     {
-     "games": 12237,
+     "games": 13896,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 5796
+     "wins": 6546
     },
     {
-     "games": 6060,
+     "games": 7288,
      "item": "3118",
      "low_sample": false,
      "name": "残疫",
-     "wins": 2837
+     "wins": 3409
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4131,39 +4131,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 51526,
-   "total_wins": 24536
+   "total": 61681,
+   "total_wins": 29342
   }
  },
  "432": {
   "3081": {
    "baseline": {
-    "games": 596548,
-    "wins": 277793
+    "games": 692200,
+    "wins": 322652
    },
-   "eligible_total": 17430,
-   "eligible_wins": 8420,
+   "eligible_total": 20448,
+   "eligible_wins": 9939,
    "items": [
     {
-     "games": 3089,
+     "games": 3443,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 1606
+     "wins": 1798
     },
     {
-     "games": 2504,
+     "games": 2960,
      "item": "3087",
      "low_sample": false,
      "name": "斯塔缇克电刃",
-     "wins": 1192
+     "wins": 1421
     },
     {
-     "games": 1448,
+     "games": 1720,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 651
+     "wins": 772
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4173,32 +4173,32 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 20396,
-   "total_wins": 9908
+   "total": 23931,
+   "total_wins": 11688
   }
  },
  "44": {
   "3081": {
    "baseline": {
-    "games": 568495,
-    "wins": 300680
+    "games": 672285,
+    "wins": 355149
    },
-   "eligible_total": 9482,
-   "eligible_wins": 4732,
+   "eligible_total": 11224,
+   "eligible_wins": 5614,
    "items": [
     {
-     "games": 1560,
+     "games": 1875,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 788
+     "wins": 952
     },
     {
-     "games": 5700,
+     "games": 6713,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 2771
+     "wins": 3281
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4208,39 +4208,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 13322,
-   "total_wins": 6928
+   "total": 15750,
+   "total_wins": 8197
   }
  },
  "45": {
   "3081": {
    "baseline": {
-    "games": 3205960,
-    "wins": 1589316
+    "games": 3849317,
+    "wins": 1908105
    },
-   "eligible_total": 235456,
-   "eligible_wins": 114551,
+   "eligible_total": 282625,
+   "eligible_wins": 137581,
    "items": [
     {
-     "games": 37481,
+     "games": 42972,
      "item": "3135",
      "low_sample": false,
      "name": "虚空之杖",
-     "wins": 18229
+     "wins": 20934
     },
     {
-     "games": 75099,
+     "games": 86368,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 36400
+     "wins": 41851
     },
     {
-     "games": 29392,
+     "games": 35893,
      "item": "6657",
      "low_sample": false,
      "name": "时光之杖",
-     "wins": 13946
+     "wins": 17112
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4250,39 +4250,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 278710,
-   "total_wins": 135747
+   "total": 335208,
+   "total_wins": 163424
   }
  },
  "48": {
   "3081": {
    "baseline": {
-    "games": 4720812,
-    "wins": 2411202
+    "games": 5688033,
+    "wins": 2905778
    },
-   "eligible_total": 121404,
-   "eligible_wins": 61605,
+   "eligible_total": 146510,
+   "eligible_wins": 74243,
    "items": [
     {
-     "games": 25938,
+     "games": 31649,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 14832
+     "wins": 18084
     },
     {
-     "games": 24676,
+     "games": 29512,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 12240
+     "wins": 14595
     },
     {
-     "games": 22412,
+     "games": 27339,
      "item": "4005",
      "low_sample": false,
      "name": "帝国指令",
-     "wins": 10444
+     "wins": 12634
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4292,32 +4292,32 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 146503,
-   "total_wins": 74740
+   "total": 176807,
+   "total_wins": 90109
   }
  },
  "497": {
   "3081": {
    "baseline": {
-    "games": 685565,
-    "wins": 324138
+    "games": 828391,
+    "wins": 392051
    },
-   "eligible_total": 11537,
-   "eligible_wins": 5347,
+   "eligible_total": 13958,
+   "eligible_wins": 6484,
    "items": [
     {
-     "games": 1743,
+     "games": 2116,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 817
+     "wins": 1009
     },
     {
-     "games": 6495,
+     "games": 7848,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 2910
+     "wins": 3517
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4327,39 +4327,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 14985,
-   "total_wins": 7078
+   "total": 18083,
+   "total_wins": 8546
   }
  },
  "498": {
   "3081": {
    "baseline": {
-    "games": 2384829,
-    "wins": 1148994
+    "games": 2907758,
+    "wins": 1401405
    },
-   "eligible_total": 152733,
-   "eligible_wins": 80279,
+   "eligible_total": 187042,
+   "eligible_wins": 98613,
    "items": [
     {
-     "games": 28475,
+     "games": 31951,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 15164
+     "wins": 17018
     },
     {
-     "games": 33665,
+     "games": 43341,
      "item": "3032",
      "low_sample": false,
      "name": "育恩塔尔荒野箭",
-     "wins": 17643
+     "wins": 22802
     },
     {
-     "games": 28235,
+     "games": 34213,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 14526
+     "wins": 17667
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4369,39 +4369,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 192057,
-   "total_wins": 101106
+   "total": 235021,
+   "total_wins": 123919
   }
  },
  "5": {
   "3081": {
    "baseline": {
-    "games": 4566129,
-    "wins": 2545700
+    "games": 5511907,
+    "wins": 3073859
    },
-   "eligible_total": 207309,
-   "eligible_wins": 117753,
+   "eligible_total": 251530,
+   "eligible_wins": 142961,
    "items": [
     {
-     "games": 47476,
+     "games": 57737,
      "item": "3087",
      "low_sample": false,
      "name": "斯塔缇克电刃",
-     "wins": 28319
+     "wins": 34354
     },
     {
-     "games": 26891,
+     "games": 32584,
      "item": "2510",
      "low_sample": false,
      "name": "黄昏与黎明",
-     "wins": 15615
+     "wins": 18973
     },
     {
-     "games": 64570,
+     "games": 79984,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 36580
+     "wins": 45356
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4411,39 +4411,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 264113,
-   "total_wins": 149108
+   "total": 320233,
+   "total_wins": 180927
   }
  },
  "50": {
   "3081": {
    "baseline": {
-    "games": 4017020,
-    "wins": 2005224
+    "games": 4825442,
+    "wins": 2407196
    },
-   "eligible_total": 134246,
-   "eligible_wins": 67376,
+   "eligible_total": 161237,
+   "eligible_wins": 80986,
    "items": [
     {
-     "games": 12748,
+     "games": 15449,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 6736
+     "wins": 8142
     },
     {
-     "games": 63019,
+     "games": 75793,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 31326
+     "wins": 37766
     },
     {
-     "games": 15423,
+     "games": 18721,
      "item": "6657",
      "low_sample": false,
      "name": "时光之杖",
-     "wins": 7360
+     "wins": 8947
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4453,39 +4453,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 157009,
-   "total_wins": 78883
+   "total": 188729,
+   "total_wins": 94811
   }
  },
  "51": {
   "3081": {
    "baseline": {
-    "games": 6342323,
-    "wins": 3151774
+    "games": 7627336,
+    "wins": 3788183
    },
-   "eligible_total": 406370,
-   "eligible_wins": 215039,
+   "eligible_total": 489285,
+   "eligible_wins": 259099,
    "items": [
     {
-     "games": 86144,
+     "games": 98019,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 46337
+     "wins": 52825
     },
     {
-     "games": 63012,
-     "item": "6695",
+     "games": 72788,
+     "item": "3032",
      "low_sample": false,
-     "name": "巨蛇之牙",
-     "wins": 33851
+     "name": "育恩塔尔荒野箭",
+     "wins": 38715
     },
     {
-     "games": 80559,
+     "games": 96686,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 41822
+     "wins": 50193
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4495,32 +4495,32 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 522906,
-   "total_wins": 276180
+   "total": 629572,
+   "total_wins": 332582
   }
  },
  "516": {
   "3081": {
    "baseline": {
-    "games": 2021256,
-    "wins": 964622
+    "games": 2413630,
+    "wins": 1151514
    },
-   "eligible_total": 96347,
-   "eligible_wins": 44480,
+   "eligible_total": 115461,
+   "eligible_wins": 53128,
    "items": [
     {
-     "games": 15235,
+     "games": 18310,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 7222
+     "wins": 8645
     },
     {
-     "games": 64600,
+     "games": 77488,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 30030
+     "wins": 35891
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4530,39 +4530,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 146637,
-   "total_wins": 69176
+   "total": 175426,
+   "total_wins": 82658
   }
  },
  "517": {
   "3081": {
    "baseline": {
-    "games": 3775214,
-    "wins": 1881986
+    "games": 4526582,
+    "wins": 2256345
    },
-   "eligible_total": 204741,
-   "eligible_wins": 104650,
+   "eligible_total": 245127,
+   "eligible_wins": 125124,
    "items": [
     {
-     "games": 85048,
+     "games": 97408,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 44316
+     "wins": 50690
     },
     {
-     "games": 22742,
+     "games": 30338,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 11759
+     "wins": 15722
     },
     {
-     "games": 21363,
+     "games": 25848,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 10797
+     "wins": 13034
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4572,39 +4572,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 247273,
-   "total_wins": 126523
+   "total": 296390,
+   "total_wins": 151435
   }
  },
  "518": {
   "3081": {
    "baseline": {
-    "games": 1091338,
-    "wins": 507109
+    "games": 1360655,
+    "wins": 631783
    },
-   "eligible_total": 49800,
-   "eligible_wins": 23099,
+   "eligible_total": 61543,
+   "eligible_wins": 28660,
    "items": [
     {
-     "games": 6581,
+     "games": 9275,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 3227
+     "wins": 4576
     },
     {
-     "games": 18161,
+     "games": 21343,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 8623
+     "wins": 10145
     },
     {
-     "games": 7523,
+     "games": 9283,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 3334
+     "wins": 4146
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4614,39 +4614,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 63259,
-   "total_wins": 29577
+   "total": 78228,
+   "total_wins": 36654
   }
  },
  "523": {
   "3081": {
    "baseline": {
-    "games": 1905786,
-    "wins": 933793
+    "games": 2283659,
+    "wins": 1119108
    },
-   "eligible_total": 146625,
-   "eligible_wins": 76684,
+   "eligible_total": 175567,
+   "eligible_wins": 91920,
    "items": [
     {
-     "games": 29152,
+     "games": 32816,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 15642
+     "wins": 17594
     },
     {
-     "games": 42075,
+     "games": 50133,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 22016
+     "wins": 26313
     },
     {
-     "games": 17494,
-     "item": "6695",
+     "games": 21534,
+     "item": "3032",
      "low_sample": false,
-     "name": "巨蛇之牙",
-     "wins": 9086
+     "name": "育恩塔尔荒野箭",
+     "wins": 10899
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4656,32 +4656,32 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 196860,
-   "total_wins": 102948
+   "total": 235514,
+   "total_wins": 123347
   }
  },
  "526": {
   "3081": {
    "baseline": {
-    "games": 1663187,
-    "wins": 909197
+    "games": 1986335,
+    "wins": 1085631
    },
-   "eligible_total": 36942,
-   "eligible_wins": 19055,
+   "eligible_total": 44250,
+   "eligible_wins": 22803,
    "items": [
     {
-     "games": 26303,
+     "games": 31588,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 13611
+     "wins": 16329
     },
     {
-     "games": 6262,
+     "games": 7476,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 3132
+     "wins": 3742
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4691,39 +4691,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 57528,
-   "total_wins": 30822
+   "total": 68654,
+   "total_wins": 36808
   }
  },
  "53": {
   "3081": {
    "baseline": {
-    "games": 3355585,
-    "wins": 1575014
+    "games": 4048984,
+    "wins": 1900267
    },
-   "eligible_total": 74685,
-   "eligible_wins": 33948,
+   "eligible_total": 90264,
+   "eligible_wins": 41097,
    "items": [
     {
-     "games": 9499,
+     "games": 11602,
      "item": "3118",
      "low_sample": false,
      "name": "残疫",
-     "wins": 4351
+     "wins": 5325
     },
     {
-     "games": 18976,
+     "games": 22793,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 8503
+     "wins": 10288
     },
     {
-     "games": 16086,
+     "games": 18391,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 7039
+     "wins": 8036
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4733,39 +4733,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 97604,
-   "total_wins": 44729
+   "total": 117877,
+   "total_wins": 54090
   }
  },
  "54": {
   "3081": {
    "baseline": {
-    "games": 4962974,
-    "wins": 2425573
+    "games": 5940305,
+    "wins": 2902174
    },
-   "eligible_total": 205731,
-   "eligible_wins": 94926,
+   "eligible_total": 246885,
+   "eligible_wins": 114092,
    "items": [
     {
-     "games": 33311,
+     "games": 40109,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 16022
+     "wins": 19357
     },
     {
-     "games": 61795,
+     "games": 70608,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 28106
+     "wins": 32165
     },
     {
-     "games": 41814,
+     "games": 50519,
      "item": "3118",
      "low_sample": false,
      "name": "残疫",
-     "wins": 18781
+     "wins": 22690
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4775,39 +4775,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 287058,
-   "total_wins": 137021
+   "total": 344267,
+   "total_wins": 164450
   }
  },
  "55": {
   "3081": {
    "baseline": {
-    "games": 3599609,
-    "wins": 1773284
+    "games": 4315353,
+    "wins": 2126307
    },
-   "eligible_total": 400359,
-   "eligible_wins": 203391,
+   "eligible_total": 481644,
+   "eligible_wins": 245212,
    "items": [
     {
-     "games": 57468,
+     "games": 67392,
      "item": "3302",
      "low_sample": false,
      "name": "界弓",
-     "wins": 30552
+     "wins": 35807
     },
     {
-     "games": 63460,
+     "games": 81957,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 33145
+     "wins": 42981
     },
     {
-     "games": 109524,
+     "games": 131361,
      "item": "6672",
      "low_sample": false,
      "name": "海妖杀手",
-     "wins": 55739
+     "wins": 66754
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4817,39 +4817,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 430439,
-   "total_wins": 217981
+   "total": 517689,
+   "total_wins": 262723
   }
  },
  "555": {
   "3081": {
    "baseline": {
-    "games": 2459025,
-    "wins": 1175270
+    "games": 2948471,
+    "wins": 1408604
    },
-   "eligible_total": 332298,
-   "eligible_wins": 169103,
+   "eligible_total": 398052,
+   "eligible_wins": 202337,
    "items": [
     {
-     "games": 145337,
+     "games": 166918,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 75981
+     "wins": 87203
     },
     {
-     "games": 24848,
+     "games": 30399,
      "item": "6696",
      "low_sample": false,
      "name": "公理圆弧",
-     "wins": 12657
+     "wins": 15487
     },
     {
-     "games": 106244,
+     "games": 129703,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 53510
+     "wins": 65287
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4859,39 +4859,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 387794,
-   "total_wins": 196079
+   "total": 464600,
+   "total_wins": 234647
   }
  },
  "56": {
   "3081": {
    "baseline": {
-    "games": 2044729,
-    "wins": 998045
+    "games": 2404697,
+    "wins": 1174609
    },
-   "eligible_total": 122063,
-   "eligible_wins": 64049,
+   "eligible_total": 144091,
+   "eligible_wins": 75795,
    "items": [
     {
-     "games": 23846,
+     "games": 31016,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 13601
+     "wins": 17701
     },
     {
-     "games": 32793,
+     "games": 35945,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 17168
+     "wins": 18799
     },
     {
-     "games": 33526,
+     "games": 39518,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 16824
+     "wins": 19855
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4901,39 +4901,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 155448,
-   "total_wins": 82041
+   "total": 183601,
+   "total_wins": 97153
   }
  },
  "57": {
   "3081": {
    "baseline": {
-    "games": 3639493,
-    "wins": 1818604
+    "games": 4365246,
+    "wins": 2180578
    },
-   "eligible_total": 83179,
-   "eligible_wins": 40684,
+   "eligible_total": 99842,
+   "eligible_wins": 48889,
    "items": [
     {
-     "games": 25539,
+     "games": 30785,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 12655
+     "wins": 15263
     },
     {
-     "games": 10358,
+     "games": 12490,
      "item": "2503",
      "low_sample": false,
      "name": "黯炎火炬",
-     "wins": 5062
+     "wins": 6118
     },
     {
-     "games": 11746,
+     "games": 13302,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 5647
+     "wins": 6412
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4943,39 +4943,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 104771,
-   "total_wins": 51657
+   "total": 125590,
+   "total_wins": 61982
   }
  },
  "58": {
   "3081": {
    "baseline": {
-    "games": 1673309,
-    "wins": 778097
+    "games": 2038228,
+    "wins": 947719
    },
-   "eligible_total": 77506,
-   "eligible_wins": 39427,
+   "eligible_total": 94735,
+   "eligible_wins": 48235,
    "items": [
     {
-     "games": 39486,
+     "games": 49485,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 21640
+     "wins": 27089
     },
     {
-     "games": 7988,
+     "games": 9615,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 3813
+     "wins": 4585
     },
     {
-     "games": 7197,
+     "games": 8756,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 3155
+     "wins": 3807
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -4985,39 +4985,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 100031,
-   "total_wins": 50714
+   "total": 122232,
+   "total_wins": 62018
   }
  },
  "59": {
   "3081": {
    "baseline": {
-    "games": 4533823,
-    "wins": 2100491
+    "games": 5440661,
+    "wins": 2520650
    },
-   "eligible_total": 228666,
-   "eligible_wins": 111677,
+   "eligible_total": 274383,
+   "eligible_wins": 134028,
    "items": [
     {
-     "games": 50163,
+     "games": 65267,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 26040
+     "wins": 33839
     },
     {
-     "games": 51368,
+     "games": 56868,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 25200
+     "wins": 27884
     },
     {
-     "games": 60526,
+     "games": 72620,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 29173
+     "wins": 34948
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5027,39 +5027,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 298821,
-   "total_wins": 146824
+   "total": 358521,
+   "total_wins": 176207
   }
  },
  "6": {
   "3081": {
    "baseline": {
-    "games": 1727247,
-    "wins": 794865
+    "games": 2063129,
+    "wins": 949311
    },
-   "eligible_total": 100830,
-   "eligible_wins": 48254,
+   "eligible_total": 120306,
+   "eligible_wins": 57543,
    "items": [
     {
-     "games": 23898,
+     "games": 29334,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 11897
+     "wins": 14565
     },
     {
-     "games": 52434,
+     "games": 62502,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 25018
+     "wins": 29799
     },
     {
-     "games": 5605,
+     "games": 6568,
      "item": "3748",
      "low_sample": false,
      "name": "巨型九头蛇",
-     "wins": 2650
+     "wins": 3097
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5069,39 +5069,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 134084,
-   "total_wins": 63983
+   "total": 159973,
+   "total_wins": 76346
   }
  },
  "60": {
   "3081": {
    "baseline": {
-    "games": 463868,
-    "wins": 225877
+    "games": 556040,
+    "wins": 270707
    },
-   "eligible_total": 27893,
-   "eligible_wins": 13714,
+   "eligible_total": 33242,
+   "eligible_wins": 16387,
    "items": [
     {
-     "games": 4852,
+     "games": 6433,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 2480
+     "wins": 3284
     },
     {
-     "games": 12255,
+     "games": 13984,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 6190
+     "wins": 7055
     },
     {
-     "games": 4132,
+     "games": 4923,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 1856
+     "wins": 2242
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5111,39 +5111,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 36775,
-   "total_wins": 18348
+   "total": 43833,
+   "total_wins": 21876
   }
  },
  "61": {
   "3081": {
    "baseline": {
-    "games": 2036418,
-    "wins": 990527
+    "games": 2459594,
+    "wins": 1197143
    },
-   "eligible_total": 99771,
-   "eligible_wins": 49904,
+   "eligible_total": 120860,
+   "eligible_wins": 60579,
    "items": [
     {
-     "games": 16481,
+     "games": 22736,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 8704
+     "wins": 12000
     },
     {
-     "games": 37625,
+     "games": 43202,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 19040
+     "wins": 21880
     },
     {
-     "games": 14528,
+     "games": 17591,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 6910
+     "wins": 8422
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5153,39 +5153,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 128908,
-   "total_wins": 64770
+   "total": 156749,
+   "total_wins": 78878
   }
  },
  "62": {
   "3081": {
    "baseline": {
-    "games": 3228554,
-    "wins": 1630866
+    "games": 3859634,
+    "wins": 1951107
    },
-   "eligible_total": 175597,
-   "eligible_wins": 93359,
+   "eligible_total": 209772,
+   "eligible_wins": 111965,
    "items": [
     {
-     "games": 65378,
+     "games": 81790,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 37950
+     "wins": 47533
     },
     {
-     "games": 22805,
-     "item": "6695",
-     "low_sample": false,
-     "name": "巨蛇之牙",
-     "wins": 11749
-    },
-    {
-     "games": 23456,
+     "games": 27733,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 11914
+     "wins": 14078
+    },
+    {
+     "games": 26634,
+     "item": "3084",
+     "low_sample": false,
+     "name": "心之钢",
+     "wins": 12979
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5195,39 +5195,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 228030,
-   "total_wins": 121625
+   "total": 272559,
+   "total_wins": 145923
   }
  },
  "63": {
   "3081": {
    "baseline": {
-    "games": 5586679,
-    "wins": 2716154
+    "games": 6695041,
+    "wins": 3254901
    },
-   "eligible_total": 335595,
-   "eligible_wins": 163215,
+   "eligible_total": 401520,
+   "eligible_wins": 195431,
    "items": [
     {
-     "games": 38856,
+     "games": 44358,
      "item": "3135",
      "low_sample": false,
      "name": "虚空之杖",
-     "wins": 19045
+     "wins": 21726
     },
     {
-     "games": 79257,
+     "games": 95812,
      "item": "2503",
      "low_sample": false,
      "name": "黯炎火炬",
-     "wins": 38531
+     "wins": 46756
     },
     {
-     "games": 114457,
+     "games": 131326,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 55226
+     "wins": 63299
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5237,39 +5237,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 388960,
-   "total_wins": 188617
+   "total": 466096,
+   "total_wins": 226202
   }
  },
  "64": {
   "3081": {
    "baseline": {
-    "games": 3576424,
-    "wins": 1633775
+    "games": 4315094,
+    "wins": 1972061
    },
-   "eligible_total": 256808,
-   "eligible_wins": 126306,
+   "eligible_total": 310385,
+   "eligible_wins": 153053,
    "items": [
     {
-     "games": 81033,
+     "games": 104610,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 43485
+     "wins": 56188
     },
     {
-     "games": 50012,
+     "games": 54882,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 24672
+     "wins": 27052
     },
     {
-     "games": 83793,
+     "games": 100618,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 39320
+     "wins": 47220
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5279,39 +5279,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 351850,
-   "total_wins": 171809
+   "total": 425211,
+   "total_wins": 208031
   }
  },
  "67": {
   "3081": {
    "baseline": {
-    "games": 4472548,
-    "wins": 2262387
+    "games": 5386021,
+    "wins": 2725670
    },
-   "eligible_total": 445424,
-   "eligible_wins": 239174,
+   "eligible_total": 538884,
+   "eligible_wins": 290297,
    "items": [
     {
-     "games": 191503,
+     "games": 244180,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 108024
+     "wins": 137672
     },
     {
-     "games": 35031,
+     "games": 41548,
      "item": "6672",
      "low_sample": false,
      "name": "海妖杀手",
-     "wins": 18484
+     "wins": 21978
     },
     {
-     "games": 36045,
+     "games": 39357,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 18614
+     "wins": 20416
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5321,39 +5321,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 507241,
-   "total_wins": 270547
+   "total": 612730,
+   "total_wins": 327849
   }
  },
  "68": {
   "3081": {
    "baseline": {
-    "games": 3317492,
-    "wins": 1648905
+    "games": 3888183,
+    "wins": 1933843
    },
-   "eligible_total": 197160,
-   "eligible_wins": 102625,
+   "eligible_total": 231533,
+   "eligible_wins": 120385,
    "items": [
     {
-     "games": 86687,
+     "games": 98614,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 45981
+     "wins": 52277
     },
     {
-     "games": 21094,
-     "item": "4646",
-     "low_sample": false,
-     "name": "风暴狂涌",
-     "wins": 11101
-    },
-    {
-     "games": 45683,
+     "games": 53687,
      "item": "6653",
      "low_sample": false,
      "name": "兰德里的折磨",
-     "wins": 23924
+     "wins": 28130
+    },
+    {
+     "games": 27916,
+     "item": "4646",
+     "low_sample": false,
+     "name": "风暴狂涌",
+     "wins": 14610
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5363,39 +5363,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 250510,
-   "total_wins": 131142
+   "total": 294708,
+   "total_wins": 153996
   }
  },
  "69": {
   "3081": {
    "baseline": {
-    "games": 1212462,
-    "wins": 557819
+    "games": 1478522,
+    "wins": 680311
    },
-   "eligible_total": 72465,
-   "eligible_wins": 33184,
+   "eligible_total": 88293,
+   "eligible_wins": 40524,
    "items": [
     {
-     "games": 18378,
+     "games": 22959,
      "item": "6657",
      "low_sample": false,
      "name": "时光之杖",
-     "wins": 8434
+     "wins": 10526
     },
     {
-     "games": 8796,
+     "games": 10140,
      "item": "3135",
      "low_sample": false,
      "name": "虚空之杖",
-     "wins": 4004
+     "wins": 4609
     },
     {
-     "games": 20112,
+     "games": 23389,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 9040
+     "wins": 10534
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5405,39 +5405,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 80608,
-   "total_wins": 36899
+   "total": 98447,
+   "total_wins": 45138
   }
  },
  "7": {
   "3081": {
    "baseline": {
-    "games": 1789517,
-    "wins": 794019
+    "games": 2146271,
+    "wins": 952377
    },
-   "eligible_total": 125596,
-   "eligible_wins": 57319,
+   "eligible_total": 150524,
+   "eligible_wins": 68709,
    "items": [
     {
-     "games": 19933,
+     "games": 26831,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 9576
+     "wins": 12865
     },
     {
-     "games": 52614,
+     "games": 60490,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 24442
+     "wins": 28119
     },
     {
-     "games": 27525,
+     "games": 32923,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 11923
+     "wins": 14235
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5447,39 +5447,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 172112,
-   "total_wins": 79616
+   "total": 206505,
+   "total_wins": 95630
   }
  },
  "711": {
   "3081": {
    "baseline": {
-    "games": 1255045,
-    "wins": 624128
+    "games": 1512896,
+    "wins": 751873
    },
-   "eligible_total": 70305,
-   "eligible_wins": 36157,
+   "eligible_total": 84241,
+   "eligible_wins": 43294,
    "items": [
     {
-     "games": 8796,
+     "games": 11966,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 4743
+     "wins": 6439
     },
     {
-     "games": 27074,
+     "games": 31131,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 14315
+     "wins": 16485
     },
     {
-     "games": 14457,
+     "games": 17424,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 7097
+     "wins": 8496
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5489,39 +5489,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 89591,
-   "total_wins": 46307
+   "total": 107400,
+   "total_wins": 55465
   }
  },
  "72": {
   "3081": {
    "baseline": {
-    "games": 947267,
-    "wins": 460587
+    "games": 1147042,
+    "wins": 557812
    },
-   "eligible_total": 20560,
-   "eligible_wins": 10076,
+   "eligible_total": 24802,
+   "eligible_wins": 12081,
    "items": [
     {
-     "games": 1986,
+     "games": 2427,
      "item": "6653",
      "low_sample": false,
      "name": "兰德里的折磨",
-     "wins": 1068
+     "wins": 1288
     },
     {
-     "games": 11237,
+     "games": 13600,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 5527
+     "wins": 6649
     },
     {
-     "games": 2860,
+     "games": 3463,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 1374
+     "wins": 1656
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5531,39 +5531,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 29671,
-   "total_wins": 14716
+   "total": 35743,
+   "total_wins": 17684
   }
  },
  "74": {
   "3081": {
    "baseline": {
-    "games": 1623280,
-    "wins": 825454
+    "games": 1947749,
+    "wins": 990096
    },
-   "eligible_total": 93643,
-   "eligible_wins": 49312,
+   "eligible_total": 112208,
+   "eligible_wins": 59086,
    "items": [
     {
-     "games": 11077,
+     "games": 12631,
      "item": "3135",
      "low_sample": false,
      "name": "虚空之杖",
-     "wins": 6006
+     "wins": 6856
     },
     {
-     "games": 32818,
+     "games": 38035,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 17536
+     "wins": 20299
     },
     {
-     "games": 19012,
+     "games": 23055,
      "item": "2503",
      "low_sample": false,
      "name": "黯炎火炬",
-     "wins": 9625
+     "wins": 11686
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5573,39 +5573,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 111278,
-   "total_wins": 58597
+   "total": 133610,
+   "total_wins": 70379
   }
  },
  "75": {
   "3081": {
    "baseline": {
-    "games": 2810053,
-    "wins": 1421652
+    "games": 3373499,
+    "wins": 1705597
    },
-   "eligible_total": 119244,
-   "eligible_wins": 58426,
+   "eligible_total": 144150,
+   "eligible_wins": 70631,
    "items": [
     {
-     "games": 35479,
+     "games": 44405,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 18230
+     "wins": 22811
     },
     {
-     "games": 12828,
+     "games": 15505,
      "item": "3078",
      "low_sample": false,
      "name": "三相之力",
-     "wins": 6487
+     "wins": 7823
     },
     {
-     "games": 17439,
+     "games": 21030,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 7916
+     "wins": 9499
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5615,39 +5615,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 165591,
-   "total_wins": 82078
+   "total": 200033,
+   "total_wins": 99100
   }
  },
  "76": {
   "3081": {
    "baseline": {
-    "games": 3431833,
-    "wins": 1612750
+    "games": 4122694,
+    "wins": 1936408
    },
-   "eligible_total": 194678,
-   "eligible_wins": 90807,
+   "eligible_total": 233761,
+   "eligible_wins": 109004,
    "items": [
     {
-     "games": 25576,
+     "games": 34689,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 12362
+     "wins": 16704
     },
     {
-     "games": 83191,
+     "games": 95874,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 39447
+     "wins": 45418
     },
     {
-     "games": 37073,
+     "games": 44668,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 16686
+     "wins": 20049
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5657,39 +5657,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 244666,
-   "total_wins": 114550
+   "total": 294408,
+   "total_wins": 137777
   }
  },
  "77": {
   "3081": {
    "baseline": {
-    "games": 2482349,
-    "wins": 1210118
+    "games": 2964917,
+    "wins": 1444361
    },
-   "eligible_total": 120860,
-   "eligible_wins": 60239,
+   "eligible_total": 144316,
+   "eligible_wins": 71982,
    "items": [
     {
-     "games": 13130,
+     "games": 17953,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 6773
+     "wins": 9296
     },
     {
-     "games": 53945,
+     "games": 62067,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 27638
+     "wins": 31798
     },
     {
-     "games": 13558,
+     "games": 16271,
      "item": "3118",
      "low_sample": false,
      "name": "残疫",
-     "wins": 6328
+     "wins": 7573
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5699,39 +5699,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 156178,
-   "total_wins": 78219
+   "total": 186462,
+   "total_wins": 93426
   }
  },
  "777": {
   "3081": {
    "baseline": {
-    "games": 4705116,
-    "wins": 2665195
+    "games": 5672577,
+    "wins": 3216941
    },
-   "eligible_total": 275864,
-   "eligible_wins": 161953,
+   "eligible_total": 334522,
+   "eligible_wins": 197066,
    "items": [
     {
-     "games": 90450,
+     "games": 111013,
      "item": "3032",
      "low_sample": false,
      "name": "育恩塔尔荒野箭",
-     "wins": 55091
+     "wins": 67681
     },
     {
-     "games": 59559,
+     "games": 76333,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 35967
+     "wins": 46131
     },
     {
-     "games": 52699,
+     "games": 65161,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 31386
+     "wins": 38864
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5741,39 +5741,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 385217,
-   "total_wins": 224024
+   "total": 466297,
+   "total_wins": 272023
   }
  },
  "78": {
   "3081": {
    "baseline": {
-    "games": 1549768,
-    "wins": 825519
+    "games": 1850865,
+    "wins": 986048
    },
-   "eligible_total": 52998,
-   "eligible_wins": 27110,
+   "eligible_total": 63537,
+   "eligible_wins": 32528,
    "items": [
     {
-     "games": 8321,
+     "games": 10015,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 4377
+     "wins": 5284
     },
     {
-     "games": 34894,
+     "games": 41868,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 17885
+     "wins": 21451
     },
     {
-     "games": 2793,
+     "games": 3523,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 1384
+     "wins": 1724
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5783,39 +5783,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 82412,
-   "total_wins": 44482
+   "total": 98600,
+   "total_wins": 53223
   }
  },
  "79": {
   "3081": {
    "baseline": {
-    "games": 2166097,
-    "wins": 1069115
+    "games": 2657871,
+    "wins": 1310212
    },
-   "eligible_total": 103717,
-   "eligible_wins": 51807,
+   "eligible_total": 126612,
+   "eligible_wins": 63232,
    "items": [
     {
-     "games": 15149,
+     "games": 20846,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 8136
+     "wins": 11128
     },
     {
-     "games": 39381,
+     "games": 45316,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 19946
+     "wins": 22985
     },
     {
-     "games": 13374,
+     "games": 16519,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 6317
+     "wins": 7815
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5825,39 +5825,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 135483,
-   "total_wins": 68149
+   "total": 165517,
+   "total_wins": 83180
   }
  },
  "799": {
   "3081": {
    "baseline": {
-    "games": 2417542,
-    "wins": 1274630
+    "games": 2923393,
+    "wins": 1541564
    },
-   "eligible_total": 227328,
-   "eligible_wins": 131587,
+   "eligible_total": 275334,
+   "eligible_wins": 159728,
    "items": [
     {
-     "games": 118870,
+     "games": 148963,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 71032
+     "wins": 89270
     },
     {
-     "games": 24229,
+     "games": 25915,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 14303
+     "wins": 15302
     },
     {
-     "games": 65861,
+     "games": 78708,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 36985
+     "wins": 44211
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5867,39 +5867,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 288842,
-   "total_wins": 166354
+   "total": 349999,
+   "total_wins": 201876
   }
  },
  "8": {
   "3081": {
    "baseline": {
-    "games": 3230122,
-    "wins": 1553195
+    "games": 3883398,
+    "wins": 1866178
    },
-   "eligible_total": 195775,
-   "eligible_wins": 98388,
+   "eligible_total": 235356,
+   "eligible_wins": 118338,
    "items": [
     {
-     "games": 50947,
+     "games": 57499,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 26004
+     "wins": 29334
     },
     {
-     "games": 32488,
+     "games": 39671,
      "item": "4633",
      "low_sample": false,
      "name": "裂隙制造者",
-     "wins": 16075
+     "wins": 19596
     },
     {
-     "games": 36586,
+     "games": 44949,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 17963
+     "wins": 22105
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5909,39 +5909,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 232434,
-   "total_wins": 117081
+   "total": 279807,
+   "total_wins": 140985
   }
  },
  "80": {
   "3081": {
    "baseline": {
-    "games": 3205863,
-    "wins": 1614573
+    "games": 3858717,
+    "wins": 1943522
    },
-   "eligible_total": 187117,
-   "eligible_wins": 100310,
+   "eligible_total": 225471,
+   "eligible_wins": 121181,
    "items": [
     {
-     "games": 48765,
+     "games": 63524,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 28515
+     "wins": 37117
     },
     {
-     "games": 37820,
+     "games": 41451,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 20188
+     "wins": 22129
     },
     {
-     "games": 54468,
+     "games": 65308,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 28142
+     "wins": 33744
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5951,39 +5951,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 252827,
-   "total_wins": 135630
+   "total": 304855,
+   "total_wins": 163987
   }
  },
  "800": {
   "3081": {
    "baseline": {
-    "games": 2957488,
-    "wins": 1439082
+    "games": 3520347,
+    "wins": 1712336
    },
-   "eligible_total": 164391,
-   "eligible_wins": 82249,
+   "eligible_total": 195372,
+   "eligible_wins": 97921,
    "items": [
     {
-     "games": 19665,
+     "games": 26295,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 10224
+     "wins": 13729
     },
     {
-     "games": 63924,
+     "games": 72907,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 32386
+     "wins": 36936
     },
     {
-     "games": 26881,
+     "games": 32157,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 13011
+     "wins": 15610
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -5993,39 +5993,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 198843,
-   "total_wins": 99477
+   "total": 236791,
+   "total_wins": 118709
   }
  },
  "804": {
   "3081": {
    "baseline": {
-    "games": 3503938,
-    "wins": 1738015
+    "games": 4208731,
+    "wins": 2088669
    },
-   "eligible_total": 245688,
-   "eligible_wins": 130325,
+   "eligible_total": 296337,
+   "eligible_wins": 157556,
    "items": [
     {
-     "games": 35173,
+     "games": 47152,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 20515
+     "wins": 27395
     },
     {
-     "games": 67621,
+     "games": 84135,
      "item": "3032",
      "low_sample": false,
      "name": "育恩塔尔荒野箭",
-     "wins": 35897
+     "wins": 44690
     },
     {
-     "games": 39566,
+     "games": 43484,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 20148
+     "wins": 22182
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6035,39 +6035,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 306969,
-   "total_wins": 162381
+   "total": 370219,
+   "total_wins": 196425
   }
  },
  "805": {
   "3081": {
    "baseline": {
-    "games": 2054335,
-    "wins": 951633
+    "games": 2485860,
+    "wins": 1150251
    },
-   "eligible_total": 182378,
-   "eligible_wins": 88309,
+   "eligible_total": 220213,
+   "eligible_wins": 106542,
    "items": [
     {
-     "games": 87044,
+     "games": 100363,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 43535
+     "wins": 50146
     },
     {
-     "games": 36380,
+     "games": 49095,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 17758
+     "wins": 23921
     },
     {
-     "games": 28208,
+     "games": 34293,
      "item": "3100",
      "low_sample": false,
      "name": "巫妖之祸",
-     "wins": 13159
+     "wins": 16016
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6077,39 +6077,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 248903,
-   "total_wins": 121277
+   "total": 301572,
+   "total_wins": 146928
   }
  },
  "81": {
   "3081": {
    "baseline": {
-    "games": 6012851,
-    "wins": 2786702
+    "games": 7265482,
+    "wins": 3367786
    },
-   "eligible_total": 349703,
-   "eligible_wins": 164788,
+   "eligible_total": 423380,
+   "eligible_wins": 199937,
    "items": [
     {
-     "games": 65964,
+     "games": 87295,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 35522
+     "wins": 46932
     },
     {
-     "games": 53143,
+     "games": 58333,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 25448
+     "wins": 27941
     },
     {
-     "games": 36577,
+     "games": 42082,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 15936
+     "wins": 18248
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6119,39 +6119,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 417561,
-   "total_wins": 196306
+   "total": 505477,
+   "total_wins": 238084
   }
  },
  "82": {
   "3081": {
    "baseline": {
-    "games": 3006554,
-    "wins": 1404744
+    "games": 3655929,
+    "wins": 1707246
    },
-   "eligible_total": 142755,
-   "eligible_wins": 67758,
+   "eligible_total": 173129,
+   "eligible_wins": 82251,
    "items": [
     {
-     "games": 28493,
+     "games": 34922,
      "item": "4633",
      "low_sample": false,
      "name": "裂隙制造者",
-     "wins": 13907
+     "wins": 17055
     },
     {
-     "games": 40365,
+     "games": 49300,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 19173
+     "wins": 23433
     },
     {
-     "games": 20849,
+     "games": 23575,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 9631
+     "wins": 10878
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6161,39 +6161,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 174593,
-   "total_wins": 83127
+   "total": 211510,
+   "total_wins": 100675
   }
  },
  "83": {
   "3081": {
    "baseline": {
-    "games": 475004,
-    "wins": 213673
+    "games": 546451,
+    "wins": 246760
    },
-   "eligible_total": 20002,
-   "eligible_wins": 9230,
+   "eligible_total": 23250,
+   "eligible_wins": 10756,
    "items": [
     {
-     "games": 7795,
+     "games": 9017,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 3646
+     "wins": 4229
     },
     {
-     "games": 4278,
+     "games": 5198,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 1998
+     "wins": 2430
     },
     {
-     "games": 1351,
+     "games": 1451,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 599
+     "wins": 657
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6203,39 +6203,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 27405,
-   "total_wins": 12542
+   "total": 31843,
+   "total_wins": 14605
   }
  },
  "84": {
   "3081": {
    "baseline": {
-    "games": 1763509,
-    "wins": 786049
+    "games": 2161756,
+    "wins": 963387
    },
-   "eligible_total": 141859,
-   "eligible_wins": 66613,
+   "eligible_total": 173800,
+   "eligible_wins": 81619,
    "items": [
     {
-     "games": 29571,
+     "games": 37412,
      "item": "3146",
      "low_sample": false,
      "name": "海克斯科技枪刃",
-     "wins": 14670
+     "wins": 18587
     },
     {
-     "games": 60319,
+     "games": 70612,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 28389
+     "wins": 33203
     },
     {
-     "games": 23326,
+     "games": 31361,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 10869
+     "wins": 14649
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6245,39 +6245,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 194414,
-   "total_wins": 91956
+   "total": 238365,
+   "total_wins": 112702
   }
  },
  "85": {
   "3081": {
    "baseline": {
-    "games": 1322683,
-    "wins": 593879
+    "games": 1544421,
+    "wins": 694535
    },
-   "eligible_total": 66555,
-   "eligible_wins": 30859,
+   "eligible_total": 78313,
+   "eligible_wins": 36494,
    "items": [
     {
-     "games": 29284,
-     "item": "4645",
-     "low_sample": false,
-     "name": "影焰",
-     "wins": 13905
-    },
-    {
-     "games": 14521,
+     "games": 18572,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 6828
+     "wins": 8830
     },
     {
-     "games": 5998,
-     "item": "3135",
+     "games": 33173,
+     "item": "4645",
      "low_sample": false,
-     "name": "虚空之杖",
-     "wins": 2684
+     "name": "影焰",
+     "wins": 15747
+    },
+    {
+     "games": 6977,
+     "item": "3152",
+     "low_sample": false,
+     "name": "海克斯科技火箭腰带",
+     "wins": 3089
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6287,39 +6287,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 88200,
-   "total_wins": 41155
+   "total": 103840,
+   "total_wins": 48734
   }
  },
  "86": {
   "3081": {
    "baseline": {
-    "games": 3185214,
-    "wins": 1455040
+    "games": 3816855,
+    "wins": 1742966
    },
-   "eligible_total": 133471,
-   "eligible_wins": 65011,
+   "eligible_total": 160425,
+   "eligible_wins": 78310,
    "items": [
     {
-     "games": 30914,
+     "games": 39576,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 16697
+     "wins": 21404
     },
     {
-     "games": 23250,
+     "games": 28057,
      "item": "6631",
      "low_sample": false,
      "name": "挺进破坏者",
-     "wins": 11505
+     "wins": 13867
     },
     {
-     "games": 23672,
+     "games": 28519,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 10483
+     "wins": 12644
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6329,39 +6329,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 183800,
-   "total_wins": 89681
+   "total": 220853,
+   "total_wins": 108090
   }
  },
  "875": {
   "3081": {
    "baseline": {
-    "games": 4902145,
-    "wins": 2503575
+    "games": 5903812,
+    "wins": 3014620
    },
-   "eligible_total": 249344,
-   "eligible_wins": 131115,
+   "eligible_total": 301423,
+   "eligible_wins": 158326,
    "items": [
     {
-     "games": 117528,
+     "games": 142077,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 64164
+     "wins": 77540
     },
     {
-     "games": 46554,
+     "games": 59539,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 25007
+     "wins": 31904
     },
     {
-     "games": 22590,
+     "games": 27225,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 10528
+     "wins": 12635
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6371,39 +6371,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 322708,
-   "total_wins": 170315
+   "total": 389419,
+   "total_wins": 205289
   }
  },
  "876": {
   "3081": {
    "baseline": {
-    "games": 3832034,
-    "wins": 2065914
+    "games": 4591574,
+    "wins": 2474917
    },
-   "eligible_total": 303575,
-   "eligible_wins": 167208,
+   "eligible_total": 362946,
+   "eligible_wins": 199862,
    "items": [
     {
-     "games": 93233,
+     "games": 105221,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 52061
+     "wins": 58729
     },
     {
-     "games": 33371,
+     "games": 45039,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 18362
+     "wins": 24809
     },
     {
-     "games": 73059,
+     "games": 87732,
      "item": "2503",
      "low_sample": false,
      "name": "黯炎火炬",
-     "wins": 39356
+     "wins": 47297
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6413,39 +6413,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 340106,
-   "total_wins": 186837
+   "total": 407579,
+   "total_wins": 223880
   }
  },
  "887": {
   "3081": {
    "baseline": {
-    "games": 1943244,
-    "wins": 1104659
+    "games": 2381881,
+    "wins": 1353938
    },
-   "eligible_total": 136050,
-   "eligible_wins": 79246,
+   "eligible_total": 166244,
+   "eligible_wins": 96728,
    "items": [
     {
-     "games": 51216,
+     "games": 59164,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 30410
+     "wins": 35125
     },
     {
-     "games": 20948,
+     "games": 26872,
      "item": "2510",
      "low_sample": false,
      "name": "黄昏与黎明",
-     "wins": 12436
+     "wins": 15860
     },
     {
-     "games": 20639,
+     "games": 25613,
      "item": "3115",
      "low_sample": false,
      "name": "纳什之牙",
-     "wins": 11758
+     "wins": 14603
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6455,39 +6455,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 154111,
-   "total_wins": 89625
+   "total": 188621,
+   "total_wins": 109555
   }
  },
  "888": {
   "3081": {
    "baseline": {
-    "games": 917557,
-    "wins": 465597
+    "games": 1108831,
+    "wins": 562772
    },
-   "eligible_total": 44897,
-   "eligible_wins": 22835,
+   "eligible_total": 54312,
+   "eligible_wins": 27697,
    "items": [
     {
-     "games": 9166,
+     "games": 11224,
      "item": "6621",
      "low_sample": false,
      "name": "黎明核心",
-     "wins": 4824
+     "wins": 5902
     },
     {
-     "games": 10158,
+     "games": 12248,
      "item": "4005",
      "low_sample": false,
      "name": "帝国指令",
-     "wins": 5239
+     "wins": 6276
     },
     {
-     "games": 9174,
+     "games": 11125,
      "item": "3118",
      "low_sample": false,
      "name": "残疫",
-     "wins": 4600
+     "wins": 5594
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6497,32 +6497,32 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 48547,
-   "total_wins": 24637
+   "total": 58715,
+   "total_wins": 29888
   }
  },
  "89": {
   "3081": {
    "baseline": {
-    "games": 2460662,
-    "wins": 1267939
+    "games": 2931220,
+    "wins": 1509610
    },
-   "eligible_total": 47109,
-   "eligible_wins": 22638,
+   "eligible_total": 56251,
+   "eligible_wins": 27003,
    "items": [
     {
-     "games": 33770,
+     "games": 40375,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 16368
+     "wins": 19520
     },
     {
-     "games": 8503,
+     "games": 10145,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 3949
+     "wins": 4716
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6532,39 +6532,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 78222,
-   "total_wins": 39417
+   "total": 93129,
+   "total_wins": 46913
   }
  },
  "893": {
   "3081": {
    "baseline": {
-    "games": 2628306,
-    "wins": 1328939
+    "games": 3203737,
+    "wins": 1618752
    },
-   "eligible_total": 195520,
-   "eligible_wins": 103278,
+   "eligible_total": 236381,
+   "eligible_wins": 124873,
    "items": [
     {
-     "games": 38371,
+     "games": 52608,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 21246
+     "wins": 29016
     },
     {
-     "games": 88130,
+     "games": 100891,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 47413
+     "wins": 54291
     },
     {
-     "games": 26344,
+     "games": 31984,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 12791
+     "wins": 15498
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6574,39 +6574,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 244376,
-   "total_wins": 129640
+   "total": 295787,
+   "total_wins": 156948
   }
  },
  "895": {
   "3081": {
    "baseline": {
-    "games": 459139,
-    "wins": 238054
+    "games": 580415,
+    "wins": 299769
    },
-   "eligible_total": 22188,
-   "eligible_wins": 12428,
+   "eligible_total": 27659,
+   "eligible_wins": 15461,
    "items": [
     {
-     "games": 3476,
+     "games": 4668,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 2002
+     "wins": 2691
     },
     {
-     "games": 6752,
+     "games": 8377,
      "item": "6676",
      "low_sample": false,
      "name": "收集者",
-     "wins": 3872
+     "wins": 4778
     },
     {
-     "games": 3216,
+     "games": 3683,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 1725
+     "wins": 1979
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6616,39 +6616,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 29420,
-   "total_wins": 16472
+   "total": 36758,
+   "total_wins": 20502
   }
  },
  "897": {
   "3081": {
    "baseline": {
-    "games": 1480177,
-    "wins": 657742
+    "games": 1766866,
+    "wins": 784617
    },
-   "eligible_total": 54164,
-   "eligible_wins": 23634,
+   "eligible_total": 64641,
+   "eligible_wins": 28151,
    "items": [
     {
-     "games": 17210,
+     "games": 20527,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 7894
+     "wins": 9366
     },
     {
-     "games": 2872,
+     "games": 3467,
      "item": "6662",
      "low_sample": false,
      "name": "冰脉护手",
-     "wins": 1260
+     "wins": 1524
     },
     {
-     "games": 27294,
+     "games": 32587,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 11413
+     "wins": 13629
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6658,39 +6658,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 85989,
-   "total_wins": 39446
+   "total": 102471,
+   "total_wins": 46951
   }
  },
  "9": {
   "3081": {
    "baseline": {
-    "games": 1849217,
-    "wins": 890665
+    "games": 2219133,
+    "wins": 1068224
    },
-   "eligible_total": 98653,
-   "eligible_wins": 47963,
+   "eligible_total": 118454,
+   "eligible_wins": 57703,
    "items": [
     {
-     "games": 36449,
+     "games": 42176,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 18197
+     "wins": 21095
     },
     {
-     "games": 10116,
-     "item": "3135",
+     "games": 11919,
+     "item": "4646",
      "low_sample": false,
-     "name": "虚空之杖",
-     "wins": 5000
+     "name": "风暴狂涌",
+     "wins": 5945
     },
     {
-     "games": 26282,
+     "games": 31703,
      "item": "3118",
      "low_sample": false,
      "name": "残疫",
-     "wins": 12374
+     "wins": 14930
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6700,39 +6700,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 124590,
-   "total_wins": 61213
+   "total": 149835,
+   "total_wins": 73757
   }
  },
  "90": {
   "3081": {
    "baseline": {
-    "games": 2914336,
-    "wins": 1496528
+    "games": 3488564,
+    "wins": 1791311
    },
-   "eligible_total": 210200,
-   "eligible_wins": 108149,
+   "eligible_total": 251384,
+   "eligible_wins": 129417,
    "items": [
     {
-     "games": 49721,
-     "item": "2503",
-     "low_sample": false,
-     "name": "黯炎火炬",
-     "wins": 25602
-    },
-    {
-     "games": 74554,
+     "games": 86007,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 38328
+     "wins": 44295
     },
     {
-     "games": 26736,
+     "games": 60184,
+     "item": "2503",
+     "low_sample": false,
+     "name": "黯炎火炬",
+     "wins": 30882
+    },
+    {
+     "games": 30537,
      "item": "3135",
      "low_sample": false,
      "name": "虚空之杖",
-     "wins": 13644
+     "wins": 15567
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6742,39 +6742,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 239643,
-   "total_wins": 123167
+   "total": 287281,
+   "total_wins": 147737
   }
  },
  "901": {
   "3081": {
    "baseline": {
-    "games": 5282669,
-    "wins": 2604520
+    "games": 6429171,
+    "wins": 3168152
    },
-   "eligible_total": 406841,
-   "eligible_wins": 210065,
+   "eligible_total": 493795,
+   "eligible_wins": 255579,
    "items": [
     {
-     "games": 82921,
+     "games": 109735,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 47191
+     "wins": 62587
     },
     {
-     "games": 79521,
+     "games": 90864,
      "item": "3036",
      "low_sample": false,
      "name": "多米尼克领主的致意",
-     "wins": 40716
+     "wins": 46515
     },
     {
-     "games": 83367,
+     "games": 102490,
      "item": "3508",
      "low_sample": false,
      "name": "夺萃之镰",
-     "wins": 41412
+     "wins": 50926
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6784,39 +6784,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 513430,
-   "total_wins": 263926
+   "total": 623316,
+   "total_wins": 321179
   }
  },
  "902": {
   "3081": {
    "baseline": {
-    "games": 1080643,
-    "wins": 539061
+    "games": 1298063,
+    "wins": 647721
    },
-   "eligible_total": 32842,
-   "eligible_wins": 16674,
+   "eligible_total": 39478,
+   "eligible_wins": 20147,
    "items": [
     {
-     "games": 10524,
+     "games": 12862,
      "item": "6621",
      "low_sample": false,
      "name": "黎明核心",
-     "wins": 5742
+     "wins": 7020
     },
     {
-     "games": 3154,
+     "games": 3744,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 1486
+     "wins": 1788
     },
     {
-     "games": 5867,
+     "games": 6680,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 2721
+     "wins": 3131
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6826,39 +6826,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 36154,
-   "total_wins": 18258
+   "total": 43463,
+   "total_wins": 22043
   }
  },
  "904": {
   "3081": {
    "baseline": {
-    "games": 1715892,
-    "wins": 947659
+    "games": 2070862,
+    "wins": 1144646
    },
-   "eligible_total": 90465,
-   "eligible_wins": 53345,
+   "eligible_total": 109432,
+   "eligible_wins": 64697,
    "items": [
     {
-     "games": 52456,
+     "games": 64766,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 32278
+     "wins": 39948
     },
     {
-     "games": 13521,
+     "games": 16053,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 7576
+     "wins": 9021
     },
     {
-     "games": 6797,
+     "games": 8142,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 3603
+     "wins": 4321
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6868,39 +6868,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 120280,
-   "total_wins": 70456
+   "total": 145462,
+   "total_wins": 85447
   }
  },
  "91": {
   "3081": {
    "baseline": {
-    "games": 2668987,
-    "wins": 1316156
+    "games": 3198894,
+    "wins": 1577473
    },
-   "eligible_total": 230840,
-   "eligible_wins": 125209,
+   "eligible_total": 276361,
+   "eligible_wins": 150013,
    "items": [
     {
-     "games": 39897,
+     "games": 53711,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 24093
+     "wins": 32351
     },
     {
-     "games": 77601,
+     "games": 86697,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 42360
+     "wins": 47288
     },
     {
-     "games": 78764,
+     "games": 94621,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 41230
+     "wins": 49438
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6910,39 +6910,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 299227,
-   "total_wins": 162038
+   "total": 358245,
+   "total_wins": 194149
   }
  },
  "910": {
   "3081": {
    "baseline": {
-    "games": 2208190,
-    "wins": 1158875
+    "games": 2641929,
+    "wins": 1386754
    },
-   "eligible_total": 145142,
-   "eligible_wins": 76811,
+   "eligible_total": 173036,
+   "eligible_wins": 91700,
    "items": [
     {
-     "games": 18703,
+     "games": 25077,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 10360
+     "wins": 13931
     },
     {
-     "games": 28893,
+     "games": 34911,
      "item": "2503",
      "low_sample": false,
      "name": "黯炎火炬",
-     "wins": 15271
+     "wins": 18404
     },
     {
-     "games": 54674,
+     "games": 62324,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 28642
+     "wins": 32654
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6952,39 +6952,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 175140,
-   "total_wins": 92441
+   "total": 209370,
+   "total_wins": 110538
   }
  },
  "92": {
   "3081": {
    "baseline": {
-    "games": 1424911,
-    "wins": 699398
+    "games": 1705464,
+    "wins": 837546
    },
-   "eligible_total": 96427,
-   "eligible_wins": 51792,
+   "eligible_total": 115480,
+   "eligible_wins": 62191,
    "items": [
     {
-     "games": 47389,
+     "games": 58639,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 26889
+     "wins": 33290
     },
     {
-     "games": 8806,
+     "games": 9414,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 4671
+     "wins": 4988
     },
     {
-     "games": 25320,
+     "games": 29909,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 13191
+     "wins": 15606
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -6994,39 +6994,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 122159,
-   "total_wins": 65278
+   "total": 146304,
+   "total_wins": 78355
   }
  },
  "950": {
   "3081": {
    "baseline": {
-    "games": 1741636,
-    "wins": 791887
+    "games": 2128656,
+    "wins": 966825
    },
-   "eligible_total": 138211,
-   "eligible_wins": 68469,
+   "eligible_total": 169349,
+   "eligible_wins": 83899,
    "items": [
     {
-     "games": 37166,
+     "games": 49734,
      "item": "2517",
      "low_sample": false,
      "name": "无穷饥渴",
-     "wins": 19587
+     "wins": 26229
     },
     {
-     "games": 35367,
+     "games": 39617,
      "item": "6695",
      "low_sample": false,
      "name": "巨蛇之牙",
-     "wins": 17721
+     "wins": 19774
     },
     {
-     "games": 49327,
+     "games": 60228,
      "item": "126697",
      "low_sample": false,
      "name": "狂妄",
-     "wins": 23529
+     "wins": 28680
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -7036,39 +7036,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 182020,
-   "total_wins": 90001
+   "total": 222916,
+   "total_wins": 110207
   }
  },
  "96": {
   "3081": {
    "baseline": {
-    "games": 2298131,
-    "wins": 1113507
+    "games": 2741097,
+    "wins": 1327895
    },
-   "eligible_total": 176123,
-   "eligible_wins": 89852,
+   "eligible_total": 210808,
+   "eligible_wins": 107789,
    "items": [
     {
-     "games": 43488,
+     "games": 55714,
      "item": "3153",
      "low_sample": false,
      "name": "破败王者之刃",
-     "wins": 23291
+     "wins": 29860
     },
     {
-     "games": 13026,
-     "item": "3124",
-     "low_sample": false,
-     "name": "鬼索的狂暴之刃",
-     "wins": 6593
-    },
-    {
-     "games": 33684,
+     "games": 37681,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 17035
+     "wins": 19129
+    },
+    {
+     "games": 15513,
+     "item": "3124",
+     "low_sample": false,
+     "name": "鬼索的狂暴之刃",
+     "wins": 7852
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -7078,32 +7078,32 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 193353,
-   "total_wins": 98550
+   "total": 231440,
+   "total_wins": 118155
   }
  },
  "98": {
   "3081": {
    "baseline": {
-    "games": 2118196,
-    "wins": 1087185
+    "games": 2541397,
+    "wins": 1304718
    },
-   "eligible_total": 42118,
-   "eligible_wins": 21252,
+   "eligible_total": 50958,
+   "eligible_wins": 25774,
    "items": [
     {
-     "games": 31487,
+     "games": 38096,
      "item": "3084",
      "low_sample": false,
      "name": "心之钢",
-     "wins": 16251
+     "wins": 19726
     },
     {
-     "games": 5521,
+     "games": 6757,
      "item": "6665",
      "low_sample": false,
      "name": "千变者贾修",
-     "wins": 2572
+     "wins": 3158
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -7113,39 +7113,39 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 63595,
-   "total_wins": 32897
+   "total": 76529,
+   "total_wins": 39649
   }
  },
  "99": {
   "3081": {
    "baseline": {
-    "games": 3160090,
-    "wins": 1502967
+    "games": 3817560,
+    "wins": 1814670
    },
-   "eligible_total": 85651,
-   "eligible_wins": 41216,
+   "eligible_total": 103428,
+   "eligible_wins": 49696,
    "items": [
     {
-     "games": 10994,
+     "games": 15021,
      "item": "4646",
      "low_sample": false,
      "name": "风暴狂涌",
-     "wins": 5538
+     "wins": 7508
     },
     {
-     "games": 29987,
+     "games": 34648,
      "item": "4645",
      "low_sample": false,
      "name": "影焰",
-     "wins": 14523
+     "wins": 16728
     },
     {
-     "games": 14493,
+     "games": 17438,
      "item": "6655",
      "low_sample": false,
      "name": "卢登的回声",
-     "wins": 6814
+     "wins": 8218
     }
    ],
    "note": "样本太少，暂无装备参考",
@@ -7155,8 +7155,8 @@
    "show_sample_size": false,
    "show_winrate": true,
    "source": "stats",
-   "total": 105990,
-   "total_wins": 51157
+   "total": 128212,
+   "total_wins": 61788
   }
  }
 }
