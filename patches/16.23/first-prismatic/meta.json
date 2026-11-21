@@ -1,0 +1,166 @@
+{
+ "augment_exposure": "对局结束时持有；同一玩家六个槽位去重，任意槽位持有即计入",
+ "builds": [
+  "16.23.839.6851"
+ ],
+ "components": {
+  "augments": "same-window",
+  "destiny": {
+   "baseline": "same hero all valid >=240s (16.22)",
+   "builds": [
+    "16.22.834.9083",
+    "16.22.836.1077"
+   ],
+   "end_exclusive": "2026-11-17T18:00:00+08:00",
+   "file": "hero_augment_items.json",
+   "minimum_duration_s": 300,
+   "minimum_games": 1000,
+   "minimum_share": 0.02,
+   "ranking": "top3 usage then raw win rate",
+   "record": "first legendary_items record",
+   "removed_items": [
+    "3032"
+   ],
+   "reused_from": {
+    "mode": "normal",
+    "original": {
+     "patch": "16.22",
+     "seq": 19
+    },
+    "patch": "16.23",
+    "seq": 20
+   },
+   "smoothing": false,
+   "updated_this_release": false
+  },
+  "equipment_holdings": "same-window",
+  "heroes": "same-window",
+  "summoner_spells": "same-window"
+ },
+ "equipment": {
+  "bands": [
+   "all"
+  ],
+  "core_table": "core_builds.json",
+  "denominator": "equipment_heroes.json",
+  "excluded_augment_ids": [
+   1134,
+   1152,
+   1154,
+   1156,
+   1317,
+   1318,
+   1319,
+   1320,
+   1336,
+   1337,
+   1338,
+   1340,
+   1343,
+   1361,
+   1379,
+   1411,
+   1996,
+   2140,
+   2141,
+   2143,
+   2157,
+   3049,
+   3081,
+   3150,
+   7001,
+   7007,
+   7009
+  ],
+  "exclusion_unit": "only the participant holding any excluded augment in final six slots",
+  "minimum_duration_s": 300,
+  "raw_ids_preserved": true,
+  "recommendation_denominator": "equipment_recommendation_heroes.json",
+  "recommendation_participations": 24978456,
+  "recommendation_table": "hero_item_recommendations.json",
+  "tables": {
+   "hero_item_holdings.json": "全部装备（原始ID）",
+   "hero_items.json": "排除装备干扰后的普通成装统计",
+   "hero_items_raw.json": "原口径成装持有审计"
+  },
+  "valid_matches": 3590640
+ },
+ "excluded_augments": {
+  "1337": "任务完成后替换成其他强化，结算持有有偏差",
+  "3176": "五杀摇滚通用记录标记，不是常规可选强化"
+ },
+ "files": {
+  "augments.json": "3d412dc4a3420432ff28c3439193f2c2f940b398ce5f08970ebfe3412b5da421",
+  "core_builds.json": "f1ad44af251d241518ae7c768bea6efabfb19b8834b7e958e30e07eea37679b3",
+  "equipment_heroes.json": "41047fcdfcf2f4a820bb871d44ee28c1db89fbfeb28b7a278be5d81df1447a40",
+  "equipment_recommendation_heroes.json": "78409e98288b90d0b3c810210bf667e6ebd0c236003b9e09d3aae4aed0e72172",
+  "hero_augment_items.json": "13735aee03f3d5a668139fe00c2faed1c92af93400a99bbc9aecb71c4b4a6ab1",
+  "hero_augments.csv": "4b8fee143170b42f3ef8dff22603df8c8437dead5f02d4bed5fd4f3b415407e5",
+  "hero_augments.json": "20efa90d75db1d4244b66c7357100227550644b7ac44fbad4e18f65e9b0f9a02",
+  "hero_item_holdings.json": "7bd3872f5f280500deeed7aee7c19e516238b7fb7d5578eaa60943475a0d8c05",
+  "hero_item_recommendations.json": "e8160697a3a8019b5e807ea0c831c538e7601be7aff1303adb0f334665cab071",
+  "hero_items.json": "e8160697a3a8019b5e807ea0c831c538e7601be7aff1303adb0f334665cab071",
+  "hero_items_raw.json": "1a73772bd2d7d53831d4caa0b6eeea3ac7a8633c9348570e85c47a8718dac2af",
+  "hero_spells.json": "af58aba1b0bae8436a1f626108df7fd23a6cc0c46b9dd926110b93b53d3ede27",
+  "heroes.csv": "89004244992bdbd1bc5f7c1e6e7953f774e4902be9063527ff322cae5944919b",
+  "heroes.json": "c3f1276d408f80659d9351e6c36836eea73c1260a06ae1af9ce7056e5ac674b1",
+  "item_metadata.json": "fabb404c1cf2dfffe0f61c78b98f48be1924bd1bfdabf5fb7a7d1d0dc7f93795"
+ },
+ "hero_participations": 35950060,
+ "heroes": 173,
+ "label": "16.23 版本 · 活动：首次必棱彩",
+ "license": "CC BY-NC 4.0",
+ "limitations": [
+  "统计的是部分对局，不是全服数据。",
+  "对局时长240至14400秒、截止前正常结束（GameComplete）、非私人对局；10名不同真人、无电脑、两队各5人且队内胜负一致，共5胜5负；数据不全的对局不计。",
+  "海克斯按结算六槽持有、同人同ID去重；原始胜率与持有存在相关关系，不代表因果。",
+  "各区直接合并，不加权；少于3000人次标记low_sample，保留原始计数。",
+  "装备使用至少300秒的独立分母；结算六格同人同ID去重，保留原始升级ID。",
+  "命运之武器按传说装备第一条记录统计；先按使用数取三件，再按原始胜率排序。",
+  "命运之武器、三件套不是活动期统计，与16.23常规数据相同（沿用16.22版本）。"
+ ],
+ "low_sample_threshold": 3000,
+ "matches": {
+  "collected": 4205795,
+  "excluded": 610789,
+  "valid": 3595006,
+  "validity_rule": "对局时长240至14400秒、截止前正常结束（GameComplete）、非私人对局；10名不同真人、无电脑、两队各5人且队内胜负一致，共5胜5负；数据不全的对局不计"
+ },
+ "mode": "first-prismatic",
+ "mode_label": "活动：首次必棱彩",
+ "mode_rule": "活动期间，每局第一次海克斯三选一必定是棱彩（【命令行】乐队在场时不生效）。",
+ "notes": [
+  "活动时间2026-11-20 17:00至11-23 10:00（北京时间）；本包截至快照时间，活动还没结束。",
+  "只计首次必棱彩生效的对局：10名玩家中至少9人第一次选择的海克斯是棱彩。五杀乐队对局按第一次实际选择计（跳过乐队格）；【命令行】乐队在场时活动不生效，这类对局不满足上一条的不计。",
+  "本期只有全体数据，不分段（样本不够分段）。",
+  "命运之武器与16.23常规数据（seq20）相同：沿用16.22版本统计（截至2026-11-17 18:00），并去掉育恩塔尔荒野箭。",
+  "三件套与16.23常规数据（seq20）相同（沿用16.22版本）。",
+  "普通装备与三件套排除本人持有装备升级、合成、任务奖励、赠装及装甲冲击强化的人次；排除清单见equipment。",
+  "命运之武器保留目标持有者，装备统计排除共存装备干扰；total保留全部持有者，eligible_total为排除后的分母。",
+  "海克斯稀有度与冻结游戏数据逐个核对一致。"
+ ],
+ "patch": "16.23",
+ "rarity_check": {
+  "checked_ids": 237,
+  "mismatches": 0,
+  "source": "frozen16.23 game-data reference"
+ },
+ "regions": [
+  "联盟三区",
+  "联盟二区",
+  "艾欧尼亚",
+  "黑色玫瑰",
+  "联盟一区",
+  "联盟四区",
+  "联盟五区"
+ ],
+ "regions_combined": true,
+ "schema_version": 1,
+ "snapshot_at": "2026-11-21T08:00:00+08:00",
+ "window": {
+  "end_exclusive": "2026-11-21T08:00:00+08:00",
+  "periods": null,
+  "start": "2026-11-20T17:30:00.006+08:00",
+  "time_field": "2026-11-20 17:30起开局，至截止时间前结束的对局（北京时间）；活动11-20 17:00开始，前30分钟不计"
+ }
+}
